@@ -1,0 +1,247 @@
+{
+  "version": 2,
+  "sources": [
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "label": "Anthropic",
+      "badge_color": "#cc785c",
+      "fetch_method": "custom",
+      "fetcher": "fetch_anthropic",
+      "url": "https://www.anthropic.com/news",
+      "enabled": true
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "label": "OpenAI",
+      "badge_color": "#10a37f",
+      "fetch_method": "rss",
+      "rss_url": "https://openai.com/news/rss.xml",
+      "fallback_url": "https://openai.com/news/",
+      "url": "https://openai.com/news/",
+      "enabled": true
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "label": "Gemini / DeepMind",
+      "badge_color": "#4285f4",
+      "fetch_method": "rss",
+      "rss_urls": [
+        "https://blog.google/technology/ai/rss/",
+        "https://blog.google/innovation-and-ai/rss/",
+        "https://deepmind.google/blog/rss.xml"
+      ],
+      "url": "https://deepmind.google/blog/",
+      "enabled": true
+    },
+    {
+      "id": "meta",
+      "name": "Meta AI",
+      "label": "Meta AI",
+      "badge_color": "#1877F2",
+      "fetch_method": "rss",
+      "rss_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml",
+      "fallback_url": "https://ai.meta.com/blog/",
+      "url": "https://ai.meta.com/blog/",
+      "enabled": true
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft AI",
+      "label": "Microsoft",
+      "badge_color": "#00A4EF",
+      "fetch_method": "rss",
+      "rss_url": "https://blogs.microsoft.com/blog/tag/microsoft-ai/feed/",
+      "fallback_url": "https://blogs.microsoft.com/blog/tag/microsoft-ai/",
+      "url": "https://blogs.microsoft.com/blog/tag/microsoft-ai/",
+      "enabled": true
+    },
+    {
+      "id": "mistral",
+      "name": "Mistral AI",
+      "label": "Mistral",
+      "badge_color": "#FF6B35",
+      "fetch_method": "rss",
+      "rss_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "fallback_url": "https://mistral.ai/news",
+      "url": "https://mistral.ai/news",
+      "enabled": true
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face",
+      "label": "Hugging Face",
+      "badge_color": "#F59E0B",
+      "fetch_method": "rss",
+      "rss_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog",
+      "enabled": true
+    },
+    {
+      "id": "nvidia",
+      "name": "NVIDIA AI",
+      "label": "NVIDIA",
+      "badge_color": "#76B900",
+      "fetch_method": "rss",
+      "rss_url": "https://blogs.nvidia.com/blog/tag/agentic-ai/feed/",
+      "url": "https://blogs.nvidia.com/blog/tag/agentic-ai/",
+      "enabled": true
+    },
+    {
+      "id": "xai",
+      "name": "xAI",
+      "label": "xAI (Grok)",
+      "badge_color": "#1a1a2e",
+      "fetch_method": "scrape",
+      "url": "https://x.ai/news",
+      "scrape_config": {
+        "link_pattern": "/news/",
+        "base_url": "https://x.ai"
+      },
+      "enabled": true
+    },
+    {
+      "id": "minimax",
+      "name": "MiniMax",
+      "label": "MiniMax (海螺AI)",
+      "badge_color": "#10B981",
+      "fetch_method": "scrape",
+      "url": "https://www.minimax.io/news",
+      "scrape_config": {
+        "link_pattern": null,
+        "base_url": "https://www.minimax.io"
+      },
+      "enabled": true
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "label": "DeepSeek",
+      "badge_color": "#4F46E5",
+      "fetch_method": "scrape",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "scrape_config": {
+        "link_pattern": null,
+        "base_url": "https://api-docs.deepseek.com"
+      },
+      "enabled": true
+    },
+    {
+      "id": "zhipu",
+      "name": "Zhipu AI",
+      "label": "智谱 AI (GLM)",
+      "badge_color": "#7C3AED",
+      "fetch_method": "scrape",
+      "url": "https://docs.bigmodel.cn/cn/update/new-releases",
+      "scrape_config": {
+        "link_pattern": null,
+        "base_url": "https://docs.bigmodel.cn"
+      },
+      "enabled": true
+    },
+    {
+      "id": "qwen",
+      "name": "Alibaba Qwen",
+      "label": "千问 (Qwen)",
+      "badge_color": "#FF6A00",
+      "fetch_method": "scrape",
+      "url": "https://qwen.ai/research",
+      "scrape_config": {
+        "link_pattern": null,
+        "base_url": "https://qwen.ai"
+      },
+      "enabled": false,
+      "note": "JS-rendered site, no RSS available. Covered by Hugging Face blog."
+    },
+    {
+      "id": "bytedance",
+      "name": "ByteDance",
+      "label": "字节跳动 (豆包)",
+      "badge_color": "#0D9488",
+      "fetch_method": "scrape",
+      "url": "https://www.volcengine.com/",
+      "scrape_config": {
+        "link_pattern": null,
+        "base_url": "https://www.volcengine.com"
+      },
+      "enabled": true
+    },
+    {
+      "id": "moonshot",
+      "name": "Moonshot AI",
+      "label": "月之暗面 (Kimi)",
+      "badge_color": "#E11D48",
+      "fetch_method": "scrape",
+      "url": "https://kimi-k2.org/zh/blog",
+      "scrape_config": {
+        "link_pattern": "/zh/blog/",
+        "base_url": "https://kimi-k2.org"
+      },
+      "enabled": true
+    },
+    {
+      "id": "baichuan",
+      "name": "Baichuan AI",
+      "label": "百川智能",
+      "badge_color": "#0891B2",
+      "fetch_method": "scrape",
+      "url": "https://www.baichuan-ai.com/",
+      "scrape_config": {
+        "link_pattern": null,
+        "base_url": "https://www.baichuan-ai.com"
+      },
+      "enabled": false,
+      "note": "JS-rendered landing page, no blog. Post via WeChat/media mostly."
+    },
+    {
+      "id": "stepfun",
+      "name": "StepFun",
+      "label": "阶跃星辰",
+      "badge_color": "#D97706",
+      "fetch_method": "scrape",
+      "url": "https://stepfun.com",
+      "scrape_config": {
+        "link_pattern": null,
+        "base_url": "https://stepfun.com"
+      },
+      "enabled": false,
+      "note": "Landing page, no blog index. Release notes at platform.stepfun.com/docs"
+    },
+    {
+      "id": "baidu",
+      "name": "Baidu AI",
+      "label": "百度 (文心)",
+      "badge_color": "#2932E1",
+      "fetch_method": "scrape",
+      "url": "https://cloud.baidu.com/",
+      "scrape_config": {
+        "link_pattern": null,
+        "base_url": "https://cloud.baidu.com"
+      },
+      "enabled": false,
+      "note": "No accessible blog/RSS for ERNIE/Wenxin news."
+    }
+  ],
+  "display_order": [
+    "anthropic",
+    "openai",
+    "gemini",
+    "meta",
+    "microsoft",
+    "mistral",
+    "huggingface",
+    "nvidia",
+    "xai",
+    "minimax",
+    "deepseek",
+    "zhipu",
+    "qwen",
+    "bytedance",
+    "moonshot",
+    "baichuan",
+    "stepfun",
+    "baidu"
+  ]
+}

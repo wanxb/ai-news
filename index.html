@@ -4,82 +4,444 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AI News · Timeline</title>
+<meta name="description" content="Daily AI news timeline — Anthropic, OpenAI, Google, Meta, Microsoft, Mistral, DeepSeek, and more">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="alternate icon" href="favicon.ico">
 <style>
-  * { box-sizing:border-box; }
-  body { margin:0; font-family:-apple-system,"Segoe UI","Microsoft YaHei",sans-serif; background:#eef0f4; color:#1f2329; height:100vh; display:flex; flex-direction:column; overflow:hidden; }
-  header { background:#1f2329; color:#fff; padding:14px 24px; display:flex; align-items:center; gap:12px; flex-shrink:0; }
-  header h1 { font-size:18px; margin:0; font-weight:600; }
-  header .tag { font-size:12px; color:#aab0ba; }
-  .layout { flex:1; display:flex; min-height:0; }
-  /* timeline */
-  .timeline { width:240px; flex-shrink:0; background:#f7f8fa; border-right:1px solid #e2e5ea; overflow-y:auto; padding:20px 0 20px 0; }
-  .tl-item { position:relative; padding:12px 20px 12px 48px; cursor:pointer; transition:background .15s; }
-  .tl-item:hover { background:#eceef2; }
-  .tl-item.active { background:#e7effe; }
-  .tl-item::before { content:""; position:absolute; left:23px; top:0; bottom:0; width:2px; background:#d4d8df; }
-  .tl-item:first-child::before { top:18px; }
-  .tl-item:last-child::before { bottom:calc(100% - 18px); }
-  .tl-dot { position:absolute; left:17px; top:15px; width:14px; height:14px; border-radius:50%; background:#fff; border:3px solid #b6bcc6; z-index:1; transition:border-color .15s; }
-  .tl-item.active .tl-dot { border-color:#1a56db; background:#1a56db; }
-  .tl-date { font-size:15px; font-weight:600; }
-  .tl-week { font-size:12px; color:#9aa0aa; margin-top:2px; }
-  .tl-item.active .tl-date { color:#1a56db; }
-  /* content */
-  .content { flex:1; min-width:0; background:#fff; }
-  .content iframe { width:100%; height:100%; border:none; }
-  .empty { padding:60px; text-align:center; color:#9aa0aa; }
-  @media (max-width:640px){
-    .layout{flex-direction:column;} .timeline{width:100%;height:160px;border-right:none;border-bottom:1px solid #e2e5ea;}
+  *, *::before, *::after { box-sizing: border-box; }
+
+  :root {
+    --parchment:   #f5f4ed;
+    --brand:       #1B365D;
+    --near-black:  #141413;
+    --stone:       #6b6a64;
+    --border:      #e8e6dc;
+    --tl-line:     #ddd9cc;
+    --tl-dot-bg:   #fff;
+    --tl-dot-ring: #c8c4b7;
+    --tl-active:   #1B365D;
+    --serif:  Charter, Georgia, Palatino, "Times New Roman", serif;
+    --sans:   -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  }
+
+  body {
+    margin: 0;
+    font-family: var(--serif);
+    background: var(--parchment);
+    color: var(--near-black);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  /* ── Header ── */
+  header {
+    text-align: center;
+    padding: 18px 16px 4px;
+    background: var(--parchment);
+  }
+  header h1 {
+    font-size: 17px;
+    font-weight: 500;
+    margin: 0;
+    color: var(--near-black);
+  }
+
+  /* ── Main row: timeline + scroll-wrap ── */
+  .main-row {
+    display: flex;
+    flex: 1;
+    min-height: 0;
+  }
+
+  /* ── Scroll container (browser-edge scrollbar) ── */
+  .scroll-wrap {
+    flex: 1;
+    min-width: 0;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+
+  .layout {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 24px;
+    display: flex;
+    align-items: flex-start;
+  }
+
+  /* ── Timeline ── */
+  .timeline {
+    width: 150px;
+    flex-shrink: 0;
+    padding: 6px 0 20px;
+    scrollbar-width: none;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    position: sticky;
+    top: 0;
+    max-height: calc(100vh - 44px);
+  }
+  .timeline::-webkit-scrollbar { display: none; }
+
+  .tl-items { display: flex; flex-direction: column; }
+
+  .tl-item {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 48px;
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+  }
+  .tl-item:hover { opacity: .65; }
+
+  .tl-lbl {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-right: 18px;
+    line-height: 1.2;
+  }
+  .tl-date {
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--stone);
+    white-space: nowrap;
+    transition: color .2s;
+  }
+  .tl-day {
+    font-family: var(--sans);
+    font-size: 10px;
+    color: var(--stone);
+  }
+  .tl-item.active .tl-date { color: #c85a17; }
+
+  /* Vertical line */
+  .timeline::before {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: var(--tl-line);
+    z-index: 1;
+  }
+  .tl-item:first-child::before,
+  .tl-item:last-child::before { display: none; }
+
+  /* ── Content ── */
+  .content {
+    flex: 1;
+    min-width: 0;
+    padding: 28px 20px 40px 20px;
+  }
+  #viewer { min-height: 200px; }
+
+  /* ── Archive content styling (injected) ── */
+  #viewer .wrap { max-width: none !important; margin: 0 !important; padding: 0 !important; }
+
+  #viewer h1 {
+    font-size: 22px;
+    font-weight: 500;
+    margin: 4px 0 20px;
+    color: var(--near-black);
+  }
+
+
+  #viewer .src {
+    padding: 12px 0;
+    margin-bottom: 0;
+  }
+  #viewer .src h2 {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0 0 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--near-black);
+  }
+  #viewer .badge {
+    font-size: 11px;
+    font-weight: 600;
+    color: #fff;
+    padding: 2px 10px;
+    border-radius: 20px;
+    font-family: var(--sans);
+  }
+
+  #viewer .anthropic { background: #cc785c; }
+  #viewer .openai { background: #10a37f; }
+  #viewer .gemini { background: #4285f4; }
+  #viewer .meta { background: #1877F2; }
+  #viewer .microsoft { background: #00A4EF; }
+  #viewer .mistral { background: #FF6B35; }
+  #viewer .huggingface { background: #F59E0B; }
+  #viewer .nvidia { background: #76B900; }
+  #viewer .xai { background: #1a1a2e; }
+  #viewer .minimax { background: #10B981; }
+  #viewer .deepseek { background: #4F46E5; }
+  #viewer .zhipu { background: #7C3AED; }
+  #viewer .bytedance { background: #0D9488; }
+  #viewer .moonshot { background: #E11D48; }
+
+  #viewer .item {
+    padding: 11px 0;
+    border-top: 1px solid var(--border);
+  }
+  #viewer .item:first-of-type { border-top: none; }
+  #viewer .item a {
+    color: #1a56db;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 15px;
+  }
+  #viewer .item a:hover { text-decoration: underline; }
+  #viewer .date {
+    color: var(--stone);
+    font-size: 12px;
+    margin-left: 8px;
+    font-family: var(--sans);
+  }
+  #viewer .desc {
+    color: var(--stone);
+    font-size: 13.5px;
+    margin-top: 3px;
+    line-height: 1.45;
+  }
+  #viewer .none {
+    color: var(--stone);
+    font-size: 14px;
+  }
+  #viewer footer {
+    text-align: center;
+    color: var(--stone);
+    font-size: 12px;
+    margin-top: 32px;
+    padding-bottom: 40px;
+    font-family: var(--sans);
+  }
+
+  /* ── Loading / Empty ── */
+  .loader {
+    display: flex;
+    align-items: center;
+    color: var(--stone);
+    font-size: 15px;
+    padding: 60px 0;
+  }
+  .loader.hidden { display: none; }
+  .loader .spinner {
+    width: 24px; height: 24px;
+    border: 2px solid var(--border);
+    border-top-color: var(--brand);
+    border-radius: 50%;
+    animation: spin .8s linear infinite;
+    margin-right: 12px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .empty {
+    padding: 60px 0;
+    text-align: center;
+    color: var(--stone);
+    font-size: 15px;
+  }
+  .empty-icon { font-size: 36px; opacity: .5; }
+
+  /* ── Mobile ── */
+  @media (max-width: 780px) {
+    header { padding: 14px 12px 2px; }
+    header h1 { font-size: 16px; }
+    .main-row { flex-direction: column; }
+    .layout { padding: 0; flex-direction: column; }
+
+    .timeline {
+      width: 100%;
+      max-height: 120px;
+      display: flex;
+      overflow-x: auto;
+      overflow-y: hidden;
+      padding: 6px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .timeline::before { display: none; }
+
+    .tl-items {
+      flex-direction: row;
+      padding: 2px 12px;
+      min-width: max-content;
+    }
+    .tl-item {
+      flex-shrink: 0;
+      height: auto;
+      padding: 8px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      margin-right: 8px;
+    }
+    .tl-lbl { flex-direction: row; align-items: center; gap: 6px; margin-right: 18px; }
+    .tl-date { font-size: 13px; }
+    .tl-day { font-size: 11px; }
+    .tl-item.active { border-color: var(--tl-active); }
+
+    .content { padding: 8px 12px 40px; }
+  }
+
+  @media (max-width: 480px) {
+    header { padding: 10px 8px 0; }
+    header h1 { font-size: 15px; }
+    .timeline { max-height: 110px; }
+    .tl-item { padding: 6px 10px; }
+    .tl-date { font-size: 12px; }
+    .tl-day { font-size: 10px; }
+    .content { padding: 4px 8px 30px; }
   }
 </style>
-</head>
-<body>
+
 <header>
-  <h1>📰 AI News</h1>
-  <span class="tag">Anthropic · OpenAI · Gemini ｜ Timeline</span>
+  <h1>AI News</h1>
 </header>
-<div class="layout">
-  <nav class="timeline" id="timeline"></nav>
-  <main class="content"><iframe id="viewer" title="Daily content"></iframe></main>
+
+<div class="main-row">
+  <div class="scroll-wrap">
+    <div class="layout">
+      <nav class="timeline" id="timeline" role="navigation"></nav>
+      <main class="content">
+      <div class="loader" id="loader">
+        <div class="spinner"></div>
+        Loading…
+      </div>
+      <div id="viewer"></div>
+    </main>
+  </div>
 </div>
+
 <script>
-  // The daily task rewrites this array each run: newest first.
-  // All reports live under Archive/ and are named by date: Archive/YYYY-MM-DD.html
-  const DAYS = [
+    const DAYS = [
     { date: "2026-07-01", path: "Archive/2026-07-01.html" },
+    { date: "2026-06-30", path: "" },
     { date: "2026-06-29", path: "Archive/2026-06-29.html" },
+    { date: "2026-06-28", path: "" },
+    { date: "2026-06-27", path: "" },
     { date: "2026-06-26", path: "Archive/2026-06-26.html" },
     { date: "2026-06-25", path: "Archive/2026-06-25.html" },
     { date: "2026-06-24", path: "Archive/2026-06-24.html" },
-    { date: "2026-06-23", path: "Archive/2026-06-23.html" }
+    { date: "2026-06-23", path: "Archive/2026-06-23.html" },
+    { date: "2026-06-22", path: "" },
+    { date: "2026-06-21", path: "" },
+    { date: "2026-06-20", path: "" },
+    { date: "2026-06-19", path: "" },
+    { date: "2026-06-18", path: "" },
+    { date: "2026-06-17", path: "" },
+    { date: "2026-06-16", path: "" },
+    { date: "2026-06-15", path: "" },
+    { date: "2026-06-14", path: "" },
+    { date: "2026-06-13", path: "" },
+    { date: "2026-06-12", path: "" },
+    { date: "2026-06-11", path: "" },
+    { date: "2026-06-10", path: "" },
+    { date: "2026-06-09", path: "" },
+    { date: "2026-06-08", path: "" },
+    { date: "2026-06-07", path: "" },
+    { date: "2026-06-06", path: "" },
+    { date: "2026-06-05", path: "" },
+    { date: "2026-06-04", path: "" },
+    { date: "2026-06-03", path: "" },
+    { date: "2026-06-02", path: "" },
+    { date: "2026-06-01", path: "" },
   ];
 
   const WK = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
   const MON = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
-  function weekday(d){ const [y,m,da]=d.split("-").map(Number); return WK[new Date(y,m-1,da).getDay()]; }
-  function label(d){ const [y,m,da]=d.split("-").map(Number); return MON[m-1]+" "+da; }
 
+  function weekday(d) {
+    const [y,m,da] = d.split("-").map(Number);
+    return WK[new Date(y, m-1, da).getDay()];
+  }
+  function label(d) {
+    const [y,m,da] = d.split("-").map(Number);
+    return MON[m-1] + " " + da;
+  }
   const tl = document.getElementById("timeline");
   const viewer = document.getElementById("viewer");
+  const loader = document.getElementById("loader");
 
-  if (!DAYS.length){
-    tl.innerHTML = '<div class="empty">No content yet</div>';
+  let loading = false;
+
+  async function loadReport(path) {
+    if (loading) return;
+    loading = true;
+    loader.classList.remove("hidden");
+    viewer.innerHTML = "";
+
+    if (!path) {
+      viewer.innerHTML = '<div class="empty" style="padding-top:40px"><div class="empty-icon">📄</div>No report for this date</div>';
+      document.querySelector("header h1").textContent = "AI News";
+      loader.classList.add("hidden");
+      loading = false;
+      return;
+    }
+
+    try {
+      const resp = await fetch(path);
+      const html = await resp.text();
+      const div = document.createElement("div");
+      div.innerHTML = html;
+      const body = div.querySelector(".wrap") || div.querySelector("body") || div;
+      // Remove all <style> from archive page — we style everything in index.html
+      body.querySelectorAll("style").forEach(s => s.remove());
+
+      // Extract the <h1> (date title) and move it to the header
+      const titleEl = body.querySelector("h1");
+      const headerH1 = document.querySelector("header h1");
+      if (titleEl && headerH1) {
+        headerH1.innerHTML = titleEl.innerHTML;
+        titleEl.remove();
+      }
+
+      viewer.innerHTML = body.innerHTML;
+    } catch(e) {
+      viewer.innerHTML = '<div class="empty"><div class="empty-icon">⚠️</div>Failed to load report</div>';
+    }
+
+    loader.classList.add("hidden");
+    loading = false;
+  }
+
+  if (!DAYS.length) {
+    tl.innerHTML = '<div style="padding:20px;color:var(--stone)">No reports</div>';
   } else {
-    DAYS.forEach((d,i)=>{
+    const wrap = document.createElement("div");
+    wrap.className = "tl-items";
+
+    DAYS.forEach((d, i) => {
       const el = document.createElement("div");
-      el.className = "tl-item" + (i===0?" active":"");
-      el.innerHTML = '<span class="tl-dot"></span>'+
-        '<div class="tl-date">'+label(d.date)+'</div>'+
-        '<div class="tl-week">'+d.date+' · '+weekday(d.date)+'</div>';
-      el.onclick = ()=>{
-        document.querySelectorAll(".tl-item").forEach(x=>x.classList.remove("active"));
+      el.className = "tl-item" + (i === 0 ? " active" : "");
+
+      el.innerHTML =
+        '<div class="tl-lbl">' +
+          '<div class="tl-date">' + label(d.date) + '</div>' +
+          '<div class="tl-day">' + weekday(d.date) + '</div>' +
+        '</div>';
+
+      el.addEventListener("click", () => {
+        document.querySelectorAll(".tl-item").forEach(x => x.classList.remove("active"));
         el.classList.add("active");
-        viewer.src = d.path;
-      };
-      tl.appendChild(el);
+        loadReport(d.path);
+      });
+
+      wrap.appendChild(el);
     });
-    viewer.src = DAYS[0].path; // show the latest day by default
+
+    tl.appendChild(wrap);
+    loadReport(DAYS[0].path);
   }
 </script>
+</div><!-- /main-row -->
 </body>
 </html>

@@ -8,13 +8,23 @@
   body { font-family: -apple-system, "Segoe UI", "Microsoft YaHei", sans-serif; background:#f5f6f8; color:#1f2329; margin:0; padding:32px 16px; line-height:1.6; }
   .wrap { max-width:820px; margin:0 auto; }
   h1 { font-size:26px; margin:0 0 4px; }
-  .sub { color:#8a8f99; font-size:14px; margin-bottom:28px; }
   .src { background:#fff; border-radius:12px; padding:20px 24px; margin-bottom:20px; box-shadow:0 1px 4px rgba(0,0,0,.06); }
   .src h2 { font-size:18px; margin:0 0 14px; display:flex; align-items:center; gap:8px; }
   .badge { font-size:12px; font-weight:600; color:#fff; padding:2px 10px; border-radius:20px; }
-  .anthropic { background:#cc785c; }
-  .openai { background:#10a37f; }
-  .gemini { background:#4285f4; }
+  .badge-anthropic { background: #cc785c; }
+  .badge-openai { background: #10a37f; }
+  .badge-gemini { background: #4285f4; }
+  .badge-meta { background: #1877F2; }
+  .badge-microsoft { background: #00A4EF; }
+  .badge-mistral { background: #FF6B35; }
+  .badge-huggingface { background: #F59E0B; }
+  .badge-nvidia { background: #76B900; }
+  .badge-xai { background: #1a1a2e; }
+  .badge-minimax { background: #10B981; }
+  .badge-deepseek { background: #4F46E5; }
+  .badge-zhipu { background: #7C3AED; }
+  .badge-bytedance { background: #0D9488; }
+  .badge-moonshot { background: #E11D48; }
   .item { padding:12px 0; border-top:1px solid #eef0f3; }
   .item:first-of-type { border-top:none; }
   .item a { color:#1a56db; text-decoration:none; font-weight:600; font-size:15.5px; }
@@ -28,40 +38,279 @@
 <body>
 <div class="wrap">
   <h1>📰 AI News · 2026-07-01 (Wed)</h1>
-  <div class="sub">Sources: Anthropic · OpenAI · Google Gemini/DeepMind ｜ Coverage window: last 2 days (Tue–Wed)</div>
 
-  <div class="src">
-    <h2><span class="badge anthropic">Anthropic</span></h2>
-    <div class="item">
-      <a href="https://www.anthropic.com/news/claude-sonnet-5" target="_blank">Introducing Claude Sonnet 5<span class="date">06-30</span></a>
-      <div class="desc">Anthropic announced Claude Sonnet 5, the most agentic Sonnet model yet, offering near-Opus-level reasoning and tool-use performance at significantly lower prices with launch pricing of $2 per million input tokens through August 31, 2026.</div>
-    </div>
-    <div class="item">
-      <a href="https://www.anthropic.com/news/claude-science-ai-workbench" target="_blank">Claude Science, an AI workbench for scientists, is now available<span class="date">06-30</span></a>
-      <div class="desc">Anthropic launched Claude Science, a beta AI workbench that integrates scientific tools and computing resources into a single environment designed for researchers.</div>
-    </div>
-  </div>
+<div class="src">
+<h2><span class="badge anthropic">Anthropic</span></h2>
+<div class="item"><a href="https://www.anthropic.com/news/claude-opus-4-8" target="_blank">ProductMay 28, 2026Introducing Claude Opus 4.8An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.</a><div class="desc">Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running…</div></div>
+<div class="item"><a href="https://www.anthropic.com/news/redeploying-fable-5" target="_blank">Jun 30, 2026AnnouncementsRedeploying Fable 5</a><div class="desc">Anthropic is redeploying Claude Fable 5 starting July 1 following the lifting of export controls, with updated cybersecurity safeguards and a new industry jailbreak framework.</div></div>
+<div class="item"><a href="https://www.anthropic.com/news/tcs-anthropic-partnership" target="_blank">Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries</a><div class="desc">Anthropic is announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in…</div></div>
+<div class="item"><a href="https://www.anthropic.com/news/dxc-anthropic-alliance" target="_blank">Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on</a><div class="desc">Anthropic is announcing a multi-year global alliance with DXC Technology, one of the world’s largest IT services companies.</div></div>
+<div class="item"><a href="https://www.anthropic.com/news/claude-corps" target="_blank">Jun 11, 2026AnnouncementsIntroducing Claude Corps</a><div class="desc">Anthropic is launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.</div></div>
+</div>
+<div class="src">
+<h2><span class="badge openai">OpenAI</span></h2>
+<div class="item"><a href="https://openai.com/index/how-chatgpt-adoption-has-expanded" target="_blank">How ChatGPT adoption has expanded<span class="date">06-30</span></a><div class="desc">New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.</div></div>
+<div class="item"><a href="https://openai.com/index/introducing-genebench-pro" target="_blank">Introducing GeneBench-Pro<span class="date">06-30</span></a><div class="desc">Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.</div></div>
+<div class="item"><a href="https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug" target="_blank">Core dump epidemiology: fixing an 18-year-old bug<span class="date">06-30</span></a><div class="desc">OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.</div></div>
+<div class="item"><a href="https://openai.com/index/genebench-pro/case-studies" target="_blank">Inside Genebench-Pro<span class="date">06-30</span></a><div class="desc">June 30, 2026</div></div>
+</div>
+<div class="src">
+<h2><span class="badge gemini">Gemini / DeepMind</span></h2>
+<div class="item"><a href="https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/" target="_blank">Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers<span class="date">06-30</span></a><div class="desc">Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.</div></div>
+<div class="item"><a href="https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/" target="_blank">Start building with Nano Banana 2 Lite and Gemini Omni Flash<span class="date">06-30</span></a></div>
+</div>
+<div class="src">
+<h2><span class="badge huggingface">Hugging Face</span></h2>
+<div class="item"><a href="https://huggingface.co/blog/ibm-research/scarfbench" target="_blank">ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration<span class="date">06-30</span></a><div class="desc">A Blog post by IBM Research on Hugging Face</div></div>
+<div class="item"><a href="https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable" target="_blank">Why Specialization Is Inevitable<span class="date">06-30</span></a><div class="desc">A Blog post by Dharma-AI on Hugging Face</div></div>
+<div class="item"><a href="https://huggingface.co/blog/eee-community-evals" target="_blank">Featuring Every Eval Ever Results on Hugging Face Model Pages<span class="date">06-30</span></a><div class="desc">We’re on a journey to advance and democratize artificial intelligence through open source and open science.</div></div>
+</div>
+<div class="src">
+<h2><span class="badge nvidia">NVIDIA</span></h2>
+<div class="item"><a href="https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/" target="_blank">NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science<span class="date">06-30</span></a><div class="desc">Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models,…</div></div>
+<div class="item"><a href="https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/" target="_blank">Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning<span class="date">06-30</span></a><div class="desc">Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and…</div></div>
+</div>
+<div class="src">
+<h2><span class="badge xai">xAI (Grok)</span></h2>
+<div class="item"><a href="https://x.ai/news/introducing-goal" target="_blank">Jun 22, 2026Introducing /goalJun 22, 2026Introducing /goalUse /goal for long-running autonomous task execution in Grok Build.Read More</a><div class="desc">Use /goal for long-running autonomous task execution in Grok Build.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-interactive-brokers" target="_blank">Jun 25, 2026Explore the markets with Interactive Brokers and Grok</a><div class="desc">Interactive Brokers now integrates with Grok, bringing powerful AI directly into your trading experience — portfolio analysis, scenario modeling, research, and order instructions.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-databricks" target="_blank">Jun 18, 2026Grok on Databricks</a><div class="desc">Grok models are now available on Databricks Agent Bricks.</div></div>
+<div class="item"><a href="https://x.ai/news/introducing-word-addin" target="_blank">Jun 18, 2026Grok for Word</a><div class="desc">Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-amazon-bedrock" target="_blank">Jun 17, 2026Grok on Amazon Bedrock</a></div>
+<div class="item"><a href="https://x.ai/news/grok-imagine-video-1-5" target="_blank">Grok Imagine Video 1.5Improved quality at even faster speeds.Jun 16, 2026</a></div>
+<div class="item"><a href="https://x.ai/news/introducing-powerpoint-addin" target="_blank">Grok for PowerPointGrok now works inside Microsoft PowerPoint — turn outlines into slides, expand the deck, and tighten the narrative without leaving the app.Jun 16, 2026</a></div>
+<div class="item"><a href="https://x.ai/news/agent-dashboard" target="_blank">Agent Dashboard in Grok BuildManage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work.Jun 15, 2026</a></div>
+<div class="item"><a href="https://x.ai/news/grok-warp" target="_blank">Use Grok in WarpUse your Grok and X Premium subscription inside Warp.Jun 15, 2026</a></div>
+<div class="item"><a href="https://x.ai/news/grok-plugin-marketplace" target="_blank">Grok Build Plugin MarketplaceLaunching the built-in plugin marketplace for Grok Build.Jun 11, 2026</a></div>
+<div class="item"><a href="https://x.ai/news/grok-etoro" target="_blank">Bringing real-time market sentiment to Tori, from eToroTori, eToro’s AI agent, uses models from SpaceXAI to embed real-time market sentiment directly into Tori’s investing workflow.Jun 10, 2026</a></div>
+<div class="item"><a href="https://x.ai/news/grok-gopuff" target="_blank">Powering Gopuff&#x27;s Go agentGopuff and SpaceXAI launched Go, an AI-powered shopping assistant built into the Gopuff app and powered by Grok text, audio, and image models.Jun 9, 2026</a><div class="desc">Gopuff and SpaceXAI launched Go, an AI-powered shopping assistant built into the Gopuff app and powered by Grok text, audio, and image models.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-imagine-1-5" target="_blank">Grok Imagine 1.5 Previewgrok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.Jun 3, 2026</a><div class="desc">grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-vapi" target="_blank">Grok Becomes the Voice of VapiBringing frontier voice quality to millions of Vapi agents.Jun 3, 2026</a><div class="desc">Bringing frontier voice quality to millions of Vapi agents.</div></div>
+<div class="item"><a href="https://x.ai/news/composer-2-5" target="_blank">Composer 2.5Composer 2.5 is now available in Grok Build. Try it from the /models menu.Jun 1, 2026</a><div class="desc">Composer 2.5 is now available in Grok Build. Try it from the /models menu.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-build-0-1" target="_blank">Grok Build 0.1 on APIGrok Build 0.1, our fastest coding model, is now available via the xAI API in public beta.May 29, 2026</a><div class="desc">Grok Build 0.1, our fastest coding model, is now available via the xAI API in public beta.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-kilocode" target="_blank">Use Grok in Kilo CodeUse your SuperGrok or X Premium+ subscription inside Kilo Code, the open-source agentic coding platform.May 27, 2026</a><div class="desc">Use your SuperGrok or X Premium+ subscription inside Kilo Code, the open-source agentic coding platform.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-build-cli" target="_blank">Introducing Grok BuildNow in early beta for all SuperGrok and X Premium Plus subscribers — Grok Build is a new coding agent that runs right from your terminal.May 25, 2026</a><div class="desc">Now in early beta for all SuperGrok and X Premium Plus subscribers — Grok Build is a new coding agent that runs right from your terminal.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-opencode" target="_blank">Use Grok in OpenCodeUse your SuperGrok or X Premium subscription inside OpenCode.May 21, 2026</a><div class="desc">Use your SuperGrok or X Premium subscription inside OpenCode.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-openclaw" target="_blank">Use Grok in OpenClawUse your SuperGrok or X Premium subscription inside OpenClaw, an open-source, local-first agent and personal assistant.May 19, 2026</a><div class="desc">Use your SuperGrok or X Premium subscription inside OpenClaw, an open-source, local-first agent and personal assistant.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-skills" target="_blank">Skills in web, iOS, and AndroidPersistent expertise for Grok. Generate documents, decks, and spreadsheets. Automate workflows. Build and share your own skills.May 18, 2026</a><div class="desc">Persistent expertise for Grok. Generate documents, decks, and spreadsheets. Automate workflows. Build and share your own skills.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-hermes" target="_blank">Connect Grok to Hermes AgentUse your Grok account and subscription inside Nous Research’s open-source, self-improving Hermes agent.May 15, 2026</a><div class="desc">Use your Grok account and subscription inside Nous Research’s open-source, self-improving Hermes agent.</div></div>
+<div class="item"><a href="https://x.ai/news/anthropic-compute-partnership" target="_blank">New Compute Partnership with AnthropicSpaceXAI has signed an agreement with Anthropic to provide access to Colossus 1.May 6, 2026</a><div class="desc">SpaceXAI has signed an agreement with Anthropic to provide access to Colossus 1.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-connectors" target="_blank">Connectors in web, iOS, and AndroidDeep integrations that bring the apps you use every day directly into Grok.May 6, 2026</a><div class="desc">Deep integrations that bring the apps you use every day directly into Grok.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-imagine-quality-mode" target="_blank">Grok Imagine Quality Mode APIHigher realism. Stronger text rendering. Better creative control.May 6, 2026</a><div class="desc">Higher realism. Stronger text rendering. Better creative control.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-custom-voices" target="_blank">Custom Voices and Voice LibraryYour voice. Your brand. Clone a voice from a short recording and manage your entire voice catalog from the xAI console.Apr 30, 2026</a><div class="desc">Your voice. Your brand. Clone a voice from a short recording and manage your entire voice catalog from the xAI console.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-voice-think-fast-1" target="_blank">Grok Voice Think Fast 1.0Our most capable voice agent is now available via API.Apr 23, 2026</a><div class="desc">Our most capable voice agent is now available via API.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-stt-and-tts-apis" target="_blank">Grok Speech to Text and Text to Speech APIsFast and accurate. Natural, expressive voices. Simple pricing. Multilingual support.Apr 17, 2026</a><div class="desc">Fast and accurate. Natural, expressive voices. Simple pricing. Multilingual support.</div></div>
+<div class="item"><a href="https://x.ai/news/xai-joins-spacex" target="_blank">xAI joins SpaceXSpaceX announced today that it has acquired xAI.Feb 2, 2026</a><div class="desc">SpaceX announced today that it has acquired xAI.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-imagine-api" target="_blank">Grok Imagine APIState-of-the-art video generation across quality, cost, and latency.Jan 28, 2026</a><div class="desc">State-of-the-art video generation across quality, cost, and latency.</div></div>
+<div class="item"><a href="https://x.ai/news/series-e" target="_blank">xAI Raises $20B Series ExAI is rapidly accelerating its progress in building advanced AI.Jan 6, 2026</a><div class="desc">xAI is rapidly accelerating its progress in building advanced AI.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-business" target="_blank">Introducing Grok Business and Grok EnterpriseThe best assistant in the world is now Enterprise ready.Dec 30, 2025</a><div class="desc">The best assistant in the world is now Enterprise ready.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-collections-api" target="_blank">Grok Collections APIState-of-the-art RAG system built directly into our API.Dec 22, 2025</a><div class="desc">State-of-the-art RAG system built directly into our API.</div></div>
+<div class="item"><a href="https://x.ai/news/us-gov-dept-of-war" target="_blank">Supporting the DOW&#x27;s mission with AIxAI is proud to be selected by the US Department of War to deliver Frontier AIDec 22, 2025</a><div class="desc">xAI is proud to be selected by the US Department of War to deliver Frontier AI</div></div>
+<div class="item"><a href="https://x.ai/news/grok-voice-agent-api" target="_blank">Grok Voice Agent APIBringing the power of Grok Voice to all developers.Dec 17, 2025</a><div class="desc">Bringing the power of Grok Voice to all developers.</div></div>
+<div class="item"><a href="https://x.ai/news/el-salvador-partnership" target="_blank">xAI and El Salvador Pioneer the World&#x27;s First Nationwide AI Education ProgramAnnouncing Our Transformative Partnership with the Government of El Salvador.Dec 11, 2025</a><div class="desc">Announcing Our Transformative Partnership with the Government of El Salvador.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-4-1-fast" target="_blank">Grok 4.1 Fast and Agent Tools APIBringing the next generation of tool-calling agents to the xAI APINov 19, 2025</a><div class="desc">Bringing the next generation of tool-calling agents to the xAI API</div></div>
+<div class="item"><a href="https://x.ai/news/grok-goes-global" target="_blank">Grok goes Global with KSAAnnouncing Our Landmark Partnership with Saudi Arabia and HUMAINNov 19, 2025</a><div class="desc">Announcing Our Landmark Partnership with Saudi Arabia and HUMAIN</div></div>
+<div class="item"><a href="https://x.ai/news/grok-4-1" target="_blank">Grok 4.1Grok 4.1 is now available to all users on grok.com, 𝕏, and the iOS and Android apps. It is rolling out immediately in Auto mode and can be selected explicitly as “Grok 4.1” in the model picker.Nov 17, 2025</a><div class="desc">Grok 4.1 is now available to all users on grok.com, 𝕏, and the iOS and Android apps. It is rolling out immediately in Auto mode and can be selected explicitly as “Grok 4.1” in the model picker.</div></div>
+<div class="item"><a href="https://x.ai/news/onegov" target="_blank">Expanding xAI for Government with GSA OneGovExpanding ‘xAI For Government’ with more accessible AI tools for the Federal GovernmentSep 25, 2025</a><div class="desc">Expanding ‘xAI For Government’ with more accessible AI tools for the Federal Government</div></div>
+<div class="item"><a href="https://x.ai/news/grok-4-fast" target="_blank">Grok 4 FastPushing the Frontier of Cost-Efficient IntelligenceSep 19, 2025</a><div class="desc">Pushing the Frontier of Cost-Efficient Intelligence</div></div>
+<div class="item"><a href="https://x.ai/news/grok-code-fast-1" target="_blank">Grok Code Fast 1We&#x27;re thrilled to introduce grok-code-fast-1, a speedy and economical reasoning model that excels at agentic coding.Aug 28, 2025</a><div class="desc">We&#x27;re thrilled to introduce grok-code-fast-1, a speedy and economical reasoning model that excels at agentic coding.</div></div>
+<div class="item"><a href="https://x.ai/news/government" target="_blank">Announcing xAI for GovernmentWe are excited to announce xAI For Government – a suite of frontier AI products available first to United States Government customers.Jul 14, 2025</a><div class="desc">We are excited to announce xAI For Government – a suite of frontier AI products available first to United States Government customers.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-4" target="_blank">Grok 4Grok 4 is the most intelligent model in the world. It includes native tool use and real-time search integration, and is available now to SuperGrok and Premium+ subscribers, as well as through the xAI API. We are also introducing a new SuperGrok Heavy tier with access to Grok 4 Heavy - the most powerful version of Grok 4.Jul 9, 2025</a><div class="desc">Grok 4 is the most intelligent model in the world. It includes native tool use and real-time search integration, and is available now to SuperGrok and Premium+ subscribers, as well as through the xAI…</div></div>
+<div class="item"><a href="https://x.ai/news/grok-3" target="_blank">Grok 3 Beta — The Age of Reasoning AgentsWe are thrilled to unveil an early preview of Grok 3, our most advanced model yet, blending superior reasoning with extensive pretraining knowledge.Feb 19, 2025</a><div class="desc">We are thrilled to unveil an early preview of Grok 3, our most advanced model yet, blending superior reasoning with extensive pretraining knowledge.</div></div>
+<div class="item"><a href="https://x.ai/news/series-c" target="_blank">xAI raises $6B Series CWe are partnering with A16Z, Blackrock, Fidelity Management &amp; Research Company, Kingdom Holdings, Lightspeed, MGX, Morgan Stanley, OIA, QIA, Sequoia Capital, Valor Equity Partners and Vy Capital, amongst others.Dec 23, 2024</a><div class="desc">We are partnering with A16Z, Blackrock, Fidelity Management &amp; Research Company, Kingdom Holdings, Lightspeed, MGX, Morgan Stanley, OIA, QIA, Sequoia Capital, Valor Equity Partners and Vy Capital,…</div></div>
+<div class="item"><a href="https://x.ai/news/grok-1212" target="_blank">Bringing Grok to EveryoneGrok is now faster, sharper, and has improved multilingual support. It is available to everyone on the 𝕏 platform.Dec 12, 2024</a><div class="desc">Grok is now faster, sharper, and has improved multilingual support. It is available to everyone on the 𝕏 platform.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-image-generation-release" target="_blank">Grok Image Generation ReleaseWe are updating Grok&#x27;s capabilities with a new autoregressive image generation model, code-named Aurora, available on the 𝕏 platform.Dec 9, 2024</a><div class="desc">We are updating Grok&#x27;s capabilities with a new autoregressive image generation model, code-named Aurora, available on the 𝕏 platform.</div></div>
+<div class="item"><a href="https://x.ai/news/api" target="_blank">API Public BetaStarting today, developers can build on our Grok foundation models using our newly released API. We will run a public beta program until the end of 2024 during which everyone will get $25 of free API credits per month.Nov 4, 2024</a><div class="desc">Starting today, developers can build on our Grok foundation models using our newly released API. We will run a public beta program until the end of 2024 during which everyone will get $25 of free API…</div></div>
+<div class="item"><a href="https://x.ai/news/grok-2" target="_blank">Grok-2 Beta ReleaseWe announce our new Grok-2 and Grok-2 mini models.Aug 13, 2024</a><div class="desc">We announce our new Grok-2 and Grok-2 mini models.</div></div>
+<div class="item"><a href="https://x.ai/news/series-b" target="_blank">Series B funding roundxAI is pleased to announce our series B funding round of $6 billion.May 26, 2024</a><div class="desc">xAI is pleased to announce our series B funding round of $6 billion.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-1.5v" target="_blank">Grok-1.5 Vision PreviewConnecting the digital and physical worlds with our first multimodal model.Apr 12, 2024</a><div class="desc">Connecting the digital and physical worlds with our first multimodal model.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-1.5" target="_blank">Announcing Grok-1.5Grok-1.5 comes with improved reasoning capabilities and a context length of 128,000 tokens. Available on 𝕏 soon.Mar 28, 2024</a><div class="desc">Grok-1.5 comes with improved reasoning capabilities and a context length of 128,000 tokens. Available on 𝕏 soon.</div></div>
+<div class="item"><a href="https://x.ai/news/grok-os" target="_blank">Open Release of Grok-1We are releasing the weights and architecture of our 314 billion parameter Mixture-of-Experts model Grok-1.Mar 17, 2024</a><div class="desc">We are releasing the weights and architecture of our 314 billion parameter Mixture-of-Experts model Grok-1.</div></div>
+<div class="item"><a href="https://x.ai/news/prompt-ide" target="_blank">Announcing PromptIDEIntegrated development environment for prompt engineering and interpretability research.Nov 6, 2023</a><div class="desc">Integrated development environment for prompt engineering and interpretability research.</div></div>
+<div class="item"><a href="https://x.ai/news/grok" target="_blank">Announcing GrokGrok is an AI modeled after the Hitchhiker’s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask!Nov 3, 2023</a><div class="desc">Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask!</div></div>
+</div>
+<div class="src">
+<h2><span class="badge minimax">MiniMax (海螺AI)</span></h2>
+<div class="item"><a href="https://www.minimax.io/models/text/m3" target="_blank">MiniMax M3</a><div class="desc">MiniMax M3 reaches frontier-level performance on coding and agentic tasks, with a 1M context window powered by the MSA architecture and native multimodal understanding. The first open-weight model to…</div></div>
+<div class="item"><a href="https://www.minimax.io/models/text/m27" target="_blank">MiniMax M2.7</a><div class="desc">MiniMax M2.7 Large Language Model, with enhanced capabilities for building complex Agents. Delivers industry-leading coding and reasoning abilities at a highly competitive cost.</div></div>
+<div class="item"><a href="https://www.minimax.io/models/text" target="_blank">MiniMax M2.5</a><div class="desc">Designed for high-throughput, low-latency production environments. M2.5 delivers industry-leading coding and reasoning capabilities at a fraction of the cost.</div></div>
+<div class="item"><a href="https://www.minimax.io/news/minimax-hailuo-23" target="_blank">MiniMax Hailuo 2.3 / 2.3 Fast</a><div class="desc">Access API</div></div>
+<div class="item"><a href="https://www.minimax.io/news/minimax-speech-28" target="_blank">MiniMax Speech 2.8</a><div class="desc">Access API</div></div>
+<div class="item"><a href="https://www.minimax.io/news/music-26" target="_blank">MiniMax Music 2.6</a><div class="desc">Today we release MiniMax Music 2.6.</div></div>
+<div class="item"><a href="https://code.minimax.io" target="_blank">MiniMax Code</a></div>
+<div class="item"><a href="https://hailuoai.video" target="_blank">Video Hailuo</a><div class="desc">Create AI videos and images from text or photos with Hailuo AI. Explore video, image, and meme tools built for creators and social content online.</div></div>
+<div class="item"><a href="https://www.minimax.io/audio" target="_blank">Audio</a></div>
+<div class="item"><a href="https://www.talkie-ai.com/" target="_blank">Talkie</a></div>
+<div class="item"><a href="https://www.minimax.io/about" target="_blank">About</a></div>
+<div class="item"><a href="https://ir.minimax.io/" target="_blank">Investor Relations</a><div class="desc">MiniMax Investor Relations</div></div>
+<div class="item"><a href="https://platform.minimax.io/contact-us" target="_blank">Contact Us</a><div class="desc">Integrate Multi-modal AI into apps and products with ease and speed.</div></div>
+<div class="item"><a href="https://www.minimax.io/models/text/m3" target="_blank">MiniMax M3NEW</a></div>
+<div class="item"><a href="https://www.minimax.io/news/minimax-hailuo-23" target="_blank">MiniMax Hailuo 2.3 / 2.3 FastNEW</a></div>
+<div class="item"><a href="https://www.minimax.io/news/minimax-speech-28" target="_blank">MiniMax Speech 2.8NEW</a><div class="desc">Access API</div></div>
+<div class="item"><a href="https://www.minimax.io/news/music-26" target="_blank">MiniMax Music 2.6NEW</a><div class="desc">Today we release MiniMax Music 2.6.</div></div>
+<div class="item"><a href="https://code.minimax.io" target="_blank">MiniMax CodeNEW</a><div class="desc">Discover MiniMax Agent, your AI supercompanion, enhancing creativity and productivity with tools for meditation, podcast, coding, analysis, and more!</div></div>
+</div>
+<div class="src">
+<h2><span class="badge deepseek">DeepSeek</span></h2>
+<div class="item"><a href="https://api-docs.deepseek.com/zh-cn/" target="_blank">DeepSeek API 文档</a><div class="desc">DeepSeek API 使用与 OpenAI/Anthropic 兼容的 API 格式，通过修改配置，您可以使用 OpenAI/Anthropic SDK 来访问 DeepSeek API，或使用与 OpenAI/Anthropic API 兼容的软件。</div></div>
+<div class="item"><a href="https://api-docs.deepseek.com/updates" target="_blank">English</a><div class="desc">Date: 2026-04-24</div></div>
+<div class="item"><a href="https://api-docs.deepseek.com/zh-cn/updates" target="_blank">中文（中国）</a><div class="desc">时间: 2026-04-24</div></div>
+<div class="item"><a href="https://platform.deepseek.com/" target="_blank">DeepSeek Platform</a><div class="desc">Join DeepSeek API platform to access our AI models, developer resources and API documentation.</div></div>
+<div class="item"><a href="https://api-docs.deepseek.com/zh-cn/" target="_blank">首次调用 API</a><div class="desc">DeepSeek API 使用与 OpenAI/Anthropic 兼容的 API 格式，通过修改配置，您可以使用 OpenAI/Anthropic SDK 来访问 DeepSeek API，或使用与 OpenAI/Anthropic API 兼容的软件。</div></div>
+<div class="item"><a href="https://api-docs.deepseek.com/zh-cn/quick_start/pricing" target="_blank">模型 &amp; 价格</a><div class="desc">下表所列模型价格以“百万 tokens”为单位。Token 是模型用来表示自然语言文本的的最小单位，可以是一个词、一个数字或一个标点符号等。我们将根据模型输入和输出的总 token 数进行计量计费。</div></div>
+<div class="item"><a href="https://api-docs.deepseek.com/zh-cn/quick_start/token_usage" target="_blank">Token 用量计算</a><div class="desc">token 是模型用来表示自然语言文本的基本单位，也是我们的计费单元，可以直观的理解为“字”或“词”；通常 1 个中文词语、1 个英文单词、1 个数字或 1 个符号计为 1 个 token。</div></div>
+<div class="item"><a href="https://api-docs.deepseek.com/zh-cn/quick_start/rate_limit" target="_blank">限速与隔离</a><div class="desc">并发限速</div></div>
+<div class="item"><a href="https://api-docs.deepseek.com/zh-cn/quick_start/agent_integrations/claude_code" target="_blank">接入 Agent 工具</a><div class="desc">Claude Code 是一个运行在终端内的 AI 编程助手。</div></div>
+<div class="item"><a href="https://api-docs.deepseek.com/zh-cn/guides/thinking_mode" target="_blank">API 指南</a><div class="desc">DeepSeek 模型支持思考模式：在输出最终回答之前，模型会先输出一段思维链内容，以提升最终答案的准确性。</div></div>
+<div class="item"><a href="https://api-docs.deepseek.com/zh-cn/guides/chat_prefix_completion" target="_blank">对话前缀续写（Beta）</a><div class="desc">对话前缀续写沿用 Chat Completion API，用户提供 assistant 开头的消息，来让模型补全其余的消息。</div></div>
+<div class="item"><a href="https://api-docs.deepseek.com/zh-cn/guides/fim_completion" target="_blank">FIM 补全（Beta）</a><div class="desc">在 FIM (Fill In the Middle) 补全中，用户可以提供前缀和后缀（可选），模型来补全中间的内容。FIM 常用于内容续写、代码补全等场景。</div></div>
+<div class="item"><a href="https://api-docs.deepseek.com/zh-cn/guides/json_mode" target="_blank">JSON Output</a><div class="desc">在很多场景下，用户需要让模型严格按照 JSON 格式来输出，以实现输出的结构化，便于后续逻辑进行解析。</div></div>
+<div class="item"><a href="https://api-docs.deepseek.com/zh-cn/guides/tool_calls" target="_blank">Tool Calls</a><div class="desc">Tool Calls 让模型能够调用外部工具，来增强自身能力。</div></div>
+<div class="item"><a href="https://api-docs.deepseek.com/zh-cn/guides/kv_cache" target="_blank">上下文硬盘缓存</a><div class="desc">DeepSeek API 上下文硬盘缓存技术对所有用户默认开启，用户无需修改代码即可享用。</div></div>
+<div class="item"><a href="https://api-docs.deepseek.com/zh-cn/guides/anthropic_api" target="_blank">Anthropic API</a><div class="desc">为了满足大家对 Anthropic API 生态的使用需求，我们的 API 新增了对 Anthropic API 格式的支持，其 base_url 为 https://api.deepseek.com/anthropic。</div></div>
+<div class="item"><a href="https://api-docs.deepseek.com/zh-cn/api/deepseek-api" target="_blank">API 文档</a><div class="desc">使用 DeepSeek API 之前，请先 [创建 API 密钥](https://platform.deepseek.com/api_keys)。</div></div>
+<div class="item"><a href="https://api-docs.deepseek.com/zh-cn/news/news250120" target="_blank">DeepSeek-R1 正式发布</a><div class="desc">今天，我们正式发布 DeepSeek-R1，并同步开源模型权重。</div></div>
+<div class="item"><a href="https://api-docs.deepseek.com/zh-cn/news/news1226" target="_blank">DeepSeek-V3 正式发布</a><div class="desc">今天，我们全新系列模型 DeepSeek-V3 首个版本上线并同步开源。</div></div>
+<div class="item"><a href="https://api-docs.deepseek.com/zh-cn/news/news0802" target="_blank">API 上线硬盘缓存 2024/08/02</a><div class="desc">在大模型 API 的使用场景中，用户的输入有相当比例是重复的。举例说，用户的 prompt 往往有一些重复引用的部分；再举例说，多轮对话中，每一轮都要将前几轮的内容重复输入。</div></div>
+<div class="item"><a href="https://api-docs.deepseek.com/zh-cn/news/news0725" target="_blank">API 升级新功能 2024/07/25</a><div class="desc">今天，DeepSeek API 迎来更新，装备了新的接口功能，来释放模型的更多潜力：</div></div>
+<div class="item"><a href="https://api-docs.deepseek.com/zh-cn/faq" target="_blank">上一页常见问题</a><div class="desc">账号问题</div></div>
+<div class="item"><a href="https://discord.gg/Tc7c45Zzu5" target="_blank">Discord</a><div class="desc">DeepSeek Official Discord Server | 21836 members</div></div>
+<div class="item"><a href="https://twitter.com/deepseek_ai" target="_blank">Twitter</a></div>
+<div class="item"><a href="https://github.com/deepseek-ai" target="_blank">GitHub</a><div class="desc">DeepSeek has 35 repositories available. Follow their code on GitHub.</div></div>
+</div>
+<div class="src">
+<h2><span class="badge zhipu">智谱 AI (GLM)</span></h2>
+<div class="item"><a href="https://docs.bigmodel.cn/llms.txt" target="_blank">/llms.txt</a></div>
+<div class="item"><a href="https://bigmodel.cn/" target="_blank">智谱AI开放文档home page</a><div class="desc">智谱大模型开放平台-新一代国产自主通用AI大模型开放平台，是国内大模型排名前列的大模型网站，研发了多款LLM模型，多模态视觉模型产品，致力于将AI产品技术与行业场景双轮驱动的中国先进的认知智能技术和千行百业应用相结合，构建更高精度、高效率、通用化的AI开发新模式和企业级解决方案，实现智谱大模型的产业化，将AI的好处带给每个人。</div></div>
+<div class="item"><a href="https://bigmodel.cn/usercenter/proj-mgmt/apikeys" target="_blank">API Key</a><div class="desc">智谱大模型开放平台-新一代国产自主通用AI大模型开放平台，是国内大模型排名前列的大模型网站，研发了多款LLM模型，多模态视觉模型产品，致力于将AI产品技术与行业场景双轮驱动的中国先进的认知智能技术和千行百业应用相结合，构建更高精度、高效率、通用化的AI开发新模式和企业级解决方案，实现智谱大模型的产业化，将AI的好处带给每个人。</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/api/introduction" target="_blank">API 文档</a><div class="desc">Was this page helpful?</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/terms/user-agreement" target="_blank">条款与协议</a><div class="desc">用户服务协议</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/text/glm-5.2" target="_blank">GLM-5.2</a><div class="desc">项目级工程接管：让模型一次读懂一整个工程</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/coding-plan/team" target="_blank">GLM Coding Plan 团队版</a><div class="desc">了解 GLM Coding Plan 团队版的用量、权益和使用规则</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/text/glm-5.1" target="_blank">GLM-5.1</a><div class="desc">Agentic Coding</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/vlm/glm-5v-turbo" target="_blank">GLM-5V-Turbo</a><div class="desc">前端复刻</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/text/glm-5-turbo" target="_blank">GLM-5-Turbo</a><div class="desc">Was this page helpful?</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/text/glm-5" target="_blank">GLM-5</a><div class="desc">Agentic Coding</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/vlm/glm-ocr" target="_blank">GLM-OCR</a><div class="desc">通用文本识别</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/free/glm-4.7-flash" target="_blank">GLM-4.7-Flash</a><div class="desc">Agentic Coding</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/text/glm-4.7" target="_blank">GLM-Image</a><div class="desc">Agentic Coding</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/text/glm-4.7" target="_blank">GLM-4.7</a><div class="desc">Agentic Coding</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/vlm/autoglm-phone" target="_blank">AutoGLM-Phone</a><div class="desc">Was this page helpful?</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/sound-and-video/glm-tts-clone" target="_blank">GLM-TTS-Clone</a><div class="desc">教育教学</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/sound-and-video/glm-tts" target="_blank">GLM-TTS</a><div class="desc">智能客服</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/sound-and-video/glm-asr-2512" target="_blank">GLM-ASR-2512</a><div class="desc">实时会议纪要</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/vlm/glm-4.6v" target="_blank">GLM-4.6V</a><div class="desc">Was this page helpful?</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/text/glm-4.6" target="_blank">GLM-4.6</a><div class="desc">AI Coding</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/vlm/glm-4.5v" target="_blank">GLM-4.5V</a><div class="desc">前端复刻</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/text/glm-4.5" target="_blank">GLM-4.5</a><div class="desc">我们强大的推理模型，3550亿参数</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/video-generation/cogvideox-3" target="_blank">CogVideoX-3</a><div class="desc">电商广告（营销）</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/vlm/glm-4.1v-thinking" target="_blank">GLM-4.1V-Thinking</a><div class="desc">图文理解</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/video-generation/viduq1" target="_blank">Vidu Q1</a><div class="desc">影视生成</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/video-generation/vidu2" target="_blank">Vidu 2</a><div class="desc">泛娱乐内容生成</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/sound-and-video/glm-asr" target="_blank">语音模型 GLM-ASR</a><div class="desc">客户服务</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/text/glm-4" target="_blank">GLM-4-Air-250414（高性价比版）</a><div class="desc">翻译</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/free/glm-4-flash-250414" target="_blank">GLM-4-Flash-250414（免费版）</a><div class="desc">超长上下文</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/text/glm-z1" target="_blank">GLM-Z1-AirX（极速版）</a><div class="desc">人岗匹配</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/text/glm-z1" target="_blank">GLM-Z1-Air（高性价比版）</a><div class="desc">人岗匹配</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/models/free/glm-z1-flash" target="_blank">GLM-Z1-Flash（免费版）</a><div class="desc">复杂任务推理</div></div>
+<div class="item"><a href="https://docs.bigmodel.cn/cn/guide/tools/web-search" target="_blank">AI 搜索工具</a><div class="desc">MCP Server 配置指南</div></div>
+<div class="item"><a href="https://www.bigmodel.cn/pricing" target="_blank">上新限时特惠</a><div class="desc">智谱大模型开放平台-新一代国产自主通用AI大模型开放平台，是国内大模型排名前列的大模型网站，研发了多款LLM模型，多模态视觉模型产品，致力于将AI产品技术与行业场景双轮驱动的中国先进的认知智能技术和千行百业应用相结合，构建更高精度、高效率、通用化的AI开发新模式和企业级解决方案，实现智谱大模型的产业化，将AI的好处带给每个人。</div></div>
+<div class="item"><a href="https://www.mintlify.com?utm_campaign=poweredBy&amp;utm_medium=referral&amp;utm_source=zhipu-ef7018ed" target="_blank">Powered byThis documentation is built and hosted on Mintlify, a developer documentation platform</a><div class="desc">Self-updating documentation for startups, enterprises, and agents.</div></div>
+</div>
+<div class="src">
+<h2><span class="badge bytedance">字节跳动 (豆包)</span></h2>
+<div class="item"><a href="https://www.volcengine.com/activity/codingplan?infrom=100001.100.216" target="_blank">方舟 CodingPlan 首月9.9元起</a></div>
+<div class="item"><a href="https://www.volcengine.com/product/arkclaw?infrom=100001.100.1" target="_blank">ArkClaw 千万 Tokens 大放送</a></div>
+<div class="item"><a href="https://www.volcengine.com/product/agentkit?infrom=100001.100.233" target="_blank">企业级 AI Agent 平台</a></div>
+<div class="item"><a href="https://www.volcengine.com/activity/jifen?infrom=100001.100.219" target="_blank">开发者激励计划</a></div>
+<div class="item"><a href="https://www.volcengine.com/activity/Partner-AI-Solution?infrom=100001.100.217" target="_blank">AI生态伙伴招募计划</a></div>
+<div class="item"><a href="https://www.volcengine.com/event/force-2606?infrom=100001.100.183" target="_blank">Force 原动力大会</a><div class="desc">火山引擎是字节跳动旗下的云与AI服务平台。在AI时代，聚焦豆包大模型和AI云原生技术，为企业提供从 Agent 开发到部署的一站式服务，助力企业AI转型与创新发展。</div></div>
+<div class="item"><a href="https://ark.volcengine.com/region:cn-beijing/experience/gen_chat?model=doubao-seed-evolving-latest-version" target="_blank">Seed Evolving 模型上线，周级迭代</a><div class="desc">Doubao-Seed-Evolving 持续升级，周级别更新</div></div>
+<div class="item"><a href="https://exp.volcengine.com/ark/vision?mode=vision&amp;modelId=doubao-seedance-2-0-260128&amp;tab=GenVideo" target="_blank">Seedance X 周星驰经典电影 IP</a><div class="desc">火山引擎 AI 体验中心正式开放 Seedance 2.0 视频生成模型与 Seedream 5.0 视觉大模型在线体验！实现电影级声画同步视频、超高清 AI 绘图。立即加入，免费领取 50 万 Tokens 权益，抢先体验豆包大模型2.0。</div></div>
+<div class="item"><a href="https://www.volcengine.com/activity/seedance2?infrom=100001.100.203" target="_blank">Seedance 2.0 全面开放 API</a></div>
+<div class="item"><a href="https://ark.volcengine.com/region:cn-beijing/apiKey" target="_blank">获取 API KEY</a><div class="desc">Doubao-Seed-Evolving 持续升级，周级别更新</div></div>
+<div class="item"><a href="https://ark.volcengine.com/region:cn-beijing/overview" target="_blank">进入火山方舟</a><div class="desc">Doubao-Seed-Evolving 持续升级，周级别更新</div></div>
+<div class="item"><a href="https://www.volcengine.com/product/doubao" target="_blank">豆包大模型</a></div>
+<div class="item"><a href="https://www.volcengine.com/product/arkclaw-enterprise" target="_blank">ArkClaw 企业版</a></div>
+<div class="item"><a href="https://www.volcengine.com/product/trae" target="_blank">TRAE CN</a></div>
+<div class="item"><a href="https://www.volcengine.com/product/agentkit" target="_blank">AgentKit</a></div>
+<div class="item"><a href="https://www.volcengine.com/product/hiagent" target="_blank">HiAgent</a></div>
+<div class="item"><a href="https://www.volcengine.com/product/SecurityIntelligent" target="_blank">安全运营智能体</a></div>
+<div class="item"><a href="https://www.volcengine.com/product/ml-platform" target="_blank">机器学习平台</a></div>
+<div class="item"><a href="https://www.volcengine.com/product/rds-mysql" target="_blank">云数据库 MySQL 版</a></div>
+<div class="item"><a href="https://www.volcengine.com/product/AICC" target="_blank">Jeddak AICC</a></div>
+<div class="item"><a href="http://volcengine.com/product/llm-scan" target="_blank">大模型安全测评</a></div>
+<div class="item"><a href="https://www.volcengine.com/product/aipp" target="_blank">智能体安全防护平台</a></div>
+<div class="item"><a href="https://www.volcengine.com/product/agentsentry" target="_blank">AI 助手安全</a></div>
+<div class="item"><a href="https://www.volcengine.com/product/feilian" target="_blank">飞连智能体</a></div>
+<div class="item"><a href="https://www.volcengine.com/product/trae" target="_blank">用TRAE实现 Vibe Coding 全流程</a></div>
+<div class="item"><a href="https://www.volcengine.com/product/arkclaw-enterprise" target="_blank">用ArkClaw搭建 AI 员工助手</a></div>
+<div class="item"><a href="https://www.volcengine.com/product/coze-pro" target="_blank">用扣子搭建职场 AI 工作流</a></div>
+<div class="item"><a href="https://www.volcengine.com/product/search-agent" target="_blank">用联网问答 Agent构建 chatbot</a></div>
+<div class="item"><a href="https://www.volcengine.com/product/hiagent" target="_blank">用HiAgent搭建智能体</a></div>
+<div class="item"><a href="https://www.volcengine.com/product/kickart" target="_blank">用KickArt生成创意广告</a></div>
+<div class="item"><a href="https://www.volcengine.com/product/DataAgent" target="_blank">用数据智能体打造企业 AI 数字专家</a></div>
+<div class="item"><a href="https://www.volcengine.com/product/dramart" target="_blank">用剧创 Agent生成 AI 短剧</a></div>
+</div>
+<div class="src">
+<h2><span class="badge moonshot">月之暗面 (Kimi)</span></h2>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/26-kimi-k2-7-code-release" target="_blank">Kimi K2.7 Code 正式发布：Kimi Code 时代的最强编程模型<span class="date">06-13</span></a><div class="desc">Kimi K2.7 Code 已正式发布。本文围绕 Kimi K2.7 和 Kimi Code，解读这次更新的模型定位、256K 长上下文、强制思考模式、多模态输入、Agent 编程能力、价格与适合的开发场景。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/26-kimi-k2-7-code-release" target="_blank">阅读全文:Kimi K2.7 Code 正式发布：Kimi Code 时代的最强编程模型<span class="date">06-13</span></a><div class="desc">Kimi K2.7 Code 已正式发布。本文围绕 Kimi K2.7 和 Kimi Code，解读这次更新的模型定位、256K 长上下文、强制思考模式、多模态输入、Agent 编程能力、价格与适合的开发场景。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/27-kimi-code-k2-7-guide" target="_blank">Kimi Code 使用指南：如何用 Kimi K2.7 接入 Claude Code、Cline 和 RooCode<span class="date">06-13</span></a><div class="desc">Kimi Code 已升级到 Kimi K2.7 Code。本文面向开发者，讲解 Kimi Code 的定位、kimi-k2.7-code API 调用、Claude Code 环境变量、Cline 和 RooCode 配置步骤，以及 Kimi K2.7 编程任务的成本控制与提示词模板。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/27-kimi-code-k2-7-guide" target="_blank">阅读全文:Kimi Code 使用指南：如何用 Kimi K2.7 接入 Claude Code、Cline 和 RooCode<span class="date">06-13</span></a><div class="desc">Kimi Code 已升级到 Kimi K2.7 Code。本文面向开发者，讲解 Kimi Code 的定位、kimi-k2.7-code API 调用、Claude Code 环境变量、Cline 和 RooCode 配置步骤，以及 Kimi K2.7 编程任务的成本控制与提示词模板。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link" target="_blank">如何部署 Kimi 链接生成的网站：分享、导出代码或绑定自己的域名<span class="date">06-13</span></a><div class="desc">如果 Kimi 已经给你生成了一个公开网站链接，它本身就可以用于分享。本文说明什么时候直接使用 Kimi 链接，什么时候导出代码，以及如何把网站部署到自己的域名或托管平台。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link" target="_blank">阅读全文:如何部署 Kimi 链接生成的网站：分享、导出代码或绑定自己的域名<span class="date">06-13</span></a><div class="desc">如果 Kimi 已经给你生成了一个公开网站链接，它本身就可以用于分享。本文说明什么时候直接使用 Kimi 链接，什么时候导出代码，以及如何把网站部署到自己的域名或托管平台。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/24-kimi-k2-6-release" target="_blank">Kimi K2.6 正式发布：智能体编码时代进入生产阶段<span class="date">04-21</span></a><div class="desc">月之暗面正式发布 Kimi K2.6，将 Code Preview 分支升级为通用可用模型，支持 12 小时自主编码、300 智能体协同、全栈生成。本文解读版本变化、实际意义以及落地用法。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/24-kimi-k2-6-release" target="_blank">阅读全文:Kimi K2.6 正式发布：智能体编码时代进入生产阶段<span class="date">04-21</span></a><div class="desc">月之暗面正式发布 Kimi K2.6，将 Code Preview 分支升级为通用可用模型，支持 12 小时自主编码、300 智能体协同、全栈生成。本文解读版本变化、实际意义以及落地用法。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/25-k26-runway-for-k3" target="_blank">K2.6 是 K3 的跑道：从执行层基础设施反推下一代模型的形态<span class="date">04-21</span></a><div class="desc">关于 Kimi K2.6，真正值得追问的不是它能做什么，而是它明显在为怎样的模型搭建舞台。把 12 小时长跑、300 智能体 Swarm、上下文压缩器当作承重的基础设施来读，K3 的形态就显出来了。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/25-k26-runway-for-k3" target="_blank">阅读全文:K2.6 是 K3 的跑道：从执行层基础设施反推下一代模型的形态<span class="date">04-21</span></a><div class="desc">关于 Kimi K2.6，真正值得追问的不是它能做什么，而是它明显在为怎样的模型搭建舞台。把 12 小时长跑、300 智能体 Swarm、上下文压缩器当作承重的基础设施来读，K3 的形态就显出来了。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/23-kimi-k2-6-code-preview" target="_blank">Kimi K2.6 Code Preview 来了：月之暗面下一代代码与智能体模型全面解读<span class="date">04-14</span></a><div class="desc">月之暗面于 2026 年 4 月 13 日正式确认 Kimi K2.6 Code Preview 进入内测阶段，这款基于万亿参数 MoE 架构的下一代模型在代码生成与 Agent 能力上实现了显著提升。本文全面解读其技术细节与发展前瞻。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/23-kimi-k2-6-code-preview" target="_blank">阅读全文:Kimi K2.6 Code Preview 来了：月之暗面下一代代码与智能体模型全面解读<span class="date">04-14</span></a><div class="desc">月之暗面于 2026 年 4 月 13 日正式确认 Kimi K2.6 Code Preview 进入内测阶段，这款基于万亿参数 MoE 架构的下一代模型在代码生成与 Agent 能力上实现了显著提升。本文全面解读其技术细节与发展前瞻。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/21-openclaw-kimi-2-5" target="_blank">OpenClaw + Kimi k2.5：开源 Agent 与顶尖国产模型的“王炸”组合<span class="date">02-03</span></a><div class="desc">OpenClaw 宣布向所有用户免费开放 Moonshot AI 最新发布的 Kimi k2.5 模型支持，这一举动让“本地化 Agent”与“顶尖国产大模型”的结合成为了 2026 年初最值得关注的技术趋势。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/21-openclaw-kimi-2-5" target="_blank">阅读全文:OpenClaw + Kimi k2.5：开源 Agent 与顶尖国产模型的“王炸”组合<span class="date">02-03</span></a><div class="desc">OpenClaw 宣布向所有用户免费开放 Moonshot AI 最新发布的 Kimi k2.5 模型支持，这一举动让“本地化 Agent”与“顶尖国产大模型”的结合成为了 2026 年初最值得关注的技术趋势。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/22-kimi-k2-5-visual-coding" target="_blank">你的代码，它能“看见”：深入拆解 Kimi k2.5 的视觉编码能力<span class="date">02-03</span></a><div class="desc">Kimi k2.5 采用了原生多模态架构，这不仅意味着它能看懂图片，更能理解视频中的时间流逝和交互逻辑。本文深入解读其核心的“视觉编码”功能。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/22-kimi-k2-5-visual-coding" target="_blank">阅读全文:你的代码，它能“看见”：深入拆解 Kimi k2.5 的视觉编码能力<span class="date">02-03</span></a><div class="desc">Kimi k2.5 采用了原生多模态架构，这不仅意味着它能看懂图片，更能理解视频中的时间流逝和交互逻辑。本文深入解读其核心的“视觉编码”功能。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/20-kimi-k2-5" target="_blank">Kimi K2.5 正式发布：原生视觉与智能体蜂群的全面进化<span class="date">01-27</span></a><div class="desc">月之暗面宣布 Kimi K2.5 正式上线，作为目前最强的开源模型，它带来了 Coding with Vision 视觉编程能力、革命性的 Agent Swarm 蜂群模式，以及能够处理高密度办公任务的专家级生产力。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/20-kimi-k2-5" target="_blank">阅读全文:Kimi K2.5 正式发布：原生视觉与智能体蜂群的全面进化<span class="date">01-27</span></a><div class="desc">月之暗面宣布 Kimi K2.5 正式上线，作为目前最强的开源模型，它带来了 Coding with Vision 视觉编程能力、革命性的 Agent Swarm 蜂群模式，以及能够处理高密度办公任务的专家级生产力。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/19-kimi-k25-upgrade" target="_blank">Kimi K2.5 悄然上线：原生视觉与智能体的全面进化<span class="date">01-26</span></a><div class="desc">月之暗面静默更新 Kimi K2.5，带来原生视觉能力、更强的推理与智能体能力，被业界视为对标 Gemini 3 Pro 的里程碑式升级。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/19-kimi-k25-upgrade" target="_blank">阅读全文:Kimi K2.5 悄然上线：原生视觉与智能体的全面进化<span class="date">01-26</span></a><div class="desc">月之暗面静默更新 Kimi K2.5，带来原生视觉能力、更强的推理与智能体能力，被业界视为对标 Gemini 3 Pro 的里程碑式升级。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/18-kimi-k2-with-nano-banana-pro" target="_blank">如何使用Kimi K2编写高质量Nano Banana Pro提示词：从入门到精通<span class="date">11-28</span></a><div class="desc">深入探讨Kimi K2大模型如何优化Nano Banana Pro图像生成提示词，包含三步法、实战案例和模板库构建，助力创作者提升AI图像生成质量。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/18-kimi-k2-with-nano-banana-pro" target="_blank">阅读全文:如何使用Kimi K2编写高质量Nano Banana Pro提示词：从入门到精通<span class="date">11-28</span></a><div class="desc">深入探讨Kimi K2大模型如何优化Nano Banana Pro图像生成提示词，包含三步法、实战案例和模板库构建，助力创作者提升AI图像生成质量。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/17-kimi-k2-thinking-vs-minimax-m2" target="_blank">Kimi K2 Thinking vs MiniMax M2：开源推理模型全面对比<span class="date">11-14</span></a><div class="desc">深入对比Kimi K2 Thinking与MiniMax M2两大开源推理模型，从架构设计、性能基准测试、成本分析到实际应用场景，为技术选型提供全面参考。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/17-kimi-k2-thinking-vs-minimax-m2" target="_blank">阅读全文:Kimi K2 Thinking vs MiniMax M2：开源推理模型全面对比<span class="date">11-14</span></a><div class="desc">深入对比Kimi K2 Thinking与MiniMax M2两大开源推理模型，从架构设计、性能基准测试、成本分析到实际应用场景，为技术选型提供全面参考。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/15-kimi-k2-thinking" target="_blank">Kimi K2 Thinking：月之暗面推出迄今最强的开源思考模型<span class="date">11-07</span></a><div class="desc">Kimi K2 Thinking作为第一代原生支持边思考边使用工具的Thinking Agent，实现了深度思考与工具编排的完美融合，在多项基准测试中达到SOTA水平，标志着开源AI推理模型的重大突破。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/15-kimi-k2-thinking" target="_blank">阅读全文:Kimi K2 Thinking：月之暗面推出迄今最强的开源思考模型<span class="date">11-07</span></a><div class="desc">Kimi K2 Thinking作为第一代原生支持边思考边使用工具的Thinking Agent，实现了深度思考与工具编排的完美融合，在多项基准测试中达到SOTA水平，标志着开源AI推理模型的重大突破。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/14-kimi-k2-reasoning" target="_blank">Kimi K2 Reasoning：AI 推理领域的革命性升级<span class="date">11-06</span></a><div class="desc">Kimi K2 introduces advanced reasoning mechanisms that significantly enhance the inference capabilities and efficiency of AI models.</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/14-kimi-k2-reasoning" target="_blank">阅读全文:Kimi K2 Reasoning：AI 推理领域的革命性升级<span class="date">11-06</span></a><div class="desc">Kimi K2 introduces advanced reasoning mechanisms that significantly enhance the inference capabilities and efficiency of AI models.</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/12-deepseek-v31-terminus-analysis" target="_blank">DeepSeek V3.1 Terminus 全面解析<span class="date">09-23</span></a><div class="desc">对比 DeepSeek V3.1 Terminus、DeepSeek V3.1 与 DeepSeek V3.1-Base 的架构、训练、基准与部署策略。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/12-deepseek-v31-terminus-analysis" target="_blank">阅读全文:DeepSeek V3.1 Terminus 全面解析<span class="date">09-23</span></a><div class="desc">对比 DeepSeek V3.1 Terminus、DeepSeek V3.1 与 DeepSeek V3.1-Base 的架构、训练、基准与部署策略。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/13-deepseek-v31-terminus-vs-kimi-k2" target="_blank">DeepSeek V3.1 Terminus 对比 Kimi K2-0905：2025 年四季度智能体选型指南</a></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/13-deepseek-v31-terminus-vs-kimi-k2" target="_blank">阅读全文:DeepSeek V3.1 Terminus 对比 Kimi K2-0905：2025 年四季度智能体选型指南<span class="date">09-23</span></a><div class="desc">从发布时间、模型架构、基准测试、价格策略与部署生态等维度对比 DeepSeek V3.1 Terminus 与 Kimi K2-0905，帮助团队为关键智能体环节挑选合适模型。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/11-deepseek-v31-terminus" target="_blank">DeepSeek V3.1 Terminus：面向生产的多语言智能体<span class="date">09-22</span></a><div class="desc">DeepSeek V3.1 Terminus 针对跨语言对齐、智能体通过率和开源权重进行了强化，为全球团队带来更稳定的构建体验。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/11-deepseek-v31-terminus" target="_blank">阅读全文:DeepSeek V3.1 Terminus：面向生产的多语言智能体<span class="date">09-22</span></a><div class="desc">DeepSeek V3.1 Terminus 针对跨语言对齐、智能体通过率和开源权重进行了强化，为全球团队带来更稳定的构建体验。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/09-k2-0905-release" target="_blank">Kimi K2-0905：增强编码和Claude Code兼容性<span class="date">09-05</span></a><div class="desc">最新Kimi K2-0905具备增强编码能力，无缝Claude Code兼容性，256K上下文，保持K2-0711个性。AI开发的未来。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/09-k2-0905-release" target="_blank">阅读全文:Kimi K2-0905：增强编码和Claude Code兼容性<span class="date">09-05</span></a><div class="desc">最新Kimi K2-0905具备增强编码能力，无缝Claude Code兼容性，256K上下文，保持K2-0711个性。AI开发的未来。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/08-kimi-k2-turbo-preview" target="_blank">Kimi K2 Turbo 预览：革命性的速度升级，输出速度提升 4 倍</a></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/08-kimi-k2-turbo-preview" target="_blank">阅读全文:Kimi K2 Turbo 预览：革命性的速度升级，输出速度提升 4 倍</a></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/06-model-pricing" target="_blank">Kimi K2定价指南：高性价比AI开发方案</a></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/06-model-pricing" target="_blank">阅读全文:Kimi K2定价指南：高性价比AI开发方案</a></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/07-ai-coding-assistant" target="_blank">Claude Code 与 Kimi K2：终极 AI 编程助手组合</a></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/07-ai-coding-assistant" target="_blank">阅读全文:Claude Code 与 Kimi K2：终极 AI 编程助手组合</a></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/05-ecosystem-guide" target="_blank">Kimi-K2生态系统：工具集成与开发者指南</a></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/05-ecosystem-guide" target="_blank">阅读全文:Kimi-K2生态系统：工具集成与开发者指南<span class="date">07-14</span></a><div class="desc">全面介绍 Kimi-K2 的开发生态，包括主流框架集成、开发工具推荐、API最佳实践以及社区资源导览。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/04-benchmark-analysis" target="_blank">Kimi-K2性能基准测试与模型对比分析<span class="date">07-13</span></a><div class="desc">全面分析 Kimi-K2 在各项基准测试中的表现，与主流开源模型进行深度对比，为技术选型提供数据支撑。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/04-benchmark-analysis" target="_blank">阅读全文:Kimi-K2性能基准测试与模型对比分析<span class="date">07-13</span></a><div class="desc">全面分析 Kimi-K2 在各项基准测试中的表现，与主流开源模型进行深度对比，为技术选型提供数据支撑。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/03-agent-development" target="_blank">Kimi-K2实战：智能体开发与应用场景探索<span class="date">07-12</span></a><div class="desc">深入探索 Kimi-K2 在智能体开发中的独特优势，通过实际案例展示工具调用、多轮对话等核心能力的应用实践。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/03-agent-development" target="_blank">阅读全文:Kimi-K2实战：智能体开发与应用场景探索<span class="date">07-12</span></a><div class="desc">深入探索 Kimi-K2 在智能体开发中的独特优势，通过实际案例展示工具调用、多轮对话等核心能力的应用实践。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/02-deployment-guide" target="_blank">从零开始部署 Kimi K2：完整实践指南<span class="date">07-11</span></a><div class="desc">详细介绍 Kimi K2 的部署要求、环境配置、推理引擎选择和生产级部署方案，助您快速上手这一强大的AI模型。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/02-deployment-guide" target="_blank">阅读全文:从零开始部署 Kimi K2：完整实践指南<span class="date">07-11</span></a><div class="desc">详细介绍 Kimi K2 的部署要求、环境配置、推理引擎选择和生产级部署方案，助您快速上手这一强大的AI模型。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/01-technical-breakthrough" target="_blank">Kimi K2 深度解析：万亿参数混合专家模型的技术突破<span class="date">07-10</span></a><div class="desc">深入解析 Kimi K2 的 MoE 架构设计，探讨 32B 激活参数与 1T 总参数的技术意义，以及 Muon 优化器在大模型训练中的创新应用。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/01-technical-breakthrough" target="_blank">阅读全文:Kimi K2 深度解析：万亿参数混合专家模型的技术突破<span class="date">07-10</span></a><div class="desc">深入解析 Kimi K2 的 MoE 架构设计，探讨 32B 激活参数与 1T 总参数的技术意义，以及 Muon 优化器在大模型训练中的创新应用。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/10-kimi-k2-vs-qwen3-coder" target="_blank">Kimi K2-0905 与 Qwen 3 Coder：终极 AI 编程对决<span class="date">12-15</span></a><div class="desc">深入探讨 Kimi K2-0905 和 Qwen 3 Coder AI 模型之间的竞争。比较性能、成本和实际编码能力，以找到您完美的 AI 助手。</div></div>
+<div class="item"><a href="https://kimi-k2.org/zh/blog/10-kimi-k2-vs-qwen3-coder" target="_blank">阅读全文:Kimi K2-0905 与 Qwen 3 Coder：终极 AI 编程对决<span class="date">12-15</span></a><div class="desc">深入探讨 Kimi K2-0905 和 Qwen 3 Coder AI 模型之间的竞争。比较性能、成本和实际编码能力，以找到您完美的 AI 助手。</div></div>
+</div>
 
-  <div class="src">
-    <h2><span class="badge openai">OpenAI</span></h2>
-    <div class="item">
-      <span class="none">No new posts within the coverage window.</span>
-    </div>
-  </div>
-
-  <div class="src">
-    <h2><span class="badge gemini">Gemini / DeepMind</span></h2>
-    <div class="item">
-      <a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/" target="_blank">Gemini Spark updates: macOS launch, connected apps and more<span class="date">06-30</span></a>
-      <div class="desc">Google announced three major Gemini Spark updates: a macOS desktop app (Beta), integrations with Canva and Dropbox, and real-time topic tracking for news, sports, and finance, making the assistant more proactive and connected.</div>
-    </div>
-    <div class="item">
-      <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/" target="_blank">Start building with Nano Banana 2 Lite and Gemini Omni Flash<span class="date">06-30</span></a>
-      <div class="desc">Google released Nano Banana 2 Lite, its fastest and most cost-efficient Gemini Image model, and made Gemini Omni Flash available to developers for video generation and conversational editing.</div>
-    </div>
-  </div>
-
-  <footer>Auto-generated by a Claude Code scheduled task · Updated every weekday at 8:50</footer>
+  <footer>Auto-generated by fetch_news.py · Updated daily at 07:00</footer>
 </div>
 </body>
 </html>
