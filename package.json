@@ -1,0 +1,22 @@
+{
+  "name": "ai-news",
+  "version": "1.0.0",
+  "description": "AI News timeline aggregator — daily roundup from Anthropic, OpenAI & Gemini/DeepMind",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler pages dev . --live-reload",
+    "deploy": "wrangler pages deploy . --project-name ai-news",
+    "build": "echo 'Static site — no build step required'"
+  },
+  "keywords": [
+    "ai-news",
+    "anthropic",
+    "openai",
+    "gemini",
+    "cloudflare-pages"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^4.86.0"
+  }
+}
