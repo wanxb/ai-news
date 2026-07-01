@@ -4,4 +4,4 @@ compatibility_date = "2026-07-01"
 pages_build_output_dir = "."
 
 [env.production]
-routes = [{ pattern = "ai-news.xxx.com", custom_domain = true }]
+routes = [{ pattern = "news.bbing.xyz", custom_domain = true }]

@@ -4,3 +4,13 @@ dist/
 *.local.*
 .DS_Store
 Thumbs.db
+
+# Local environment
+.claude/
+
+# Runtime artifacts
+scrape_output.log
+
+# Python
+__pycache__/
+*.pyc
