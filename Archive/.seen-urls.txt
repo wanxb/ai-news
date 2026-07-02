@@ -28,8 +28,10 @@ https://blog.google/company-news/inside-google/around-the-globe/google-europe/un
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/
 https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/
+https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026
 https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/
 https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/
+https://blog.google/products-and-platforms/products/education/nyc-ai-summit
 https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit
 https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis
 https://code.minimax.io
@@ -70,6 +72,7 @@ https://exp.volcengine.com/ark/vision?mode=vision&modelId=doubao-seedance-2-0-26
 https://github.com/deepseek-ai
 https://hailuoai.video
 https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable
+https://huggingface.co/blog/cerebras-gemma4-voice-ai
 https://huggingface.co/blog/eee-community-evals
 https://huggingface.co/blog/ibm-research/scarfbench
 https://ir.minimax.io
@@ -207,6 +210,7 @@ https://x.ai/news/grok-skills
 https://x.ai/news/grok-stt-and-tts-apis
 https://x.ai/news/grok-vapi
 https://x.ai/news/grok-voice-agent-api
+https://x.ai/news/grok-voice-agent-builder
 https://x.ai/news/grok-voice-think-fast-1
 https://x.ai/news/grok-warp
 https://x.ai/news/introducing-goal
