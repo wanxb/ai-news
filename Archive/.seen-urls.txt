@@ -127,6 +127,7 @@ https://www.anthropic.com/news/claude-science-ai-workbench
 https://www.anthropic.com/news/claude-sonnet-5
 https://www.anthropic.com/news/dxc-anthropic-alliance
 https://www.anthropic.com/news/fable-mythos-access
+https://www.anthropic.com/news/fable-safeguards-jailbreak-framework
 https://www.anthropic.com/news/introducing-claude-tag
 https://www.anthropic.com/news/redeploying-fable-5
 https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem
