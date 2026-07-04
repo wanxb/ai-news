@@ -35,6 +35,7 @@ https://blog.google/products-and-platforms/products/education/nyc-ai-summit
 https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit
 https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis
 https://code.minimax.io
+https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership
 https://deepmind.google/blog/securing-the-future-of-ai-agents/
 https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash
 https://discord.gg/Tc7c45Zzu5
