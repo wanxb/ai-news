@@ -73,9 +73,12 @@ https://exp.volcengine.com/ark/vision?mode=vision&modelId=doubao-seedance-2-0-26
 https://github.com/deepseek-ai
 https://hailuoai.video
 https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable
+https://huggingface.co/blog/Photoroom/prx-part4-data
 https://huggingface.co/blog/cerebras-gemma4-voice-ai
 https://huggingface.co/blog/eee-community-evals
 https://huggingface.co/blog/ibm-research/scarfbench
+https://huggingface.co/blog/lerobot-release-v060
+https://huggingface.co/blog/revamped-kernels
 https://ir.minimax.io
 https://kimi-k2.org/zh/blog/01-technical-breakthrough
 https://kimi-k2.org/zh/blog/02-deployment-guide
@@ -121,6 +124,7 @@ https://openai.com/index/previewing-gpt-5-6-sol/
 https://platform.deepseek.com
 https://platform.minimax.io/contact-us
 https://twitter.com/deepseek_ai
+https://www.anthropic.com/news/alberta-government-claude-cybersecurity
 https://www.anthropic.com/news/anthropic-public-record
 https://www.anthropic.com/news/claude-corps
 https://www.anthropic.com/news/claude-opus-4-8
