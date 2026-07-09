@@ -85,6 +85,8 @@ https://huggingface.co/blog/eee-community-evals
 https://huggingface.co/blog/ibm-research/scarfbench
 https://huggingface.co/blog/lerobot-release-v060
 https://huggingface.co/blog/microsoft/foundry-managed-compute
+https://huggingface.co/blog/native-speed-vllm-transformers-backend
+https://huggingface.co/blog/nvidia/open-data-for-agents
 https://huggingface.co/blog/revamped-kernels
 https://huggingface.co/blog/skypilot-hf-storage
 https://ir.minimax.io
@@ -121,15 +123,19 @@ https://openai.com/index/codex-maxxing-long-running-work/
 https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
 https://openai.com/index/daybreak-securing-the-world/
 https://openai.com/index/genebench-pro/case-studies
+https://openai.com/index/government-national-security-partnerships
 https://openai.com/index/gpt-5-immunology-mystery/
 https://openai.com/index/how-agents-are-transforming-work/
 https://openai.com/index/how-chatgpt-adoption-has-expanded
 https://openai.com/index/hp-frontier-partnership/
 https://openai.com/index/introducing-genebench-pro
+https://openai.com/index/introducing-gpt-live
+https://openai.com/index/k-12-educators-practical-skills
 https://openai.com/index/openai-broadcom-jalapeno-inference-chip/
 https://openai.com/index/openai-on-oracle-cloud/
 https://openai.com/index/openai-to-acquire-ona/
 https://openai.com/index/previewing-gpt-5-6-sol/
+https://openai.com/index/separating-signal-from-noise-coding-evaluations
 https://platform.deepseek.com
 https://platform.minimax.io/contact-us
 https://twitter.com/deepseek_ai
@@ -196,6 +202,7 @@ https://x.ai/news/grok-3
 https://x.ai/news/grok-4
 https://x.ai/news/grok-4-1
 https://x.ai/news/grok-4-1-fast
+https://x.ai/news/grok-4-5
 https://x.ai/news/grok-4-fast
 https://x.ai/news/grok-amazon-bedrock
 https://x.ai/news/grok-build-0-1
