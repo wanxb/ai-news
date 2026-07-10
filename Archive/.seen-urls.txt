@@ -90,6 +90,7 @@ https://huggingface.co/blog/native-speed-vllm-transformers-backend
 https://huggingface.co/blog/nvidia/open-data-for-agents
 https://huggingface.co/blog/revamped-kernels
 https://huggingface.co/blog/skypilot-hf-storage
+https://huggingface.co/blog/torch-attention-profile
 https://ir.minimax.io
 https://kimi-k2.org/zh/blog/01-technical-breakthrough
 https://kimi-k2.org/zh/blog/02-deployment-guide
@@ -125,6 +126,7 @@ https://openai.com/index/chatgpt-for-your-most-ambitious-work
 https://openai.com/index/codex-maxxing-long-running-work/
 https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
 https://openai.com/index/daybreak-securing-the-world/
+https://openai.com/index/deutsche-telekom
 https://openai.com/index/genebench-pro/case-studies
 https://openai.com/index/government-national-security-partnerships
 https://openai.com/index/gpt-5-6
@@ -160,6 +162,7 @@ https://www.anthropic.com/news/redeploying-fable-5
 https://www.anthropic.com/news/reflect-with-claude
 https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem
 https://www.anthropic.com/news/tcs-anthropic-partnership
+https://www.anthropic.com/news/ust-claude
 https://www.bigmodel.cn/pricing
 https://www.minimax.io/about
 https://www.minimax.io/audio
