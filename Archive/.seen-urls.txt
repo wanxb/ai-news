@@ -119,6 +119,7 @@ https://kimi-k2.org/zh/blog/25-k26-runway-for-k3
 https://kimi-k2.org/zh/blog/26-kimi-k2-7-code-release
 https://kimi-k2.org/zh/blog/27-kimi-code-k2-7-guide
 https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link
+https://openai.com/academy/getting-started
 https://openai.com/index/australian-payments-plus
 https://openai.com/index/bio-bug-bounty
 https://openai.com/index/built-to-benefit-everyone-our-plan/
