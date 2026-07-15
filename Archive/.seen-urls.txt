@@ -83,16 +83,20 @@ https://github.com/deepseek-ai
 https://hailuoai.video
 https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable
 https://huggingface.co/blog/Photoroom/prx-part4-data
+https://huggingface.co/blog/allenai/shippy-tech-blog
 https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
 https://huggingface.co/blog/cerebras-gemma4-voice-ai
 https://huggingface.co/blog/eee-community-evals
+https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt
 https://huggingface.co/blog/ibm-research/scarfbench
 https://huggingface.co/blog/lerobot-release-v060
 https://huggingface.co/blog/microsoft/foundry-managed-compute
 https://huggingface.co/blog/native-speed-vllm-transformers-backend
 https://huggingface.co/blog/nvidia/open-data-for-agents
+https://huggingface.co/blog/real-world-voiceeq
 https://huggingface.co/blog/revamped-kernels
 https://huggingface.co/blog/skypilot-hf-storage
+https://huggingface.co/blog/thinkingmachines-inkling
 https://huggingface.co/blog/torch-attention-profile
 https://ir.minimax.io
 https://kimi-k2.org/zh/blog/01-technical-breakthrough
@@ -125,6 +129,7 @@ https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link
 https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
 https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
 https://openai.com/academy/getting-started
+https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
 https://openai.com/index/australian-payments-plus
 https://openai.com/index/bio-bug-bounty
 https://openai.com/index/built-to-benefit-everyone-our-plan/
@@ -150,6 +155,7 @@ https://openai.com/index/openai-on-oracle-cloud/
 https://openai.com/index/openai-to-acquire-ona/
 https://openai.com/index/previewing-gpt-5-6-sol/
 https://openai.com/index/separating-signal-from-noise-coding-evaluations
+https://openai.com/index/unlocking-self-improvement-gpt-red
 https://platform.deepseek.com
 https://platform.minimax.io/contact-us
 https://twitter.com/deepseek_ai
@@ -227,6 +233,7 @@ https://x.ai/news/grok-4-fast
 https://x.ai/news/grok-amazon-bedrock
 https://x.ai/news/grok-build-0-1
 https://x.ai/news/grok-build-cli
+https://x.ai/news/grok-build-open-source
 https://x.ai/news/grok-business
 https://x.ai/news/grok-code-fast-1
 https://x.ai/news/grok-collections-api
