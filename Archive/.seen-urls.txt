@@ -43,6 +43,7 @@ https://blog.google/products-and-platforms/products/workspace/gemini-omni-person
 https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit
 https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize
 https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale
+https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar
 https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis
 https://code.minimax.io
 https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi
@@ -98,6 +99,7 @@ https://huggingface.co/blog/microsoft/foundry-managed-compute
 https://huggingface.co/blog/native-speed-vllm-transformers-backend
 https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb
 https://huggingface.co/blog/nvidia/open-data-for-agents
+https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel
 https://huggingface.co/blog/real-world-voiceeq
 https://huggingface.co/blog/revamped-kernels
 https://huggingface.co/blog/security-incident-july-2026
@@ -134,10 +136,12 @@ https://kimi-k2.org/zh/blog/27-kimi-code-k2-7-guide
 https://kimi-k2.org/zh/blog/28-kimi-k3-eve-what-we-know
 https://kimi-k2.org/zh/blog/29-kimi-which-model-k26-k27-k3
 https://kimi-k2.org/zh/blog/30-kimi-k3-release
+https://kimi-k2.org/zh/blog/31-kimi-k3-open-weights-july-27
 https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link
 https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
 https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
 https://openai.com/academy/getting-started
+https://openai.com/index/a-scorecard-for-the-ai-age
 https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
 https://openai.com/index/australian-payments-plus
 https://openai.com/index/bio-bug-bounty
