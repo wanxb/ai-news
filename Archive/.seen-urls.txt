@@ -138,6 +138,7 @@ https://kimi-k2.org/zh/blog/29-kimi-which-model-k26-k27-k3
 https://kimi-k2.org/zh/blog/30-kimi-k3-release
 https://kimi-k2.org/zh/blog/31-kimi-k3-open-weights-july-27
 https://kimi-k2.org/zh/blog/32-kimi-k3-vs-claude-gpt
+https://kimi-k2.org/zh/blog/33-kimi-k3-free-how-to
 https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link
 https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
 https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
