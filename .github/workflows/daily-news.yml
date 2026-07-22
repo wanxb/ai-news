@@ -1,7 +1,10 @@
 name: Daily AI News
 
+env:
+  TZ: Asia/Shanghai
+
 on:
-  # ── Scheduled: daily at 07:00 China time (23:00 UTC previous day) ──
+  # GitHub cron is always UTC: 23:00 UTC = 07:00 Beijing time the next day.
   schedule:
     - cron: '0 23 * * *'
 
@@ -9,7 +12,7 @@ on:
   workflow_dispatch:
     inputs:
       date:
-        description: 'Date to run for (YYYY-MM-DD, empty = today)'
+        description: 'Date to run for (YYYY-MM-DD, empty = today in Beijing)'
         required: false
         type: string
       dry_run:

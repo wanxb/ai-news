@@ -3,7 +3,7 @@
 Daily AI news aggregator covering **Anthropic**, **OpenAI**, and **Google Gemini/DeepMind**.
 
 A static timeline site deployed on **Cloudflare Pages** — zero backend, zero build step.
-Auto-scraped and updated every day at 07:00 via **GitHub Actions**.
+Auto-scraped and updated every day at 07:00 Beijing time via **GitHub Actions**.
 
 ## Structure
 
@@ -41,7 +41,7 @@ Auto-scraped and updated every day at 07:00 via **GitHub Actions**.
 ```bash
 pip install -r scripts/requirements.txt
 
-# Run for today
+# Run for today in Beijing
 python scripts/fetch_news.py
 
 # Dry run (preview without writing)
