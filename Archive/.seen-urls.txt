@@ -37,6 +37,7 @@ https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemm
 https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api
 https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/
 https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience
+https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy
 https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026
 https://blog.google/products-and-platforms/products/education/nyc-ai-summit
 https://blog.google/products-and-platforms/products/search/connected-apps
@@ -103,6 +104,7 @@ https://huggingface.co/blog/ibm-research/scarfbench
 https://huggingface.co/blog/lerobot-release-v060
 https://huggingface.co/blog/microsoft/foundry-managed-compute
 https://huggingface.co/blog/native-speed-vllm-transformers-backend
+https://huggingface.co/blog/nunchaku-diffusers
 https://huggingface.co/blog/nvidia/cosmos3edge
 https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb
 https://huggingface.co/blog/nvidia/open-data-for-agents
@@ -172,6 +174,7 @@ https://openai.com/index/government-national-security-partnerships
 https://openai.com/index/gpt-5-6
 https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
 https://openai.com/index/gpt-5-immunology-mystery/
+https://openai.com/index/health-in-chatgpt
 https://openai.com/index/how-agents-are-transforming-work/
 https://openai.com/index/how-chatgpt-adoption-has-expanded
 https://openai.com/index/how-news-organizations-are-using-ai
@@ -270,6 +273,7 @@ https://x.ai/news/grok-4
 https://x.ai/news/grok-4-1
 https://x.ai/news/grok-4-1-fast
 https://x.ai/news/grok-4-5
+https://x.ai/news/grok-4-5-everywhere
 https://x.ai/news/grok-4-fast
 https://x.ai/news/grok-amazon-bedrock
 https://x.ai/news/grok-automations
@@ -316,4 +320,5 @@ https://x.ai/news/series-b
 https://x.ai/news/series-c
 https://x.ai/news/series-e
 https://x.ai/news/us-gov-dept-of-war
+https://x.ai/news/workflows
 https://x.ai/news/xai-joins-spacex
