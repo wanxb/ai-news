@@ -151,6 +151,7 @@ https://kimi-k2.org/zh/blog/32-kimi-k3-vs-claude-gpt
 https://kimi-k2.org/zh/blog/33-kimi-k3-free-how-to
 https://kimi-k2.org/zh/blog/34-kimi-k3-vram-ollama-local-requirements
 https://kimi-k2.org/zh/blog/35-kimi-k3-subscription-paused-access
+https://kimi-k2.org/zh/blog/36-how-to-use-kimi-k3
 https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link
 https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
 https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
@@ -207,6 +208,7 @@ https://www.anthropic.com/news/canadian-ai-research
 https://www.anthropic.com/news/claude-corps
 https://www.anthropic.com/news/claude-for-teachers
 https://www.anthropic.com/news/claude-opus-4-8
+https://www.anthropic.com/news/claude-opus-5
 https://www.anthropic.com/news/claude-science-ai-workbench
 https://www.anthropic.com/news/claude-sonnet-5
 https://www.anthropic.com/news/donation-public-first-action
@@ -310,6 +312,7 @@ https://x.ai/news/grok-voice-think-fast-1
 https://x.ai/news/grok-warp
 https://x.ai/news/introducing-excel-addin
 https://x.ai/news/introducing-goal
+https://x.ai/news/introducing-google-workspace-addon
 https://x.ai/news/introducing-outlook-addin
 https://x.ai/news/introducing-powerpoint-addin
 https://x.ai/news/introducing-word-addin
