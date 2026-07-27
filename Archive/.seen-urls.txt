@@ -1,4 +1,5 @@
 http://volcengine.com/product/llm-scan
+https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino
 https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino
 https://ai.meta.com/blog/introducing-muse-image-muse-video-msl
 https://ai.meta.com/blog/introducing-muse-spark-meta-model-api
@@ -48,6 +49,7 @@ https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit
 https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize
 https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale
 https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar
+https://blogs.nvidia.com/blog/open-secure-ai-alliance
 https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis
 https://code.minimax.io
 https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission
@@ -105,6 +107,7 @@ https://huggingface.co/blog/lerobot-release-v060
 https://huggingface.co/blog/microsoft/foundry-managed-compute
 https://huggingface.co/blog/native-speed-vllm-transformers-backend
 https://huggingface.co/blog/nunchaku-diffusers
+https://huggingface.co/blog/nvidia/cosmos-h-dreams
 https://huggingface.co/blog/nvidia/cosmos3edge
 https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb
 https://huggingface.co/blog/nvidia/open-data-for-agents
@@ -153,6 +156,8 @@ https://kimi-k2.org/zh/blog/34-kimi-k3-vram-ollama-local-requirements
 https://kimi-k2.org/zh/blog/35-kimi-k3-subscription-paused-access
 https://kimi-k2.org/zh/blog/36-how-to-use-kimi-k3
 https://kimi-k2.org/zh/blog/37-kimi-k3-api-pricing-cost-control
+https://kimi-k2.org/zh/blog/38-kimi-k3-self-host-vllm-day0
+https://kimi-k2.org/zh/blog/39-kimi-k3-weights-live
 https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link
 https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
 https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
@@ -178,6 +183,7 @@ https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
 https://openai.com/index/gpt-5-immunology-mystery/
 https://openai.com/index/health-in-chatgpt
 https://openai.com/index/how-agents-are-transforming-work/
+https://openai.com/index/how-ai-is-expanding-what-people-do-at-work
 https://openai.com/index/how-chatgpt-adoption-has-expanded
 https://openai.com/index/how-news-organizations-are-using-ai
 https://openai.com/index/hp-frontier-partnership/
@@ -212,6 +218,7 @@ https://www.anthropic.com/news/claude-opus-4-8
 https://www.anthropic.com/news/claude-opus-5
 https://www.anthropic.com/news/claude-science-ai-workbench
 https://www.anthropic.com/news/claude-sonnet-5
+https://www.anthropic.com/news/cognizant-anthropic
 https://www.anthropic.com/news/donation-public-first-action
 https://www.anthropic.com/news/dxc-anthropic-alliance
 https://www.anthropic.com/news/economic-futures-research-fund-agenda
@@ -219,6 +226,7 @@ https://www.anthropic.com/news/fable-mythos-access
 https://www.anthropic.com/news/fable-safeguards-jailbreak-framework
 https://www.anthropic.com/news/hard-questions
 https://www.anthropic.com/news/introducing-claude-tag
+https://www.anthropic.com/news/position-open-weights-models
 https://www.anthropic.com/news/rare-disease-research-grants
 https://www.anthropic.com/news/redeploying-fable-5
 https://www.anthropic.com/news/reflect-with-claude
