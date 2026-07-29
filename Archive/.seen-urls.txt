@@ -62,6 +62,7 @@ https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-fl
 https://deepmind.google/blog/our-approach-to-bioresilience
 https://deepmind.google/blog/securing-the-future-of-ai-agents/
 https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash
+https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control
 https://discord.gg/Tc7c45Zzu5
 https://docs.bigmodel.cn/cn/api/introduction
 https://docs.bigmodel.cn/cn/coding-plan/team
@@ -175,6 +176,7 @@ https://openai.com/index/bio-bug-bounty
 https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community
 https://openai.com/index/built-to-benefit-everyone-our-plan/
 https://openai.com/index/cars24
+https://openai.com/index/chatgpt-for-academic-researchers
 https://openai.com/index/chatgpt-for-your-most-ambitious-work
 https://openai.com/index/codex-maxxing-long-running-work/
 https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
@@ -184,6 +186,7 @@ https://openai.com/index/deutsche-telekom
 https://openai.com/index/genebench-pro/case-studies
 https://openai.com/index/government-national-security-partnerships
 https://openai.com/index/gpt-5-6
+https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency
 https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
 https://openai.com/index/gpt-5-immunology-mystery/
 https://openai.com/index/health-in-chatgpt
@@ -191,6 +194,7 @@ https://openai.com/index/how-agents-are-transforming-work/
 https://openai.com/index/how-ai-is-expanding-what-people-do-at-work
 https://openai.com/index/how-chatgpt-adoption-has-expanded
 https://openai.com/index/how-news-organizations-are-using-ai
+https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores
 https://openai.com/index/hp-frontier-partnership/
 https://openai.com/index/hugging-face-model-evaluation-security-incident
 https://openai.com/index/introducing-chatgpt-small-business-program
@@ -326,6 +330,7 @@ https://x.ai/news/grok-vapi
 https://x.ai/news/grok-voice-agent-api
 https://x.ai/news/grok-voice-agent-builder
 https://x.ai/news/grok-voice-think-fast-1
+https://x.ai/news/grok-voice-think-fast-2
 https://x.ai/news/grok-warp
 https://x.ai/news/introducing-excel-addin
 https://x.ai/news/introducing-goal
@@ -346,12 +351,24 @@ https://x.com/AnthropicAI/status/2081864750296658008
 https://x.com/AnthropicAI/status/2082153297670992134
 https://x.com/AnthropicAI/status/2082228994653696371
 https://x.com/GeminiApp/status/2081866612005892254
+https://x.com/GeminiApp/status/2082563490431246623
+https://x.com/GeminiApp/status/2082586356610654334
+https://x.com/GoogleAI/status/2082466336228122711
+https://x.com/GoogleDeepMind/status/2082541871612449180
 https://x.com/MicrosoftAI/status/2081796647135166547
 https://x.com/NVIDIAAI/status/2081862555220279601
 https://x.com/NVIDIAAI/status/2082133936067752136
 https://x.com/NVIDIAAI/status/2082164011953803767
+https://x.com/NVIDIAAI/status/2082496602451689527
+https://x.com/NVIDIAAI/status/2082522552358879424
+https://x.com/NVIDIAAI/status/2082542223628050907
 https://x.com/OpenAI/status/2082146058017321257
 https://x.com/OpenAI/status/2082152074071228702
 https://x.com/OpenAI/status/2082208694142730340
 https://x.com/OpenAI/status/2082263717916586117
+https://x.com/OpenAI/status/2082516370949062989
+https://x.com/OpenAI/status/2082577277246972300
 https://x.com/huggingface/status/2082122787880333596
+https://x.com/huggingface/status/2082502249784451163
+https://x.com/xai/status/2082517754712842386
+https://x.com/xai/status/2082529280341553209
