@@ -342,3 +342,16 @@ https://x.ai/news/series-e
 https://x.ai/news/us-gov-dept-of-war
 https://x.ai/news/workflows
 https://x.ai/news/xai-joins-spacex
+https://x.com/AnthropicAI/status/2081864750296658008
+https://x.com/AnthropicAI/status/2082153297670992134
+https://x.com/AnthropicAI/status/2082228994653696371
+https://x.com/GeminiApp/status/2081866612005892254
+https://x.com/MicrosoftAI/status/2081796647135166547
+https://x.com/NVIDIAAI/status/2081862555220279601
+https://x.com/NVIDIAAI/status/2082133936067752136
+https://x.com/NVIDIAAI/status/2082164011953803767
+https://x.com/OpenAI/status/2082146058017321257
+https://x.com/OpenAI/status/2082152074071228702
+https://x.com/OpenAI/status/2082208694142730340
+https://x.com/OpenAI/status/2082263717916586117
+https://x.com/huggingface/status/2082122787880333596

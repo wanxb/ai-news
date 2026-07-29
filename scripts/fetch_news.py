@@ -29,6 +29,7 @@ from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
+from social_sources import fetch_public_x_posts
 
 # ── Paths ──────────────────────────────────────────────────────────────────
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -82,7 +83,7 @@ HEADERS = {
 TIMEOUT = 30  # seconds
 BEIJING_TZ = ZoneInfo("Asia/Shanghai")
 
-Article = Dict[str, str]  # {title, url, date, source, summary}
+Article = Dict[str, str]  # Required: title, url, date, source, summary
 
 
 # ── Helpers ─────────────────────────────────────────────────────────────────
@@ -607,6 +608,8 @@ def enrich_articles(articles: List[Article]) -> List[Article]:
 
     def enrich_one(art: Article) -> Article:
         """Fetch metadata for one article. Returns art as-is on failure (skip silently)."""
+        if art.get("source_type") == "social":
+            return art
         if art["date"] and art["summary"]:
             return art  # Already has all info (e.g., from RSS)
         try:
@@ -661,9 +664,10 @@ def filter_by_window(
     Returns only new articles within the date window.
     """
     fresh: List[Article] = []
+    current_urls: set = set()
     for art in articles:
         url = art["url"].rstrip("/")
-        if url in seen_urls:
+        if url in seen_urls or url in current_urls:
             continue
 
         # Check date if available
@@ -672,6 +676,7 @@ def filter_by_window(
             if parsed and (parsed < start or parsed > end):
                 continue
 
+        current_urls.add(url)
         fresh.append(art)
 
     return fresh
@@ -708,6 +713,12 @@ def generate_report(today: date, articles: List[Article], start: date, end: date
             groups[src] = []
         groups[src].append(art)
 
+    for items in groups.values():
+        items.sort(
+            key=lambda item: parse_date(item.get("date", "")) or date.min,
+            reverse=True,
+        )
+
     # Coverage window description
     if start == end:
         coverage_desc = f"{start.strftime('%b %d (%a)')}"
@@ -739,13 +750,32 @@ def generate_report(today: date, articles: List[Article], start: date, end: date
 
                 summary = art.get("summary", "")
                 summary_html = f'<div class="desc">{html_mod.escape(summary)}</div>' if summary else ""
+                safe_url = html_mod.escape(art["url"], quote=True)
+                safe_title = html_mod.escape(art["title"])
 
-                parts.append(
-                    f'<div class="item">'
-                    f'<a href="{html_mod.escape(art["url"])}" target="_blank">'
-                    f'{html_mod.escape(art["title"])}{date_tag}</a>'
-                    f'{summary_html}</div>'
-                )
+                if art.get("source_type") == "social":
+                    platform = art.get("platform", "Social")
+                    platform_class = re.sub(r"[^a-z0-9-]", "", platform.lower()) or "social"
+                    account = art.get("account", "")
+                    account_html = (
+                        f'<span class="account">{html_mod.escape(account)}</span>'
+                        if account else ""
+                    )
+                    parts.append(
+                        f'<div class="item social-item">'
+                        f'<div class="item-meta"><span class="platform {platform_class}">'
+                        f'{html_mod.escape(platform)}</span>{account_html}{date_tag}</div>'
+                        f'<a class="social-post" href="{safe_url}" target="_blank" '
+                        f'rel="noopener noreferrer">{safe_title}</a>'
+                        f'{summary_html}</div>'
+                    )
+                else:
+                    parts.append(
+                        f'<div class="item">'
+                        f'<a href="{safe_url}" target="_blank" rel="noopener noreferrer">'
+                        f'{safe_title}{date_tag}</a>'
+                        f'{summary_html}</div>'
+                    )
 
         parts.append('</div>')
         return "\n".join(parts)
@@ -798,7 +828,13 @@ def generate_report(today: date, articles: List[Article], start: date, end: date
   .item:first-of-type {{ border-top:none; }}
   .item a {{ color:#1a56db; text-decoration:none; font-weight:600; font-size:15.5px; }}
   .item a:hover {{ text-decoration:underline; }}
+  .item-meta {{ display:flex; align-items:center; gap:7px; margin-bottom:5px; min-height:20px; }}
+  .platform {{ display:inline-flex; align-items:center; height:20px; padding:0 7px; border-radius:4px; background:#e8eaed; color:#3c4043; font-size:11px; font-weight:700; }}
+  .platform.x {{ background:#111; color:#fff; }}
+  .account {{ color:#727780; font-size:12.5px; }}
+  .social-post {{ display:block; overflow-wrap:anywhere; }}
   .date {{ color:#9aa0aa; font-size:12.5px; margin-left:6px; }}
+  .item-meta .date {{ margin-left:0; }}
   .desc {{ color:#52575e; font-size:14px; margin-top:4px; }}
   .none {{ color:#9aa0aa; font-size:14px; }}
   footer {{ text-align:center; color:#aab0ba; font-size:12px; margin-top:24px; }}
@@ -989,6 +1025,13 @@ def main():
         except Exception as e:
             log(f"  ✗ Error fetching {name}: {e}")
 
+    # X is collected from anonymous public profile pages only. Failures are
+    # isolated per account so social availability never blocks site feeds.
+    log("  ── Public X accounts ────────────────────────")
+    x_articles = fetch_public_x_posts(log=log)
+    log(f"  → Raw public X posts fetched: {len(x_articles)}")
+    all_articles.extend(x_articles)
+
     # ── Filter by window + dedup FIRST ────────────────────────────────────
     # Do this before enrichment to avoid enriching articles we don't need
     log("")
@@ -1005,7 +1048,8 @@ def main():
     # Show results
     for art in new_articles:
         date_info = f" [{art['date']}]" if art.get("date") else ""
-        log(f"    • [{art['source']}]{date_info} {art['title']}")
+        platform_info = f"/{art['platform']}" if art.get("platform") else ""
+        log(f"    • [{art['source']}{platform_info}]{date_info} {art['title']}")
 
     # ── Generate report ──────────────────────────────────────────────────
     log("")
