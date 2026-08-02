@@ -171,6 +171,7 @@ https://kimi-k2.org/zh/blog/38-kimi-k3-self-host-vllm-day0
 https://kimi-k2.org/zh/blog/39-kimi-k3-weights-live
 https://kimi-k2.org/zh/blog/40-kimi-k3-hosted-providers-no-cluster
 https://kimi-k2.org/zh/blog/41-kimi-k3-hardware-reality-1-56tb
+https://kimi-k2.org/zh/blog/43-kimi-code-with-k3-setup
 https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link
 https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
 https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
