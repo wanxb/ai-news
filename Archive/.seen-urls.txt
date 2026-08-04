@@ -172,6 +172,7 @@ https://kimi-k2.org/zh/blog/39-kimi-k3-weights-live
 https://kimi-k2.org/zh/blog/40-kimi-k3-hosted-providers-no-cluster
 https://kimi-k2.org/zh/blog/41-kimi-k3-hardware-reality-1-56tb
 https://kimi-k2.org/zh/blog/43-kimi-code-with-k3-setup
+https://kimi-k2.org/zh/blog/44-kimi-k3-vision-multimodal-guide
 https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link
 https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
 https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
@@ -190,6 +191,7 @@ https://openai.com/index/cars24
 https://openai.com/index/chatgpt-for-academic-researchers
 https://openai.com/index/chatgpt-for-your-most-ambitious-work
 https://openai.com/index/codex-maxxing-long-running-work/
+https://openai.com/index/continuous-voice-interaction-with-gpt-live
 https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
 https://openai.com/index/david-velez-robin-vince-join-openai-boards
 https://openai.com/index/daybreak-securing-the-world/
@@ -377,6 +379,7 @@ https://x.com/GeminiApp/status/2082923048362299629
 https://x.com/GeminiApp/status/2082948104635215875
 https://x.com/GeminiApp/status/2083232971197456452
 https://x.com/GeminiApp/status/2083302569796059271
+https://x.com/GeminiApp/status/2084373337380356177
 https://x.com/GoogleAI/status/2082466336228122711
 https://x.com/GoogleAI/status/2082844740446253125
 https://x.com/GoogleAI/status/2082902334984609936
@@ -394,6 +397,8 @@ https://x.com/NVIDIAAI/status/2082542223628050907
 https://x.com/NVIDIAAI/status/2082887941626732664
 https://x.com/NVIDIAAI/status/2083191024264819044
 https://x.com/NVIDIAAI/status/2083258269875798275
+https://x.com/NVIDIAAI/status/2084310189239579130
+https://x.com/NVIDIAAI/status/2084374298530107465
 https://x.com/OpenAI/status/2082146058017321257
 https://x.com/OpenAI/status/2082152074071228702
 https://x.com/OpenAI/status/2082208694142730340
@@ -402,6 +407,8 @@ https://x.com/OpenAI/status/2082516370949062989
 https://x.com/OpenAI/status/2082577277246972300
 https://x.com/OpenAI/status/2082616636989952217
 https://x.com/OpenAI/status/2082878156483219672
+https://x.com/OpenAI/status/2084352161404920316
+https://x.com/OpenAI/status/2084378415818579975
 https://x.com/huggingface/status/2082122787880333596
 https://x.com/huggingface/status/2082502249784451163
 https://x.com/xai/status/2082517754712842386
