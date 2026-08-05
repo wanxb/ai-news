@@ -174,6 +174,7 @@ https://kimi-k2.org/zh/blog/38-kimi-k3-self-host-vllm-day0
 https://kimi-k2.org/zh/blog/39-kimi-k3-weights-live
 https://kimi-k2.org/zh/blog/40-kimi-k3-hosted-providers-no-cluster
 https://kimi-k2.org/zh/blog/41-kimi-k3-hardware-reality-1-56tb
+https://kimi-k2.org/zh/blog/42-kimi-k3-license-commercial-use
 https://kimi-k2.org/zh/blog/43-kimi-code-with-k3-setup
 https://kimi-k2.org/zh/blog/44-kimi-k3-vision-multimodal-guide
 https://kimi-k2.org/zh/blog/45-doordash-kimi-k2-6-code-review-what-it-means
@@ -375,6 +376,7 @@ https://x.ai/news/series-e
 https://x.ai/news/us-gov-dept-of-war
 https://x.ai/news/workflows
 https://x.ai/news/xai-joins-spacex
+https://x.com/AIatMeta/status/2085084709277565213
 https://x.com/AnthropicAI/status/2081864750296658008
 https://x.com/AnthropicAI/status/2082153297670992134
 https://x.com/AnthropicAI/status/2082228994653696371
@@ -413,6 +415,8 @@ https://x.com/NVIDIAAI/status/2084374298530107465
 https://x.com/NVIDIAAI/status/2084670730734838003
 https://x.com/NVIDIAAI/status/2084695242880729311
 https://x.com/NVIDIAAI/status/2084700936623272123
+https://x.com/NVIDIAAI/status/2085034354376646892
+https://x.com/NVIDIAAI/status/2085087229567995912
 https://x.com/OpenAI/status/2082146058017321257
 https://x.com/OpenAI/status/2082152074071228702
 https://x.com/OpenAI/status/2082208694142730340
