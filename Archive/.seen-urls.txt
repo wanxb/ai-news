@@ -3,6 +3,23 @@ https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino
 https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino
 https://ai.meta.com/blog/introducing-muse-image-muse-video-msl
 https://ai.meta.com/blog/introducing-muse-spark-meta-model-api
+https://api-docs.deepseek.com
+https://api-docs.deepseek.com/api/create-chat-completion
+https://api-docs.deepseek.com/guides/anthropic_api
+https://api-docs.deepseek.com/guides/chat_prefix_completion
+https://api-docs.deepseek.com/guides/fim_completion
+https://api-docs.deepseek.com/guides/json_mode
+https://api-docs.deepseek.com/guides/kv_cache
+https://api-docs.deepseek.com/guides/multi_round_chat
+https://api-docs.deepseek.com/guides/responses_api
+https://api-docs.deepseek.com/guides/thinking_mode
+https://api-docs.deepseek.com/guides/tool_calls
+https://api-docs.deepseek.com/mailto:api-service@deepseek.com
+https://api-docs.deepseek.com/quick_start/agent_integrations/claude_code
+https://api-docs.deepseek.com/quick_start/error_codes
+https://api-docs.deepseek.com/quick_start/pricing
+https://api-docs.deepseek.com/quick_start/rate_limit
+https://api-docs.deepseek.com/quick_start/token_usage
 https://api-docs.deepseek.com/updates
 https://api-docs.deepseek.com/zh-cn
 https://api-docs.deepseek.com/zh-cn/api/create-chat-completion
@@ -28,6 +45,7 @@ https://api-docs.deepseek.com/zh-cn/updates
 https://ark.volcengine.com/region:cn-beijing/apiKey
 https://ark.volcengine.com/region:cn-beijing/experience/gen_chat?model=doubao-seed-evolving-latest-version
 https://ark.volcengine.com/region:cn-beijing/overview
+https://ark.volcengine.com/region:cn-beijing/promotion/model?modelName=doubao-seed-evolving
 https://bigmodel.cn
 https://bigmodel.cn/usercenter/proj-mgmt/apikeys
 https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers
@@ -104,6 +122,7 @@ https://docs.bigmodel.cn/cn/terms/user-agreement
 https://docs.bigmodel.cn/llms.txt
 https://exp.volcengine.com/ark/vision?mode=vision&modelId=doubao-seedance-2-0-260128&tab=GenVideo
 https://github.com/deepseek-ai
+https://github.com/deepseek-ai/awesome-deepseek-integration/tree/main
 https://hailuoai.video
 https://hub.minimax.io
 https://huggingface.co/blog/Dharma-AI/gpu-management
@@ -114,6 +133,7 @@ https://huggingface.co/blog/LiquidAI/lfm2-5-encoders
 https://huggingface.co/blog/Photoroom/prx-part4-data
 https://huggingface.co/blog/allenai/olmoearth-infrastructure
 https://huggingface.co/blog/allenai/shippy-tech-blog
+https://huggingface.co/blog/allenai/tutormoments
 https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
 https://huggingface.co/blog/baseten
 https://huggingface.co/blog/cerebras-gemma4-voice-ai
@@ -222,6 +242,7 @@ https://openai.com/index/how-news-organizations-are-using-ai
 https://openai.com/index/how-the-world-is-putting-chatgpt-to-work
 https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores
 https://openai.com/index/hp-frontier-partnership/
+https://openai.com/index/hsp-gruppe
 https://openai.com/index/hugging-face-model-evaluation-security-incident
 https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt
 https://openai.com/index/introducing-chatgpt-small-business-program
@@ -237,6 +258,7 @@ https://openai.com/index/openai-broadcom-jalapeno-inference-chip/
 https://openai.com/index/openai-on-oracle-cloud/
 https://openai.com/index/openai-to-acquire-ona/
 https://openai.com/index/previewing-gpt-5-6-sol/
+https://openai.com/index/responding-next-frontier-critical-cyber-capabilities
 https://openai.com/index/safety-alignment-long-horizon-models
 https://openai.com/index/scientific-computing-agentic-ai
 https://openai.com/index/separating-signal-from-noise-coding-evaluations
@@ -246,6 +268,7 @@ https://openai.com/index/unive
 https://openai.com/index/unlocking-self-improvement-gpt-red
 https://openai.com/index/why-teens-deserve-access-safe-ai
 https://platform.deepseek.com
+https://platform.deepseek.com/api_keys
 https://platform.minimax.io/contact-us
 https://platform.minimax.io/docs/guides/music-generation
 https://twitter.com/deepseek_ai
@@ -267,6 +290,7 @@ https://www.anthropic.com/news/economic-futures-research-fund-agenda
 https://www.anthropic.com/news/fable-mythos-access
 https://www.anthropic.com/news/fable-safeguards-jailbreak-framework
 https://www.anthropic.com/news/hard-questions
+https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards
 https://www.anthropic.com/news/introducing-claude-tag
 https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
 https://www.anthropic.com/news/position-open-weights-models
@@ -293,6 +317,7 @@ https://www.volcengine.com/activity/Partner-AI-Solution?infrom=100001.100.217
 https://www.volcengine.com/activity/codingplan?infrom=100001.100.216
 https://www.volcengine.com/activity/haidianbutie?_vtm_=a441938.b75322.0_0.0_0.0.17_7655623425281820214
 https://www.volcengine.com/activity/jifen?infrom=100001.100.219
+https://www.volcengine.com/activity/seedance25
 https://www.volcengine.com/activity/seedance2?infrom=100001.100.203
 https://www.volcengine.com/event/force-2606?infrom=100001.100.183
 https://www.volcengine.com/product/AICC
@@ -410,6 +435,7 @@ https://x.com/GoogleDeepMind/status/2082541871612449180
 https://x.com/GoogleDeepMind/status/2082844162928381956
 https://x.com/GoogleDeepMind/status/2082904276293062994
 https://x.com/GoogleDeepMind/status/2085395442347524506
+https://x.com/GoogleDeepMind/status/2085737848318124083
 https://x.com/MicrosoftAI/status/2081796647135166547
 https://x.com/MistralAI/status/2084684735725379637
 https://x.com/NVIDIAAI/status/2081862555220279601
@@ -440,9 +466,12 @@ https://x.com/OpenAI/status/2084352161404920316
 https://x.com/OpenAI/status/2084378415818579975
 https://x.com/OpenAI/status/2084747580693426555
 https://x.com/OpenAI/status/2085434712429052386
+https://x.com/OpenAI/status/2085801349866729975
 https://x.com/huggingface/status/2082122787880333596
 https://x.com/huggingface/status/2082502249784451163
 https://x.com/huggingface/status/2084759576692363460
+https://x.com/huggingface/status/2085758063471120848
 https://x.com/xai/status/2082517754712842386
 https://x.com/xai/status/2082529280341553209
 https://x.com/xai/status/2083312089620222378
+https://x.com/xai/status/2085814657223209290
