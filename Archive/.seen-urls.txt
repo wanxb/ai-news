@@ -33,6 +33,7 @@ https://bigmodel.cn/usercenter/proj-mgmt/apikeys
 https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/
+https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones
 https://blog.google/innovation-and-ai/models-and-research/google-research/firesat-satellites
 https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/
 https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026
@@ -67,7 +68,9 @@ https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-fl
 https://deepmind.google/blog/our-approach-to-bioresilience
 https://deepmind.google/blog/securing-the-future-of-ai-agents/
 https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash
+https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones
 https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control
+https://design.minimax.io
 https://discord.gg/Tc7c45Zzu5
 https://docs.bigmodel.cn/cn/api/introduction
 https://docs.bigmodel.cn/cn/coding-plan/team
@@ -112,6 +115,7 @@ https://huggingface.co/blog/Photoroom/prx-part4-data
 https://huggingface.co/blog/allenai/olmoearth-infrastructure
 https://huggingface.co/blog/allenai/shippy-tech-blog
 https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
+https://huggingface.co/blog/baseten
 https://huggingface.co/blog/cerebras-gemma4-voice-ai
 https://huggingface.co/blog/eee-community-evals
 https://huggingface.co/blog/grabette
@@ -178,6 +182,7 @@ https://kimi-k2.org/zh/blog/42-kimi-k3-license-commercial-use
 https://kimi-k2.org/zh/blog/43-kimi-code-with-k3-setup
 https://kimi-k2.org/zh/blog/44-kimi-k3-vision-multimodal-guide
 https://kimi-k2.org/zh/blog/45-doordash-kimi-k2-6-code-review-what-it-means
+https://kimi-k2.org/zh/blog/47-kimi-k3-vllm-vendor-verifier
 https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link
 https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
 https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
@@ -214,9 +219,11 @@ https://openai.com/index/how-agents-are-transforming-work/
 https://openai.com/index/how-ai-is-expanding-what-people-do-at-work
 https://openai.com/index/how-chatgpt-adoption-has-expanded
 https://openai.com/index/how-news-organizations-are-using-ai
+https://openai.com/index/how-the-world-is-putting-chatgpt-to-work
 https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores
 https://openai.com/index/hp-frontier-partnership/
 https://openai.com/index/hugging-face-model-evaluation-security-incident
+https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt
 https://openai.com/index/introducing-chatgpt-small-business-program
 https://openai.com/index/introducing-genebench-pro
 https://openai.com/index/introducing-gpt-live
@@ -225,6 +232,7 @@ https://openai.com/index/k-12-educators-practical-skills
 https://openai.com/index/learn-teach-chatgpt-work-codex
 https://openai.com/index/managing-ai-investments-in-agentic-era
 https://openai.com/index/ntt-data
+https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai
 https://openai.com/index/openai-broadcom-jalapeno-inference-chip/
 https://openai.com/index/openai-on-oracle-cloud/
 https://openai.com/index/openai-to-acquire-ona/
@@ -377,6 +385,7 @@ https://x.ai/news/us-gov-dept-of-war
 https://x.ai/news/workflows
 https://x.ai/news/xai-joins-spacex
 https://x.com/AIatMeta/status/2085084709277565213
+https://x.com/AIatMeta/status/2085388945148297322
 https://x.com/AnthropicAI/status/2081864750296658008
 https://x.com/AnthropicAI/status/2082153297670992134
 https://x.com/AnthropicAI/status/2082228994653696371
@@ -392,6 +401,7 @@ https://x.com/GeminiApp/status/2083232971197456452
 https://x.com/GeminiApp/status/2083302569796059271
 https://x.com/GeminiApp/status/2084373337380356177
 https://x.com/GeminiApp/status/2084695279870357720
+https://x.com/GeminiApp/status/2085444245058736363
 https://x.com/GoogleAI/status/2082466336228122711
 https://x.com/GoogleAI/status/2082844740446253125
 https://x.com/GoogleAI/status/2082902334984609936
@@ -399,6 +409,7 @@ https://x.com/GoogleAI/status/2083221445375668654
 https://x.com/GoogleDeepMind/status/2082541871612449180
 https://x.com/GoogleDeepMind/status/2082844162928381956
 https://x.com/GoogleDeepMind/status/2082904276293062994
+https://x.com/GoogleDeepMind/status/2085395442347524506
 https://x.com/MicrosoftAI/status/2081796647135166547
 https://x.com/MistralAI/status/2084684735725379637
 https://x.com/NVIDIAAI/status/2081862555220279601
@@ -428,6 +439,7 @@ https://x.com/OpenAI/status/2082878156483219672
 https://x.com/OpenAI/status/2084352161404920316
 https://x.com/OpenAI/status/2084378415818579975
 https://x.com/OpenAI/status/2084747580693426555
+https://x.com/OpenAI/status/2085434712429052386
 https://x.com/huggingface/status/2082122787880333596
 https://x.com/huggingface/status/2082502249784451163
 https://x.com/huggingface/status/2084759576692363460
