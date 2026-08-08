@@ -203,6 +203,7 @@ https://kimi-k2.org/zh/blog/43-kimi-code-with-k3-setup
 https://kimi-k2.org/zh/blog/44-kimi-k3-vision-multimodal-guide
 https://kimi-k2.org/zh/blog/45-doordash-kimi-k2-6-code-review-what-it-means
 https://kimi-k2.org/zh/blog/47-kimi-k3-vllm-vendor-verifier
+https://kimi-k2.org/zh/blog/48-kimi-k3-github-copilot
 https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link
 https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
 https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
@@ -377,6 +378,7 @@ https://x.ai/news/grok-hermes
 https://x.ai/news/grok-image-generation-release
 https://x.ai/news/grok-imagine-1-5
 https://x.ai/news/grok-imagine-api
+https://x.ai/news/grok-imagine-image-2
 https://x.ai/news/grok-imagine-quality-mode
 https://x.ai/news/grok-imagine-video-1-5
 https://x.ai/news/grok-imagine-video-1-5-references
