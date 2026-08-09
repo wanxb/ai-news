@@ -204,6 +204,7 @@ https://kimi-k2.org/zh/blog/44-kimi-k3-vision-multimodal-guide
 https://kimi-k2.org/zh/blog/45-doordash-kimi-k2-6-code-review-what-it-means
 https://kimi-k2.org/zh/blog/47-kimi-k3-vllm-vendor-verifier
 https://kimi-k2.org/zh/blog/48-kimi-k3-github-copilot
+https://kimi-k2.org/zh/blog/49-kimi-k3-8gb-ram-c-engine-reality
 https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link
 https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
 https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
