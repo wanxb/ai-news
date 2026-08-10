@@ -69,6 +69,7 @@ https://blog.google/products-and-platforms/products/search/connected-apps
 https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips
 https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary
 https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars
+https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates
 https://blogs.nvidia.com/blog/ai-storage-fms
 https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin
 https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit
@@ -130,6 +131,7 @@ https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages
 https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable
 https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b
 https://huggingface.co/blog/LiquidAI/lfm2-5-encoders
+https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation
 https://huggingface.co/blog/Photoroom/prx-part4-data
 https://huggingface.co/blog/allenai/olmoearth-infrastructure
 https://huggingface.co/blog/allenai/shippy-tech-blog
@@ -143,10 +145,12 @@ https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt
 https://huggingface.co/blog/ibm-research/scarfbench
 https://huggingface.co/blog/lerobot-release-v060
 https://huggingface.co/blog/microsoft/foundry-managed-compute
+https://huggingface.co/blog/muse-glimmer
 https://huggingface.co/blog/native-speed-vllm-transformers-backend
 https://huggingface.co/blog/nunchaku-diffusers
 https://huggingface.co/blog/nvidia/cosmos-h-dreams
 https://huggingface.co/blog/nvidia/cosmos3edge
+https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents
 https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb
 https://huggingface.co/blog/nvidia/open-data-for-agents
 https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel
@@ -205,6 +209,7 @@ https://kimi-k2.org/zh/blog/45-doordash-kimi-k2-6-code-review-what-it-means
 https://kimi-k2.org/zh/blog/47-kimi-k3-vllm-vendor-verifier
 https://kimi-k2.org/zh/blog/48-kimi-k3-github-copilot
 https://kimi-k2.org/zh/blog/49-kimi-k3-8gb-ram-c-engine-reality
+https://kimi-k2.org/zh/blog/50-kimi-k3-sandbox-escape-explained
 https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link
 https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
 https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
@@ -219,6 +224,7 @@ https://openai.com/index/australian-payments-plus
 https://openai.com/index/bio-bug-bounty
 https://openai.com/index/building-abundant-intelligence
 https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community
+https://openai.com/index/building-an-ai-native-finance-function
 https://openai.com/index/built-to-benefit-everyone-our-plan/
 https://openai.com/index/cars24
 https://openai.com/index/chatgpt-for-academic-researchers
@@ -230,6 +236,7 @@ https://openai.com/index/david-velez-robin-vince-join-openai-boards
 https://openai.com/index/daybreak-securing-the-world/
 https://openai.com/index/deutsche-telekom
 https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation
+https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows
 https://openai.com/index/genebench-pro/case-studies
 https://openai.com/index/government-national-security-partnerships
 https://openai.com/index/gpt-5-6
@@ -254,13 +261,17 @@ https://openai.com/index/introducing-openai-presence
 https://openai.com/index/k-12-educators-practical-skills
 https://openai.com/index/learn-teach-chatgpt-work-codex
 https://openai.com/index/managing-ai-investments-in-agentic-era
+https://openai.com/index/model-ml
 https://openai.com/index/ntt-data
 https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai
 https://openai.com/index/openai-broadcom-jalapeno-inference-chip/
 https://openai.com/index/openai-on-oracle-cloud/
 https://openai.com/index/openai-to-acquire-ona/
+https://openai.com/index/premium-seats-chatgpt-business
 https://openai.com/index/previewing-gpt-5-6-sol/
+https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands
 https://openai.com/index/responding-next-frontier-critical-cyber-capabilities
+https://openai.com/index/responsible-ai-infrastructure-texas
 https://openai.com/index/safety-alignment-long-horizon-models
 https://openai.com/index/scientific-computing-agentic-ai
 https://openai.com/index/separating-signal-from-noise-coding-evaluations
@@ -268,7 +279,9 @@ https://openai.com/index/ten-advances-in-mathematics
 https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
 https://openai.com/index/unive
 https://openai.com/index/unlocking-self-improvement-gpt-red
+https://openai.com/index/virgin-atlantic/chatgpt-work
 https://openai.com/index/why-teens-deserve-access-safe-ai
+https://openai.com/index/zapier
 https://platform.deepseek.com
 https://platform.deepseek.com/api_keys
 https://platform.minimax.io/contact-us
@@ -414,11 +427,13 @@ https://x.ai/news/workflows
 https://x.ai/news/xai-joins-spacex
 https://x.com/AIatMeta/status/2085084709277565213
 https://x.com/AIatMeta/status/2085388945148297322
+https://x.com/AIatMeta/status/2086757844544811485
 https://x.com/AnthropicAI/status/2081864750296658008
 https://x.com/AnthropicAI/status/2082153297670992134
 https://x.com/AnthropicAI/status/2082228994653696371
 https://x.com/AnthropicAI/status/2082965101083320543
 https://x.com/AnthropicAI/status/2084748111239344556
+https://x.com/AnthropicAI/status/2086867246073401655
 https://x.com/GeminiApp/status/2081866612005892254
 https://x.com/GeminiApp/status/2082563490431246623
 https://x.com/GeminiApp/status/2082586356610654334
@@ -457,6 +472,7 @@ https://x.com/NVIDIAAI/status/2084695242880729311
 https://x.com/NVIDIAAI/status/2084700936623272123
 https://x.com/NVIDIAAI/status/2085034354376646892
 https://x.com/NVIDIAAI/status/2085087229567995912
+https://x.com/NVIDIAAI/status/2086807146143076783
 https://x.com/OpenAI/status/2082146058017321257
 https://x.com/OpenAI/status/2082152074071228702
 https://x.com/OpenAI/status/2082208694142730340
@@ -470,6 +486,7 @@ https://x.com/OpenAI/status/2084378415818579975
 https://x.com/OpenAI/status/2084747580693426555
 https://x.com/OpenAI/status/2085434712429052386
 https://x.com/OpenAI/status/2085801349866729975
+https://x.com/OpenAI/status/2086864365379010729
 https://x.com/huggingface/status/2082122787880333596
 https://x.com/huggingface/status/2082502249784451163
 https://x.com/huggingface/status/2084759576692363460
