@@ -37,6 +37,7 @@ https://api-docs.deepseek.com/zh-cn/news/news0725
 https://api-docs.deepseek.com/zh-cn/news/news0802
 https://api-docs.deepseek.com/zh-cn/news/news1226
 https://api-docs.deepseek.com/zh-cn/news/news250120
+https://api-docs.deepseek.com/zh-cn/news/news260813
 https://api-docs.deepseek.com/zh-cn/quick_start/agent_integrations/claude_code
 https://api-docs.deepseek.com/zh-cn/quick_start/pricing
 https://api-docs.deepseek.com/zh-cn/quick_start/rate_limit
@@ -95,6 +96,7 @@ https://deepmind.google/blog/securing-the-future-of-ai-agents/
 https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash
 https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones
 https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control
+https://deepseek-harness.github.io/deepseek-harness/guide/quickstart
 https://design.minimax.io
 https://discord.gg/Tc7c45Zzu5
 https://docs.bigmodel.cn/cn/api/introduction
@@ -170,6 +172,7 @@ https://huggingface.co/blog/real-world-voiceeq
 https://huggingface.co/blog/revamped-kernels
 https://huggingface.co/blog/security-incident-july-2026
 https://huggingface.co/blog/skypilot-hf-storage
+https://huggingface.co/blog/state-of-open-models-summer-2026
 https://huggingface.co/blog/thinkingmachines-inkling
 https://huggingface.co/blog/torch-attention-profile
 https://ir.minimax.io
@@ -316,6 +319,7 @@ https://www.anthropic.com/news/claude-opus-4-8
 https://www.anthropic.com/news/claude-opus-5
 https://www.anthropic.com/news/claude-science-ai-workbench
 https://www.anthropic.com/news/claude-sonnet-5
+https://www.anthropic.com/news/claude-text-watermark
 https://www.anthropic.com/news/cognizant-anthropic
 https://www.anthropic.com/news/donation-public-first-action
 https://www.anthropic.com/news/dxc-anthropic-alliance
@@ -390,6 +394,7 @@ https://x.ai/news/grok-4-1-fast
 https://x.ai/news/grok-4-5
 https://x.ai/news/grok-4-5-everywhere
 https://x.ai/news/grok-4-6
+https://x.ai/news/grok-4-6-github-copilot
 https://x.ai/news/grok-4-fast
 https://x.ai/news/grok-amazon-bedrock
 https://x.ai/news/grok-automations
@@ -454,6 +459,8 @@ https://x.com/AnthropicAI/status/2082228994653696371
 https://x.com/AnthropicAI/status/2082965101083320543
 https://x.com/AnthropicAI/status/2084748111239344556
 https://x.com/AnthropicAI/status/2086867246073401655
+https://x.com/AnthropicAI/status/2088324824863236248
+https://x.com/AnthropicAI/status/2088343978873966687
 https://x.com/GeminiApp/status/2081866612005892254
 https://x.com/GeminiApp/status/2082563490431246623
 https://x.com/GeminiApp/status/2082586356610654334
@@ -469,12 +476,15 @@ https://x.com/GeminiApp/status/2087229532382347277
 https://x.com/GeminiApp/status/2087268836424982954
 https://x.com/GeminiApp/status/2087567329567904048
 https://x.com/GeminiApp/status/2087948790296973683
+https://x.com/GeminiApp/status/2088277477672255830
+https://x.com/GeminiApp/status/2088326407730692538
 https://x.com/GoogleAI/status/2082466336228122711
 https://x.com/GoogleAI/status/2082844740446253125
 https://x.com/GoogleAI/status/2082902334984609936
 https://x.com/GoogleAI/status/2083221445375668654
 https://x.com/GoogleAI/status/2087279317172777169
 https://x.com/GoogleAI/status/2087949042961514983
+https://x.com/GoogleAI/status/2088332438753681700
 https://x.com/GoogleDeepMind/status/2082541871612449180
 https://x.com/GoogleDeepMind/status/2082844162928381956
 https://x.com/GoogleDeepMind/status/2082904276293062994
@@ -508,6 +518,7 @@ https://x.com/NVIDIAAI/status/2087237881903616194
 https://x.com/NVIDIAAI/status/2087662769512571010
 https://x.com/NVIDIAAI/status/2087887993025843391
 https://x.com/NVIDIAAI/status/2087932584152186975
+https://x.com/NVIDIAAI/status/2088339706752983230
 https://x.com/OpenAI/status/2082146058017321257
 https://x.com/OpenAI/status/2082152074071228702
 https://x.com/OpenAI/status/2082208694142730340
@@ -531,6 +542,7 @@ https://x.com/huggingface/status/2082502249784451163
 https://x.com/huggingface/status/2084759576692363460
 https://x.com/huggingface/status/2085758063471120848
 https://x.com/huggingface/status/2087521619459850348
+https://x.com/huggingface/status/2088301795890044975
 https://x.com/xai/status/2082517754712842386
 https://x.com/xai/status/2082529280341553209
 https://x.com/xai/status/2083312089620222378
@@ -539,3 +551,4 @@ https://x.com/xai/status/2087562800982077492
 https://x.com/xai/status/2087916990807810120
 https://x.com/xai/status/2087963618637971495
 https://x.com/xai/status/2088015995810238827
+https://x.com/xai/status/2088250109188608289
