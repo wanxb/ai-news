@@ -66,6 +66,7 @@ https://blog.google/innovation-and-ai/technology/research/technology-global-cris
 https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy
 https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026
 https://blog.google/products-and-platforms/products/education/nyc-ai-summit
+https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships
 https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips
 https://blog.google/products-and-platforms/products/search/connected-apps
 https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips
@@ -135,6 +136,7 @@ https://github.com/deepseek-ai/awesome-deepseek-integration/tree/main
 https://hailuoai.video
 https://hub.minimax.io
 https://huggingface.co/blog/Dharma-AI/gpu-management
+https://huggingface.co/blog/Dharma-AI/gpu-management-pt2
 https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages
 https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable
 https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b
@@ -280,9 +282,11 @@ https://openai.com/index/k-12-educators-practical-skills
 https://openai.com/index/learn-teach-chatgpt-work-codex
 https://openai.com/index/managing-ai-investments-in-agentic-era
 https://openai.com/index/model-ml
+https://openai.com/index/new-policy-ideas-for-the-intelligence-age
 https://openai.com/index/ntt-data
 https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai
 https://openai.com/index/openai-broadcom-jalapeno-inference-chip/
+https://openai.com/index/openai-joins-ports-pike-project
 https://openai.com/index/openai-on-oracle-cloud/
 https://openai.com/index/openai-to-acquire-ona/
 https://openai.com/index/premium-seats-chatgpt-business
@@ -297,6 +301,7 @@ https://openai.com/index/scientific-computing-agentic-ai
 https://openai.com/index/separating-signal-from-noise-coding-evaluations
 https://openai.com/index/ten-advances-in-mathematics
 https://openai.com/index/testing-ads-in-chatgpt
+https://openai.com/index/the-defenders-window
 https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
 https://openai.com/index/unive
 https://openai.com/index/unlocking-self-improvement-gpt-red
@@ -485,6 +490,7 @@ https://x.com/GoogleAI/status/2083221445375668654
 https://x.com/GoogleAI/status/2087279317172777169
 https://x.com/GoogleAI/status/2087949042961514983
 https://x.com/GoogleAI/status/2088332438753681700
+https://x.com/GoogleAI/status/2089437060310434098
 https://x.com/GoogleDeepMind/status/2082541871612449180
 https://x.com/GoogleDeepMind/status/2082844162928381956
 https://x.com/GoogleDeepMind/status/2082904276293062994
@@ -552,3 +558,4 @@ https://x.com/xai/status/2087916990807810120
 https://x.com/xai/status/2087963618637971495
 https://x.com/xai/status/2088015995810238827
 https://x.com/xai/status/2088250109188608289
+https://x.com/xai/status/2089449055651033207
