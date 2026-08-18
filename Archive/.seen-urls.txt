@@ -54,6 +54,7 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-l
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/
 https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones
 https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations
+https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies
 https://blog.google/innovation-and-ai/models-and-research/google-research/firesat-satellites
 https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/
 https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026
@@ -61,6 +62,7 @@ https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026
 https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/
 https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api
 https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks
+https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai
 https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/
 https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience
 https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy
@@ -117,6 +119,7 @@ https://docs.bigmodel.cn/cn/guide/models/text/glm-5
 https://docs.bigmodel.cn/cn/guide/models/text/glm-5-turbo
 https://docs.bigmodel.cn/cn/guide/models/text/glm-5.1
 https://docs.bigmodel.cn/cn/guide/models/text/glm-5.2
+https://docs.bigmodel.cn/cn/guide/models/text/glm-5.3
 https://docs.bigmodel.cn/cn/guide/models/text/glm-z1
 https://docs.bigmodel.cn/cn/guide/models/video-generation/cogvideox-3
 https://docs.bigmodel.cn/cn/guide/models/video-generation/vidu2
@@ -154,12 +157,14 @@ https://huggingface.co/blog/baseten
 https://huggingface.co/blog/cerebras-gemma4-voice-ai
 https://huggingface.co/blog/eee-community-evals
 https://huggingface.co/blog/grabette
+https://huggingface.co/blog/ibm-research/altk-evolve-hmm
 https://huggingface.co/blog/ibm-research/altk-evolve-sldd
 https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt
 https://huggingface.co/blog/ibm-research/scarfbench
 https://huggingface.co/blog/icml-2026-open-reproductions
 https://huggingface.co/blog/lerobot-release-v060
 https://huggingface.co/blog/microsoft/foundry-managed-compute
+https://huggingface.co/blog/multi-vector-encoder
 https://huggingface.co/blog/muse-glimmer
 https://huggingface.co/blog/native-speed-vllm-transformers-backend
 https://huggingface.co/blog/nunchaku-diffusers
@@ -236,6 +241,7 @@ https://openai.com/index/advancing-responsible-ai-across-europe
 https://openai.com/index/advancing-the-next-era-of-national-science
 https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6
 https://openai.com/index/apple-is-getting-this-wrong
+https://openai.com/index/asana
 https://openai.com/index/australian-payments-plus
 https://openai.com/index/bio-bug-bounty
 https://openai.com/index/builders-guide-to-gpt-5-6
@@ -245,6 +251,7 @@ https://openai.com/index/building-an-ai-native-finance-function
 https://openai.com/index/built-to-benefit-everyone-our-plan/
 https://openai.com/index/cars24
 https://openai.com/index/chatgpt-for-academic-researchers
+https://openai.com/index/chatgpt-for-teens
 https://openai.com/index/chatgpt-for-your-most-ambitious-work
 https://openai.com/index/codex-maxxing-long-running-work/
 https://openai.com/index/continuous-voice-interaction-with-gpt-live
@@ -284,11 +291,14 @@ https://openai.com/index/managing-ai-investments-in-agentic-era
 https://openai.com/index/model-ml
 https://openai.com/index/new-policy-ideas-for-the-intelligence-age
 https://openai.com/index/ntt-data
+https://openai.com/index/nvidia/chatgpt-work
 https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai
 https://openai.com/index/openai-broadcom-jalapeno-inference-chip/
 https://openai.com/index/openai-joins-ports-pike-project
 https://openai.com/index/openai-on-oracle-cloud/
 https://openai.com/index/openai-to-acquire-ona/
+https://openai.com/index/pacing-model-development-cyber-capabilities
+https://openai.com/index/partnering-with-codeai
 https://openai.com/index/premium-seats-chatgpt-business
 https://openai.com/index/previewing-gpt-5-6-sol/
 https://openai.com/index/previewing-ultrafast
@@ -299,6 +309,7 @@ https://openai.com/index/ringcentral
 https://openai.com/index/safety-alignment-long-horizon-models
 https://openai.com/index/scientific-computing-agentic-ai
 https://openai.com/index/separating-signal-from-noise-coding-evaluations
+https://openai.com/index/strengthening-democratic-oversight-in-national-security
 https://openai.com/index/ten-advances-in-mathematics
 https://openai.com/index/testing-ads-in-chatgpt
 https://openai.com/index/the-defenders-window
@@ -347,6 +358,7 @@ https://www.bigmodel.cn/pricing
 https://www.minimax.io/about
 https://www.minimax.io/audio
 https://www.minimax.io/blog/minimax-h3
+https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model
 https://www.minimax.io/models/text
 https://www.minimax.io/models/text/m27
 https://www.minimax.io/models/text/m3
@@ -466,6 +478,7 @@ https://x.com/AnthropicAI/status/2084748111239344556
 https://x.com/AnthropicAI/status/2086867246073401655
 https://x.com/AnthropicAI/status/2088324824863236248
 https://x.com/AnthropicAI/status/2088343978873966687
+https://x.com/AnthropicAI/status/2089842387845804246
 https://x.com/GeminiApp/status/2081866612005892254
 https://x.com/GeminiApp/status/2082563490431246623
 https://x.com/GeminiApp/status/2082586356610654334
@@ -499,6 +512,7 @@ https://x.com/GoogleDeepMind/status/2085737848318124083
 https://x.com/GoogleDeepMind/status/2087541213284946191
 https://x.com/GoogleDeepMind/status/2087948366294515977
 https://x.com/MicrosoftAI/status/2081796647135166547
+https://x.com/MicrosoftAI/status/2089774258276696177
 https://x.com/MistralAI/status/2084684735725379637
 https://x.com/MistralAI/status/2087305196841922782
 https://x.com/NVIDIAAI/status/2081862555220279601
@@ -525,6 +539,10 @@ https://x.com/NVIDIAAI/status/2087662769512571010
 https://x.com/NVIDIAAI/status/2087887993025843391
 https://x.com/NVIDIAAI/status/2087932584152186975
 https://x.com/NVIDIAAI/status/2088339706752983230
+https://x.com/NVIDIAAI/status/2089694760797872595
+https://x.com/NVIDIAAI/status/2089750360869233059
+https://x.com/NVIDIAAI/status/2089774355672961036
+https://x.com/NVIDIAAI/status/2089782352755212542
 https://x.com/OpenAI/status/2082146058017321257
 https://x.com/OpenAI/status/2082152074071228702
 https://x.com/OpenAI/status/2082208694142730340
@@ -543,12 +561,14 @@ https://x.com/OpenAI/status/2087231350134980830
 https://x.com/OpenAI/status/2087912623883051300
 https://x.com/OpenAI/status/2087947721936359705
 https://x.com/OpenAI/status/2087996496088297746
+https://x.com/OpenAI/status/2089777845187031262
 https://x.com/huggingface/status/2082122787880333596
 https://x.com/huggingface/status/2082502249784451163
 https://x.com/huggingface/status/2084759576692363460
 https://x.com/huggingface/status/2085758063471120848
 https://x.com/huggingface/status/2087521619459850348
 https://x.com/huggingface/status/2088301795890044975
+https://x.com/huggingface/status/2089673018737869242
 https://x.com/xai/status/2082517754712842386
 https://x.com/xai/status/2082529280341553209
 https://x.com/xai/status/2083312089620222378
