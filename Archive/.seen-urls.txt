@@ -27,12 +27,14 @@ https://api-docs.deepseek.com/zh-cn/api/deepseek-api
 https://api-docs.deepseek.com/zh-cn/faq
 https://api-docs.deepseek.com/zh-cn/guides/anthropic_api
 https://api-docs.deepseek.com/zh-cn/guides/chat_prefix_completion
+https://api-docs.deepseek.com/zh-cn/guides/files_api
 https://api-docs.deepseek.com/zh-cn/guides/fim_completion
 https://api-docs.deepseek.com/zh-cn/guides/json_mode
 https://api-docs.deepseek.com/zh-cn/guides/kv_cache
 https://api-docs.deepseek.com/zh-cn/guides/responses_api
 https://api-docs.deepseek.com/zh-cn/guides/thinking_mode
 https://api-docs.deepseek.com/zh-cn/guides/tool_calls
+https://api-docs.deepseek.com/zh-cn/guides/vision
 https://api-docs.deepseek.com/zh-cn/news/news0725
 https://api-docs.deepseek.com/zh-cn/news/news0802
 https://api-docs.deepseek.com/zh-cn/news/news1226
@@ -90,6 +92,7 @@ https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis
 https://code.minimax.io
 https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission
 https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi
+https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games
 https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration
 https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership
 https://deepmind.google/blog/introducing-gemini-3-7-flash
@@ -156,6 +159,7 @@ https://huggingface.co/blog/allenai/shippy-tech-blog
 https://huggingface.co/blog/allenai/tutormoments
 https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
 https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop
+https://huggingface.co/blog/asr-benchmark-optimization
 https://huggingface.co/blog/baseten
 https://huggingface.co/blog/cerebras-gemma4-voice-ai
 https://huggingface.co/blog/eee-community-evals
@@ -421,9 +425,11 @@ https://x.ai/news/grok-4-5-everywhere
 https://x.ai/news/grok-4-6
 https://x.ai/news/grok-4-6-amazon-bedrock
 https://x.ai/news/grok-4-6-github-copilot
+https://x.ai/news/grok-4-6-vertex-ai
 https://x.ai/news/grok-4-fast
 https://x.ai/news/grok-amazon-bedrock
 https://x.ai/news/grok-automations
+https://x.ai/news/grok-bot-more-plans
 https://x.ai/news/grok-build-0-1
 https://x.ai/news/grok-build-cli
 https://x.ai/news/grok-build-for-everyone
@@ -524,8 +530,10 @@ https://x.com/GoogleDeepMind/status/2085395442347524506
 https://x.com/GoogleDeepMind/status/2085737848318124083
 https://x.com/GoogleDeepMind/status/2087541213284946191
 https://x.com/GoogleDeepMind/status/2087948366294515977
+https://x.com/GoogleDeepMind/status/2090772922818286080
 https://x.com/MicrosoftAI/status/2081796647135166547
 https://x.com/MicrosoftAI/status/2089774258276696177
+https://x.com/MicrosoftAI/status/2090831292308799577
 https://x.com/MistralAI/status/2084684735725379637
 https://x.com/MistralAI/status/2087305196841922782
 https://x.com/NVIDIAAI/status/2081862555220279601
@@ -559,6 +567,9 @@ https://x.com/NVIDIAAI/status/2089782352755212542
 https://x.com/NVIDIAAI/status/2090113635683340622
 https://x.com/NVIDIAAI/status/2090193774643446117
 https://x.com/NVIDIAAI/status/2090469297097433394
+https://x.com/NVIDIAAI/status/2090587015272403373
+https://x.com/NVIDIAAI/status/2090786258981466231
+https://x.com/NVIDIAAI/status/2090842341196407089
 https://x.com/OpenAI/status/2082146058017321257
 https://x.com/OpenAI/status/2082152074071228702
 https://x.com/OpenAI/status/2082208694142730340
@@ -579,6 +590,7 @@ https://x.com/OpenAI/status/2087947721936359705
 https://x.com/OpenAI/status/2087996496088297746
 https://x.com/OpenAI/status/2089777845187031262
 https://x.com/OpenAI/status/2090165328290701800
+https://x.com/OpenAI/status/2090885187634905500
 https://x.com/huggingface/status/2082122787880333596
 https://x.com/huggingface/status/2082502249784451163
 https://x.com/huggingface/status/2084759576692363460
@@ -597,3 +609,4 @@ https://x.com/xai/status/2088015995810238827
 https://x.com/xai/status/2088250109188608289
 https://x.com/xai/status/2089449055651033207
 https://x.com/xai/status/2090096322858660260
+https://x.com/xai/status/2090885694407250418
