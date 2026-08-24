@@ -88,6 +88,7 @@ https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize
 https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale
 https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar
 https://blogs.nvidia.com/blog/open-secure-ai-alliance
+https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents
 https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis
 https://code.minimax.io
 https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission
@@ -275,6 +276,7 @@ https://openai.com/index/genebench-pro/case-studies
 https://openai.com/index/government-national-security-partnerships
 https://openai.com/index/gpt-5-6
 https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency
+https://openai.com/index/gpt-5-6-in-kiro
 https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
 https://openai.com/index/gpt-5-immunology-mystery/
 https://openai.com/index/health-in-chatgpt
@@ -536,6 +538,7 @@ https://x.com/MicrosoftAI/status/2089774258276696177
 https://x.com/MicrosoftAI/status/2090831292308799577
 https://x.com/MistralAI/status/2084684735725379637
 https://x.com/MistralAI/status/2087305196841922782
+https://x.com/MistralAI/status/2091964930715013224
 https://x.com/NVIDIAAI/status/2081862555220279601
 https://x.com/NVIDIAAI/status/2082133936067752136
 https://x.com/NVIDIAAI/status/2082164011953803767
@@ -570,6 +573,7 @@ https://x.com/NVIDIAAI/status/2090469297097433394
 https://x.com/NVIDIAAI/status/2090587015272403373
 https://x.com/NVIDIAAI/status/2090786258981466231
 https://x.com/NVIDIAAI/status/2090842341196407089
+https://x.com/NVIDIAAI/status/2091971982867022139
 https://x.com/OpenAI/status/2082146058017321257
 https://x.com/OpenAI/status/2082152074071228702
 https://x.com/OpenAI/status/2082208694142730340
@@ -610,3 +614,5 @@ https://x.com/xai/status/2088250109188608289
 https://x.com/xai/status/2089449055651033207
 https://x.com/xai/status/2090096322858660260
 https://x.com/xai/status/2090885694407250418
+https://x.com/xai/status/2091957125941543034
+https://x.com/xai/status/2091987538999197752
