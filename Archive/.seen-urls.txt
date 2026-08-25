@@ -76,6 +76,7 @@ https://blog.google/products-and-platforms/products/search/back-to-school-study-
 https://blog.google/products-and-platforms/products/search/connected-apps
 https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips
 https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary
+https://blog.google/products-and-platforms/products/search/home-decor-tips
 https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars
 https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets
 https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates
@@ -153,6 +154,7 @@ https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b
 https://huggingface.co/blog/LiquidAI/lfm25-dspark
 https://huggingface.co/blog/LiquidAI/qad
 https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation
+https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing
 https://huggingface.co/blog/Photoroom/prx-part4-data
 https://huggingface.co/blog/allenai/olmoearth-embeddings
 https://huggingface.co/blog/allenai/olmoearth-infrastructure
@@ -165,6 +167,8 @@ https://huggingface.co/blog/baseten
 https://huggingface.co/blog/cerebras-gemma4-voice-ai
 https://huggingface.co/blog/eee-community-evals
 https://huggingface.co/blog/grabette
+https://huggingface.co/blog/gradio-workflow-guide
+https://huggingface.co/blog/ibm-granite/granite-4-2
 https://huggingface.co/blog/ibm-research/altk-evolve-hmm
 https://huggingface.co/blog/ibm-research/altk-evolve-sldd
 https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt
@@ -271,6 +275,7 @@ https://openai.com/index/daybreak-models-are-now-available-on-aws
 https://openai.com/index/daybreak-securing-the-world/
 https://openai.com/index/deutsche-telekom
 https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation
+https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia
 https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows
 https://openai.com/index/genebench-pro/case-studies
 https://openai.com/index/government-national-security-partnerships
@@ -291,11 +296,13 @@ https://openai.com/index/hp-frontier-partnership/
 https://openai.com/index/hsp-gruppe
 https://openai.com/index/hugging-face-model-evaluation-security-incident
 https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt
+https://openai.com/index/introducing-admin-plugin
 https://openai.com/index/introducing-ai-futures
 https://openai.com/index/introducing-chatgpt-small-business-program
 https://openai.com/index/introducing-genebench-pro
 https://openai.com/index/introducing-gpt-live
 https://openai.com/index/introducing-openai-presence
+https://openai.com/index/jalapeno-first-results
 https://openai.com/index/k-12-educators-practical-skills
 https://openai.com/index/learn-teach-chatgpt-work-codex
 https://openai.com/index/managing-ai-investments-in-agentic-era
@@ -327,6 +334,7 @@ https://openai.com/index/strengthening-democratic-oversight-in-national-security
 https://openai.com/index/ten-advances-in-mathematics
 https://openai.com/index/testing-ads-in-chatgpt
 https://openai.com/index/the-defenders-window
+https://openai.com/index/the-full-stack-behind-abundant-intelligence
 https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
 https://openai.com/index/unive
 https://openai.com/index/unlocking-self-improvement-gpt-red
@@ -368,6 +376,7 @@ https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem
 https://www.anthropic.com/news/tcs-anthropic-partnership
 https://www.anthropic.com/news/tino-cuellar
 https://www.anthropic.com/news/ust-claude
+https://www.anthropic.com/news/wellbeing-research-grants
 https://www.bigmodel.cn/pricing
 https://www.minimax.io/about
 https://www.minimax.io/audio
@@ -517,6 +526,8 @@ https://x.com/GeminiApp/status/2087948790296973683
 https://x.com/GeminiApp/status/2088277477672255830
 https://x.com/GeminiApp/status/2088326407730692538
 https://x.com/GeminiApp/status/2090165248196252003
+https://x.com/GeminiApp/status/2092283845458678147
+https://x.com/GeminiApp/status/2092322045296255330
 https://x.com/GoogleAI/status/2082466336228122711
 https://x.com/GoogleAI/status/2082844740446253125
 https://x.com/GoogleAI/status/2082902334984609936
@@ -525,6 +536,7 @@ https://x.com/GoogleAI/status/2087279317172777169
 https://x.com/GoogleAI/status/2087949042961514983
 https://x.com/GoogleAI/status/2088332438753681700
 https://x.com/GoogleAI/status/2089437060310434098
+https://x.com/GoogleAI/status/2092275116503707733
 https://x.com/GoogleDeepMind/status/2082541871612449180
 https://x.com/GoogleDeepMind/status/2082844162928381956
 https://x.com/GoogleDeepMind/status/2082904276293062994
@@ -574,6 +586,8 @@ https://x.com/NVIDIAAI/status/2090587015272403373
 https://x.com/NVIDIAAI/status/2090786258981466231
 https://x.com/NVIDIAAI/status/2090842341196407089
 https://x.com/NVIDIAAI/status/2091971982867022139
+https://x.com/NVIDIAAI/status/2092310989249314872
+https://x.com/NVIDIAAI/status/2092371238635307116
 https://x.com/OpenAI/status/2082146058017321257
 https://x.com/OpenAI/status/2082152074071228702
 https://x.com/OpenAI/status/2082208694142730340
@@ -595,6 +609,8 @@ https://x.com/OpenAI/status/2087996496088297746
 https://x.com/OpenAI/status/2089777845187031262
 https://x.com/OpenAI/status/2090165328290701800
 https://x.com/OpenAI/status/2090885187634905500
+https://x.com/OpenAI/status/2092300846675505602
+https://x.com/OpenAI/status/2092335305366069305
 https://x.com/huggingface/status/2082122787880333596
 https://x.com/huggingface/status/2082502249784451163
 https://x.com/huggingface/status/2084759576692363460
