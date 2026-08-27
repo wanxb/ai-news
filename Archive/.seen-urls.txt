@@ -97,6 +97,7 @@ https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-wit
 https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games
 https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration
 https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership
+https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe
 https://deepmind.google/blog/introducing-gemini-3-7-flash
 https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber
 https://deepmind.google/blog/our-approach-to-bioresilience
@@ -134,6 +135,7 @@ https://docs.bigmodel.cn/cn/guide/models/vlm/autoglm-phone
 https://docs.bigmodel.cn/cn/guide/models/vlm/glm-4.1v-thinking
 https://docs.bigmodel.cn/cn/guide/models/vlm/glm-4.5v
 https://docs.bigmodel.cn/cn/guide/models/vlm/glm-4.6v
+https://docs.bigmodel.cn/cn/guide/models/vlm/glm-5.3-flash
 https://docs.bigmodel.cn/cn/guide/models/vlm/glm-5v-turbo
 https://docs.bigmodel.cn/cn/guide/models/vlm/glm-ocr
 https://docs.bigmodel.cn/cn/guide/tools/web-search
@@ -194,6 +196,7 @@ https://huggingface.co/blog/skypilot-hf-storage
 https://huggingface.co/blog/state-of-open-models-summer-2026
 https://huggingface.co/blog/thinkingmachines-inkling
 https://huggingface.co/blog/torch-attention-profile
+https://huggingface.co/blog/train-multi-vector-encoder
 https://ir.minimax.io
 https://kimi-k2.org/zh/blog/01-technical-breakthrough
 https://kimi-k2.org/zh/blog/02-deployment-guide
@@ -256,6 +259,7 @@ https://openai.com/index/apple-is-getting-this-wrong
 https://openai.com/index/asana
 https://openai.com/index/australian-payments-plus
 https://openai.com/index/bio-bug-bounty
+https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts
 https://openai.com/index/builders-guide-to-gpt-5-6
 https://openai.com/index/building-abundant-intelligence
 https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community
@@ -294,6 +298,7 @@ https://openai.com/index/how-the-world-is-putting-chatgpt-to-work
 https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores
 https://openai.com/index/hp-frontier-partnership/
 https://openai.com/index/hsp-gruppe
+https://openai.com/index/hugging-face-incident-and-the-road-ahead
 https://openai.com/index/hugging-face-model-evaluation-security-incident
 https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt
 https://openai.com/index/introducing-admin-plugin
@@ -305,6 +310,8 @@ https://openai.com/index/introducing-openai-presence
 https://openai.com/index/jalapeno-first-results
 https://openai.com/index/k-12-educators-practical-skills
 https://openai.com/index/learn-teach-chatgpt-work-codex
+https://openai.com/index/learning-never-stops
+https://openai.com/index/loveholidays
 https://openai.com/index/managing-ai-investments-in-agentic-era
 https://openai.com/index/model-ml
 https://openai.com/index/new-policy-ideas-for-the-intelligence-age
@@ -436,6 +443,7 @@ https://x.ai/news/grok-4-5-everywhere
 https://x.ai/news/grok-4-6
 https://x.ai/news/grok-4-6-amazon-bedrock
 https://x.ai/news/grok-4-6-github-copilot
+https://x.ai/news/grok-4-6-microsoft-foundry
 https://x.ai/news/grok-4-6-vertex-ai
 https://x.ai/news/grok-4-fast
 https://x.ai/news/grok-amazon-bedrock
@@ -508,6 +516,7 @@ https://x.com/AnthropicAI/status/2086867246073401655
 https://x.com/AnthropicAI/status/2088324824863236248
 https://x.com/AnthropicAI/status/2088343978873966687
 https://x.com/AnthropicAI/status/2089842387845804246
+https://x.com/AnthropicAI/status/2092661573223657834
 https://x.com/GeminiApp/status/2081866612005892254
 https://x.com/GeminiApp/status/2082563490431246623
 https://x.com/GeminiApp/status/2082586356610654334
@@ -528,6 +537,7 @@ https://x.com/GeminiApp/status/2088326407730692538
 https://x.com/GeminiApp/status/2090165248196252003
 https://x.com/GeminiApp/status/2092283845458678147
 https://x.com/GeminiApp/status/2092322045296255330
+https://x.com/GeminiApp/status/2092661911120978024
 https://x.com/GoogleAI/status/2082466336228122711
 https://x.com/GoogleAI/status/2082844740446253125
 https://x.com/GoogleAI/status/2082902334984609936
@@ -537,6 +547,7 @@ https://x.com/GoogleAI/status/2087949042961514983
 https://x.com/GoogleAI/status/2088332438753681700
 https://x.com/GoogleAI/status/2089437060310434098
 https://x.com/GoogleAI/status/2092275116503707733
+https://x.com/GoogleAI/status/2092660089509314735
 https://x.com/GoogleDeepMind/status/2082541871612449180
 https://x.com/GoogleDeepMind/status/2082844162928381956
 https://x.com/GoogleDeepMind/status/2082904276293062994
@@ -545,6 +556,7 @@ https://x.com/GoogleDeepMind/status/2085737848318124083
 https://x.com/GoogleDeepMind/status/2087541213284946191
 https://x.com/GoogleDeepMind/status/2087948366294515977
 https://x.com/GoogleDeepMind/status/2090772922818286080
+https://x.com/GoogleDeepMind/status/2092659221477077101
 https://x.com/MicrosoftAI/status/2081796647135166547
 https://x.com/MicrosoftAI/status/2089774258276696177
 https://x.com/MicrosoftAI/status/2090831292308799577
@@ -588,6 +600,7 @@ https://x.com/NVIDIAAI/status/2090842341196407089
 https://x.com/NVIDIAAI/status/2091971982867022139
 https://x.com/NVIDIAAI/status/2092310989249314872
 https://x.com/NVIDIAAI/status/2092371238635307116
+https://x.com/NVIDIAAI/status/2092662629785575913
 https://x.com/OpenAI/status/2082146058017321257
 https://x.com/OpenAI/status/2082152074071228702
 https://x.com/OpenAI/status/2082208694142730340
@@ -611,6 +624,7 @@ https://x.com/OpenAI/status/2090165328290701800
 https://x.com/OpenAI/status/2090885187634905500
 https://x.com/OpenAI/status/2092300846675505602
 https://x.com/OpenAI/status/2092335305366069305
+https://x.com/OpenAI/status/2092691861773160673
 https://x.com/huggingface/status/2082122787880333596
 https://x.com/huggingface/status/2082502249784451163
 https://x.com/huggingface/status/2084759576692363460
@@ -618,6 +632,7 @@ https://x.com/huggingface/status/2085758063471120848
 https://x.com/huggingface/status/2087521619459850348
 https://x.com/huggingface/status/2088301795890044975
 https://x.com/huggingface/status/2089673018737869242
+https://x.com/huggingface/status/2092727360584135026
 https://x.com/xai/status/2082517754712842386
 https://x.com/xai/status/2082529280341553209
 https://x.com/xai/status/2083312089620222378
@@ -632,3 +647,4 @@ https://x.com/xai/status/2090096322858660260
 https://x.com/xai/status/2090885694407250418
 https://x.com/xai/status/2091957125941543034
 https://x.com/xai/status/2091987538999197752
+https://x.com/xai/status/2092644384730972669
