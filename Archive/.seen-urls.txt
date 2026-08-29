@@ -193,6 +193,7 @@ https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb
 https://huggingface.co/blog/nvidia/open-data-for-agents
 https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel
 https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai
+https://huggingface.co/blog/open-asr-leaderboard-global-south
 https://huggingface.co/blog/real-world-voiceeq
 https://huggingface.co/blog/revamped-kernels
 https://huggingface.co/blog/security-incident-july-2026
@@ -328,6 +329,7 @@ https://openai.com/index/openai-broadcom-jalapeno-inference-chip/
 https://openai.com/index/openai-joins-ports-pike-project
 https://openai.com/index/openai-on-oracle-cloud/
 https://openai.com/index/openai-to-acquire-ona/
+https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
 https://openai.com/index/pacing-model-development-cyber-capabilities
 https://openai.com/index/partnering-with-codeai
 https://openai.com/index/premium-seats-chatgpt-business
@@ -343,6 +345,7 @@ https://openai.com/index/scientific-computing-agentic-ai
 https://openai.com/index/separating-signal-from-noise-coding-evaluations
 https://openai.com/index/stampli
 https://openai.com/index/strengthening-democratic-oversight-in-national-security
+https://openai.com/index/supporting-next-generation-ai-startups-thailand
 https://openai.com/index/ten-advances-in-mathematics
 https://openai.com/index/testing-ads-in-chatgpt
 https://openai.com/index/the-defenders-window
@@ -526,6 +529,7 @@ https://x.com/AnthropicAI/status/2088343978873966687
 https://x.com/AnthropicAI/status/2089842387845804246
 https://x.com/AnthropicAI/status/2092661573223657834
 https://x.com/AnthropicAI/status/2093038426140651791
+https://x.com/AnthropicAI/status/2093386528668172373
 https://x.com/GeminiApp/status/2081866612005892254
 https://x.com/GeminiApp/status/2082563490431246623
 https://x.com/GeminiApp/status/2082586356610654334
@@ -549,6 +553,7 @@ https://x.com/GeminiApp/status/2092322045296255330
 https://x.com/GeminiApp/status/2092661911120978024
 https://x.com/GeminiApp/status/2093036268288610520
 https://x.com/GeminiApp/status/2093107727363092677
+https://x.com/GeminiApp/status/2093427774161891580
 https://x.com/GoogleAI/status/2082466336228122711
 https://x.com/GoogleAI/status/2082844740446253125
 https://x.com/GoogleAI/status/2082902334984609936
@@ -560,6 +565,7 @@ https://x.com/GoogleAI/status/2089437060310434098
 https://x.com/GoogleAI/status/2092275116503707733
 https://x.com/GoogleAI/status/2092660089509314735
 https://x.com/GoogleAI/status/2093008998987403303
+https://x.com/GoogleAI/status/2093356767992279503
 https://x.com/GoogleDeepMind/status/2082541871612449180
 https://x.com/GoogleDeepMind/status/2082844162928381956
 https://x.com/GoogleDeepMind/status/2082904276293062994
@@ -571,6 +577,7 @@ https://x.com/GoogleDeepMind/status/2090772922818286080
 https://x.com/GoogleDeepMind/status/2092659221477077101
 https://x.com/GoogleDeepMind/status/2092961763553677387
 https://x.com/GoogleDeepMind/status/2093019627437662680
+https://x.com/GoogleDeepMind/status/2093338200580256172
 https://x.com/MicrosoftAI/status/2081796647135166547
 https://x.com/MicrosoftAI/status/2089774258276696177
 https://x.com/MicrosoftAI/status/2090831292308799577
@@ -615,6 +622,9 @@ https://x.com/NVIDIAAI/status/2091971982867022139
 https://x.com/NVIDIAAI/status/2092310989249314872
 https://x.com/NVIDIAAI/status/2092371238635307116
 https://x.com/NVIDIAAI/status/2092662629785575913
+https://x.com/NVIDIAAI/status/2093338311289139429
+https://x.com/NVIDIAAI/status/2093360947608113363
+https://x.com/NVIDIAAI/status/2093444391797158049
 https://x.com/OpenAI/status/2082146058017321257
 https://x.com/OpenAI/status/2082152074071228702
 https://x.com/OpenAI/status/2082208694142730340
@@ -640,6 +650,7 @@ https://x.com/OpenAI/status/2092300846675505602
 https://x.com/OpenAI/status/2092335305366069305
 https://x.com/OpenAI/status/2092691861773160673
 https://x.com/OpenAI/status/2093074192636018977
+https://x.com/OpenAI/status/2093515564786540695
 https://x.com/huggingface/status/2082122787880333596
 https://x.com/huggingface/status/2082502249784451163
 https://x.com/huggingface/status/2084759576692363460
