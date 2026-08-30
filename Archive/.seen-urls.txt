@@ -459,6 +459,7 @@ https://x.ai/news/grok-4-6-vertex-ai
 https://x.ai/news/grok-4-fast
 https://x.ai/news/grok-amazon-bedrock
 https://x.ai/news/grok-automations
+https://x.ai/news/grok-bot-and-x
 https://x.ai/news/grok-bot-more-plans
 https://x.ai/news/grok-build-0-1
 https://x.ai/news/grok-build-cli
