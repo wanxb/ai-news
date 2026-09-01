@@ -285,6 +285,7 @@ https://openai.com/index/daybreak-securing-the-world/
 https://openai.com/index/deutsche-telekom
 https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation
 https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia
+https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads
 https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows
 https://openai.com/index/expanding-our-presence-in-brazil
 https://openai.com/index/genebench-pro/case-studies
@@ -332,6 +333,7 @@ https://openai.com/index/openai-to-acquire-ona/
 https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
 https://openai.com/index/pacing-model-development-cyber-capabilities
 https://openai.com/index/partnering-with-codeai
+https://openai.com/index/polimill
 https://openai.com/index/premium-seats-chatgpt-business
 https://openai.com/index/previewing-gpt-5-6-sol/
 https://openai.com/index/previewing-ultrafast
@@ -382,6 +384,7 @@ https://www.anthropic.com/news/expanding-support-for-scientists
 https://www.anthropic.com/news/fable-mythos-access
 https://www.anthropic.com/news/fable-safeguards-jailbreak-framework
 https://www.anthropic.com/news/hard-questions
+https://www.anthropic.com/news/improving-alignment-security-efforts
 https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards
 https://www.anthropic.com/news/introducing-claude-tag
 https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
@@ -531,6 +534,8 @@ https://x.com/AnthropicAI/status/2089842387845804246
 https://x.com/AnthropicAI/status/2092661573223657834
 https://x.com/AnthropicAI/status/2093038426140651791
 https://x.com/AnthropicAI/status/2093386528668172373
+https://x.com/AnthropicAI/status/2094557124038951170
+https://x.com/AnthropicAI/status/2094577944056430865
 https://x.com/GeminiApp/status/2081866612005892254
 https://x.com/GeminiApp/status/2082563490431246623
 https://x.com/GeminiApp/status/2082586356610654334
