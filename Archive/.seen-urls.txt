@@ -68,6 +68,7 @@ https://blog.google/innovation-and-ai/technology/developers-tools/expanding-mana
 https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026
 https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai
 https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/
+https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map
 https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience
 https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy
 https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program
@@ -88,6 +89,7 @@ https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates
 https://blogs.nvidia.com/blog/ai-storage-fms
 https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin
 https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit
+https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark
 https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron
 https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx
 https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize
@@ -109,6 +111,7 @@ https://deepmind.google/blog/introducing-agentic-video-in-gemini
 https://deepmind.google/blog/introducing-gemini-3-7-flash
 https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber
 https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber
+https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model
 https://deepmind.google/blog/our-approach-to-bioresilience
 https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations
 https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises
@@ -294,6 +297,7 @@ https://openai.com/index/continuous-voice-interaction-with-gpt-live
 https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
 https://openai.com/index/dali-rajic-chief-revenue-officer
 https://openai.com/index/david-velez-robin-vince-join-openai-boards
+https://openai.com/index/daybreak-for-frontline-defenders
 https://openai.com/index/daybreak-models-are-now-available-on-aws
 https://openai.com/index/daybreak-securing-the-world/
 https://openai.com/index/deutsche-telekom
@@ -332,6 +336,7 @@ https://openai.com/index/jalapeno-first-results
 https://openai.com/index/k-12-educators-practical-skills
 https://openai.com/index/learn-teach-chatgpt-work-codex
 https://openai.com/index/learning-never-stops
+https://openai.com/index/legora-financial-statement-review-with-astra
 https://openai.com/index/loveholidays
 https://openai.com/index/managing-ai-investments-in-agentic-era
 https://openai.com/index/model-ml
@@ -348,6 +353,7 @@ https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spa
 https://openai.com/index/pacing-model-development-cyber-capabilities
 https://openai.com/index/partnering-with-codeai
 https://openai.com/index/path-to-astra
+https://openai.com/index/playco-game-prototyping-with-astra
 https://openai.com/index/polimill
 https://openai.com/index/premium-seats-chatgpt-business
 https://openai.com/index/previewing-gpt-5-6-sol/
@@ -358,6 +364,7 @@ https://openai.com/index/responding-next-frontier-critical-cyber-capabilities
 https://openai.com/index/responsible-ai-infrastructure-texas
 https://openai.com/index/ringcentral
 https://openai.com/index/safety-alignment-long-horizon-models
+https://openai.com/index/safety-overview-gpt-6-astra
 https://openai.com/index/scientific-computing-agentic-ai
 https://openai.com/index/separating-signal-from-noise-coding-evaluations
 https://openai.com/index/stampli
@@ -458,6 +465,7 @@ https://x.ai/news/anthropic-compute-partnership
 https://x.ai/news/api
 https://x.ai/news/biosafety-at-the-frontier
 https://x.ai/news/composer-2-5
+https://x.ai/news/designing-grok-bot
 https://x.ai/news/el-salvador-partnership
 https://x.ai/news/government
 https://x.ai/news/grok
@@ -480,6 +488,7 @@ https://x.ai/news/grok-4-fast
 https://x.ai/news/grok-amazon-bedrock
 https://x.ai/news/grok-automations
 https://x.ai/news/grok-bot-and-x
+https://x.ai/news/grok-bot-for-enterprise
 https://x.ai/news/grok-bot-more-plans
 https://x.ai/news/grok-build-0-1
 https://x.ai/news/grok-build-cli
@@ -594,6 +603,7 @@ https://x.com/GoogleAI/status/2093008998987403303
 https://x.com/GoogleAI/status/2093356767992279503
 https://x.com/GoogleAI/status/2095175759606231439
 https://x.com/GoogleAI/status/2095197704406065635
+https://x.com/GoogleAI/status/2095544944190788064
 https://x.com/GoogleDeepMind/status/2082541871612449180
 https://x.com/GoogleDeepMind/status/2082844162928381956
 https://x.com/GoogleDeepMind/status/2082904276293062994
@@ -609,9 +619,11 @@ https://x.com/GoogleDeepMind/status/2093338200580256172
 https://x.com/GoogleDeepMind/status/2094840179676660097
 https://x.com/GoogleDeepMind/status/2095175498967949359
 https://x.com/GoogleDeepMind/status/2095196704769237137
+https://x.com/GoogleDeepMind/status/2095528012791902536
 https://x.com/MicrosoftAI/status/2081796647135166547
 https://x.com/MicrosoftAI/status/2089774258276696177
 https://x.com/MicrosoftAI/status/2090831292308799577
+https://x.com/MicrosoftAI/status/2095521860184363074
 https://x.com/MistralAI/status/2084684735725379637
 https://x.com/MistralAI/status/2087305196841922782
 https://x.com/MistralAI/status/2091964930715013224
@@ -687,6 +699,8 @@ https://x.com/OpenAI/status/2092691861773160673
 https://x.com/OpenAI/status/2093074192636018977
 https://x.com/OpenAI/status/2093515564786540695
 https://x.com/OpenAI/status/2094885578173260259
+https://x.com/OpenAI/status/2095527557924082061
+https://x.com/OpenAI/status/2095595741528125780
 https://x.com/huggingface/status/2082122787880333596
 https://x.com/huggingface/status/2082502249784451163
 https://x.com/huggingface/status/2084759576692363460
@@ -695,6 +709,7 @@ https://x.com/huggingface/status/2087521619459850348
 https://x.com/huggingface/status/2088301795890044975
 https://x.com/huggingface/status/2089673018737869242
 https://x.com/huggingface/status/2092727360584135026
+https://x.com/huggingface/status/2095508870915338284
 https://x.com/xai/status/2082517754712842386
 https://x.com/xai/status/2082529280341553209
 https://x.com/xai/status/2083312089620222378
@@ -711,3 +726,4 @@ https://x.com/xai/status/2091957125941543034
 https://x.com/xai/status/2091987538999197752
 https://x.com/xai/status/2092644384730972669
 https://x.com/xai/status/2094820933689295076
+https://x.com/xai/status/2095597264043717014
