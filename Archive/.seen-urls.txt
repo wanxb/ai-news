@@ -286,6 +286,7 @@ https://openai.com/index/advancing-responsible-ai-across-europe
 https://openai.com/index/advancing-the-next-era-of-national-science
 https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6
 https://openai.com/index/ai-native-company-workflows
+https://openai.com/index/an-alien-mind
 https://openai.com/index/apple-is-getting-this-wrong
 https://openai.com/index/asana
 https://openai.com/index/atv-big-air-tour
@@ -371,6 +372,7 @@ https://openai.com/index/previewing-gpt-5-6-sol/
 https://openai.com/index/previewing-ultrafast
 https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands
 https://openai.com/index/replit
+https://openai.com/index/research-acceleration-view-inside-openai
 https://openai.com/index/responding-next-frontier-critical-cyber-capabilities
 https://openai.com/index/responsible-ai-infrastructure-texas
 https://openai.com/index/ringcentral
