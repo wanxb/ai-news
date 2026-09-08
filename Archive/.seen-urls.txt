@@ -58,6 +58,7 @@ https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathe
 https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions
 https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations
 https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies
+https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights
 https://blog.google/innovation-and-ai/models-and-research/google-research/firesat-satellites
 https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/
 https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026
@@ -382,6 +383,7 @@ https://openai.com/index/scientific-computing-agentic-ai
 https://openai.com/index/separating-signal-from-noise-coding-evaluations
 https://openai.com/index/stampli
 https://openai.com/index/strengthening-democratic-oversight-in-national-security
+https://openai.com/index/supporting-independent-journalism-in-ukraine
 https://openai.com/index/supporting-next-generation-ai-startups-thailand
 https://openai.com/index/ten-advances-in-mathematics
 https://openai.com/index/testing-ads-in-chatgpt
