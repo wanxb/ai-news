@@ -102,6 +102,7 @@ https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents
 https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis
 https://code.minimax.io
 https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission
+https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome
 https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi
 https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games
 https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control
@@ -183,6 +184,7 @@ https://huggingface.co/blog/LiquidAI/lfm25-dspark
 https://huggingface.co/blog/LiquidAI/qad
 https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation
 https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing
+https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom
 https://huggingface.co/blog/Photoroom/prx-part4-data
 https://huggingface.co/blog/allenai/benchmirt
 https://huggingface.co/blog/allenai/olmoearth-embeddings
@@ -277,10 +279,15 @@ https://kimi-k2.org/zh/blog/48-kimi-k3-github-copilot
 https://kimi-k2.org/zh/blog/49-kimi-k3-8gb-ram-c-engine-reality
 https://kimi-k2.org/zh/blog/50-kimi-k3-sandbox-escape-explained
 https://kimi-k2.org/zh/blog/51-kimi-k3-h3-max-video-prompts
+https://kimi-k2.org/zh/blog/53-kimi-k3-vs-gpt-6-astra
+https://kimi-k2.org/zh/blog/54-kimi-k3-vs-claude-fable-5-1
+https://kimi-k2.org/zh/blog/55-kimi-k3-vs-glm-5-3-flash
+https://kimi-k2.org/zh/blog/56-kimi-k3-vs-deepseek-v4-flash-0731
 https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link
 https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
 https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
 https://openai.com/academy/getting-started
+https://openai.com/index/1password
 https://openai.com/index/a-scorecard-for-the-ai-age
 https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
 https://openai.com/index/advancing-responsible-ai-across-europe
@@ -306,6 +313,7 @@ https://openai.com/index/chatgpt-for-academic-researchers
 https://openai.com/index/chatgpt-for-teens
 https://openai.com/index/chatgpt-for-your-most-ambitious-work
 https://openai.com/index/codex-maxxing-long-running-work/
+https://openai.com/index/codex-quantum-computing-experiments
 https://openai.com/index/continuous-voice-interaction-with-gpt-live
 https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
 https://openai.com/index/dali-rajic-chief-revenue-officer
@@ -341,6 +349,7 @@ https://openai.com/index/hugging-face-model-evaluation-security-incident
 https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt
 https://openai.com/index/introducing-admin-plugin
 https://openai.com/index/introducing-ai-futures
+https://openai.com/index/introducing-chatgpt-images-2-5
 https://openai.com/index/introducing-chatgpt-small-business-program
 https://openai.com/index/introducing-genebench-pro
 https://openai.com/index/introducing-gpt-live
@@ -353,6 +362,7 @@ https://openai.com/index/legora-financial-statement-review-with-astra
 https://openai.com/index/loveholidays
 https://openai.com/index/managing-ai-investments-in-agentic-era
 https://openai.com/index/model-ml
+https://openai.com/index/navier-stokes-solution
 https://openai.com/index/new-policy-ideas-for-the-intelligence-age
 https://openai.com/index/ntt-data
 https://openai.com/index/nvidia/chatgpt-work
@@ -384,11 +394,14 @@ https://openai.com/index/separating-signal-from-noise-coding-evaluations
 https://openai.com/index/stampli
 https://openai.com/index/strengthening-democratic-oversight-in-national-security
 https://openai.com/index/supporting-independent-journalism-in-ukraine
+https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms
 https://openai.com/index/supporting-next-generation-ai-startups-thailand
+https://openai.com/index/teen-development-research-grants
 https://openai.com/index/ten-advances-in-mathematics
 https://openai.com/index/testing-ads-in-chatgpt
 https://openai.com/index/the-defenders-window
 https://openai.com/index/the-full-stack-behind-abundant-intelligence
+https://openai.com/index/the-work-now-within-reach
 https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
 https://openai.com/index/unive
 https://openai.com/index/unlocking-self-improvement-gpt-red
