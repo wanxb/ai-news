@@ -86,6 +86,7 @@ https://blog.google/products-and-platforms/products/search/dinner-party-hosting-
 https://blog.google/products-and-platforms/products/search/football-features-google-search
 https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary
 https://blog.google/products-and-platforms/products/search/home-decor-tips
+https://blog.google/products-and-platforms/products/search/running-race-training-tips
 https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars
 https://blog.google/products-and-platforms/products/workspace/google-pics
 https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets
@@ -201,6 +202,7 @@ https://huggingface.co/blog/baseten
 https://huggingface.co/blog/cerebras-gemma4-voice-ai
 https://huggingface.co/blog/eee-community-evals
 https://huggingface.co/blog/grabette
+https://huggingface.co/blog/gradio-workflow-1111
 https://huggingface.co/blog/gradio-workflow-guide
 https://huggingface.co/blog/ibm-granite/granite-4-2
 https://huggingface.co/blog/ibm-research/altk-evolve-hmm
@@ -287,6 +289,7 @@ https://kimi-k2.org/zh/blog/53-kimi-k3-vs-gpt-6-astra
 https://kimi-k2.org/zh/blog/54-kimi-k3-vs-claude-fable-5-1
 https://kimi-k2.org/zh/blog/55-kimi-k3-vs-glm-5-3-flash
 https://kimi-k2.org/zh/blog/56-kimi-k3-vs-deepseek-v4-flash-0731
+https://kimi-k2.org/zh/blog/57-deepseek-v41-flash-release
 https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link
 https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
 https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
@@ -330,6 +333,7 @@ https://openai.com/index/deutsche-telekom
 https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation
 https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia
 https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads
+https://openai.com/index/expanding-ai-access-us-government
 https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows
 https://openai.com/index/expanding-our-presence-in-brazil
 https://openai.com/index/genebench-pro/case-studies
@@ -355,11 +359,14 @@ https://openai.com/index/hugging-face-model-evaluation-security-incident
 https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt
 https://openai.com/index/introducing-admin-plugin
 https://openai.com/index/introducing-ai-futures
+https://openai.com/index/introducing-chatgpt-financial-services
 https://openai.com/index/introducing-chatgpt-images-2-5
 https://openai.com/index/introducing-chatgpt-small-business-program
 https://openai.com/index/introducing-genebench-pro
 https://openai.com/index/introducing-gpt-live
+https://openai.com/index/introducing-gpt-live-1-in-the-api
 https://openai.com/index/introducing-openai-presence
+https://openai.com/index/introducing-the-agents-api
 https://openai.com/index/jalapeno-first-results
 https://openai.com/index/k-12-educators-practical-skills
 https://openai.com/index/learn-teach-chatgpt-work-codex
@@ -388,6 +395,7 @@ https://openai.com/index/polimill
 https://openai.com/index/premium-seats-chatgpt-business
 https://openai.com/index/previewing-gpt-5-6-sol/
 https://openai.com/index/previewing-ultrafast
+https://openai.com/index/put-data-to-work
 https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands
 https://openai.com/index/replit
 https://openai.com/index/research-acceleration-view-inside-openai
@@ -412,6 +420,7 @@ https://openai.com/index/the-work-now-within-reach
 https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
 https://openai.com/index/unive
 https://openai.com/index/unlocking-self-improvement-gpt-red
+https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials
 https://openai.com/index/virgin-atlantic/chatgpt-work
 https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training
 https://openai.com/index/why-teens-deserve-access-safe-ai
