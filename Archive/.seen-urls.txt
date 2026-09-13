@@ -290,6 +290,7 @@ https://kimi-k2.org/zh/blog/54-kimi-k3-vs-claude-fable-5-1
 https://kimi-k2.org/zh/blog/55-kimi-k3-vs-glm-5-3-flash
 https://kimi-k2.org/zh/blog/56-kimi-k3-vs-deepseek-v4-flash-0731
 https://kimi-k2.org/zh/blog/57-deepseek-v41-flash-release
+https://kimi-k2.org/zh/blog/58-kimi-k2-8-preview
 https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link
 https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
 https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
