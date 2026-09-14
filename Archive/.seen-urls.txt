@@ -392,6 +392,7 @@ https://openai.com/index/pacing-model-development-cyber-capabilities
 https://openai.com/index/partnering-with-codeai
 https://openai.com/index/path-to-astra
 https://openai.com/index/paul-christiano-joins-openai-foundation-board
+https://openai.com/index/perplexity-improving-accuracy-with-astra
 https://openai.com/index/playco-game-prototyping-with-astra
 https://openai.com/index/polimill
 https://openai.com/index/premium-seats-chatgpt-business
