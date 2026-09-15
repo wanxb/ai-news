@@ -62,9 +62,11 @@ https://blog.google/innovation-and-ai/models-and-research/google-research/contra
 https://blog.google/innovation-and-ai/models-and-research/google-research/firesat-satellites
 https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space
 https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/
+https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch
 https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026
 https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026
 https://blog.google/innovation-and-ai/technology/ai/love-rendered-film
+https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026
 https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/
 https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api
 https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks
@@ -96,6 +98,7 @@ https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industr
 https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit
 https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark
 https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron
+https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs
 https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx
 https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize
 https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale
@@ -105,6 +108,7 @@ https://blogs.nvidia.com/blog/vera-cpu-delivery
 https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents
 https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis
 https://code.minimax.io
+https://console.volcengine.com/ark/region:cn-beijing/managed-agents/quickstart?quickstartSessionProjectName=default
 https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission
 https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome
 https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi
@@ -338,6 +342,7 @@ https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads
 https://openai.com/index/expanding-ai-access-us-government
 https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows
 https://openai.com/index/expanding-our-presence-in-brazil
+https://openai.com/index/fyxer
 https://openai.com/index/genebench-pro/case-studies
 https://openai.com/index/government-national-security-partnerships
 https://openai.com/index/gpt-5-6
