@@ -101,6 +101,7 @@ https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates
 https://blogs.nvidia.com/blog/ai-storage-fms
 https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin
 https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit
+https://blogs.nvidia.com/blog/jensen-huang-dreamforce
 https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark
 https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron
 https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs
@@ -359,12 +360,14 @@ https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
 https://openai.com/index/gpt-5-immunology-mystery/
 https://openai.com/index/gpt-6-astra-next-generation-work
 https://openai.com/index/health-in-chatgpt
+https://openai.com/index/helping-older-adults-use-ai-in-everyday-life
 https://openai.com/index/how-agents-are-transforming-work/
 https://openai.com/index/how-ai-is-expanding-what-people-do-at-work
 https://openai.com/index/how-chatgpt-adoption-has-expanded
 https://openai.com/index/how-enterprises-put-ai-to-work
 https://openai.com/index/how-news-organizations-are-using-ai
 https://openai.com/index/how-the-world-is-putting-chatgpt-to-work
+https://openai.com/index/how-to-connect-ai-usage-to-business-value
 https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores
 https://openai.com/index/hp-frontier-partnership/
 https://openai.com/index/hsp-gruppe
@@ -388,6 +391,7 @@ https://openai.com/index/learning-never-stops
 https://openai.com/index/legora-financial-statement-review-with-astra
 https://openai.com/index/loveholidays
 https://openai.com/index/managing-ai-investments-in-agentic-era
+https://openai.com/index/model-misalignment-reporting-framework
 https://openai.com/index/model-ml
 https://openai.com/index/navier-stokes-solution
 https://openai.com/index/new-policy-ideas-for-the-intelligence-age
@@ -412,6 +416,7 @@ https://openai.com/index/previewing-gpt-5-6-sol/
 https://openai.com/index/previewing-ultrafast
 https://openai.com/index/put-data-to-work
 https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands
+https://openai.com/index/reimagining-advertising-with-ai
 https://openai.com/index/replit
 https://openai.com/index/research-acceleration-view-inside-openai
 https://openai.com/index/responding-next-frontier-critical-cyber-capabilities
@@ -435,6 +440,7 @@ https://openai.com/index/the-full-stack-behind-abundant-intelligence
 https://openai.com/index/the-work-now-within-reach
 https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
 https://openai.com/index/unive
+https://openai.com/index/unlocking-new-ways-of-working
 https://openai.com/index/unlocking-self-improvement-gpt-red
 https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials
 https://openai.com/index/virgin-atlantic/chatgpt-work
@@ -554,6 +560,7 @@ https://x.ai/news/grok-bot-procurement
 https://x.ai/news/grok-build-0-1
 https://x.ai/news/grok-build-cli
 https://x.ai/news/grok-build-for-everyone
+https://x.ai/news/grok-build-memory
 https://x.ai/news/grok-build-mode
 https://x.ai/news/grok-build-open-source
 https://x.ai/news/grok-business
