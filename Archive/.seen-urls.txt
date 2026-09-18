@@ -70,6 +70,7 @@ https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact
 https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch
 https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026
 https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026
+https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform
 https://blog.google/innovation-and-ai/technology/ai/love-rendered-film
 https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026
 https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/
@@ -318,6 +319,7 @@ https://openai.com/index/ai-policy-window
 https://openai.com/index/an-alien-mind
 https://openai.com/index/apple-is-getting-this-wrong
 https://openai.com/index/asana
+https://openai.com/index/astra-for-law
 https://openai.com/index/atv-big-air-tour
 https://openai.com/index/australian-payments-plus
 https://openai.com/index/bio-bug-bounty
@@ -337,6 +339,7 @@ https://openai.com/index/codex-maxxing-long-running-work/
 https://openai.com/index/codex-quantum-computing-experiments
 https://openai.com/index/cognition-devin-testing-with-astra
 https://openai.com/index/continuous-voice-interaction-with-gpt-live
+https://openai.com/index/cooley-gopublic
 https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
 https://openai.com/index/dali-rajic-chief-revenue-officer
 https://openai.com/index/david-velez-robin-vince-join-openai-boards
@@ -477,6 +480,7 @@ https://www.anthropic.com/news/improving-alignment-security-efforts
 https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards
 https://www.anthropic.com/news/introducing-claude-tag
 https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
+https://www.anthropic.com/news/life-sciences-verification-program
 https://www.anthropic.com/news/model-hardware-standard-research-preview
 https://www.anthropic.com/news/position-open-weights-models
 https://www.anthropic.com/news/rare-disease-research-grants
@@ -501,6 +505,7 @@ https://www.minimax.io/news/music-26
 https://www.mintlify.com?utm_campaign=poweredBy&utm_medium=referral&utm_source=zhipu-ef7018ed
 https://www.talkie-ai.com
 https://www.volcengine.com/activity/Partner-AI-Solution?infrom=100001.100.217
+https://www.volcengine.com/activity/agentplan?_vtm_=a441938.b105393.c854860_0.d562002_13.0.385_7680906253586056767
 https://www.volcengine.com/activity/codingplan?infrom=100001.100.216
 https://www.volcengine.com/activity/haidianbutie?_vtm_=a441938.b75322.0_0.0_0.0.17_7655623425281820214
 https://www.volcengine.com/activity/jifen?infrom=100001.100.219
