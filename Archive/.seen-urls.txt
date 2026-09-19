@@ -68,8 +68,10 @@ https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2
 https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language
 https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact
 https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch
+https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench
 https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026
 https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026
+https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week
 https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform
 https://blog.google/innovation-and-ai/technology/ai/love-rendered-film
 https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026
@@ -455,6 +457,7 @@ https://platform.deepseek.com/api_keys
 https://platform.minimax.io/contact-us
 https://platform.minimax.io/docs/guides/music-generation
 https://twitter.com/deepseek_ai
+https://www.anthropic.com/news/accenture-embedded-evaluation
 https://www.anthropic.com/news/alberta-government-claude-cybersecurity
 https://www.anthropic.com/news/anthropic-economic-index-connector
 https://www.anthropic.com/news/anthropic-public-record
@@ -599,6 +602,7 @@ https://x.ai/news/grok-voice-agent-api
 https://x.ai/news/grok-voice-agent-builder
 https://x.ai/news/grok-voice-think-fast-1
 https://x.ai/news/grok-voice-think-fast-2
+https://x.ai/news/grok-voice-transcribe-2
 https://x.ai/news/grok-warp
 https://x.ai/news/introducing-excel-addin
 https://x.ai/news/introducing-goal
