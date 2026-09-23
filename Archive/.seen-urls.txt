@@ -105,6 +105,7 @@ https://blogs.nvidia.com/blog/ai-security-agent-stack
 https://blogs.nvidia.com/blog/ai-storage-fms
 https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin
 https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit
+https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics
 https://blogs.nvidia.com/blog/jensen-huang-dreamforce
 https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark
 https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron
@@ -217,6 +218,7 @@ https://huggingface.co/blog/asr-benchmark-optimization
 https://huggingface.co/blog/baseten
 https://huggingface.co/blog/cerebras-gemma4-voice-ai
 https://huggingface.co/blog/eee-community-evals
+https://huggingface.co/blog/evaleval-aisi
 https://huggingface.co/blog/grabette
 https://huggingface.co/blog/gradio-workflow-1111
 https://huggingface.co/blog/gradio-workflow-guide
@@ -242,6 +244,7 @@ https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb
 https://huggingface.co/blog/nvidia/open-data-for-agents
 https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel
 https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai
+https://huggingface.co/blog/omlx
 https://huggingface.co/blog/open-asr-leaderboard-global-south
 https://huggingface.co/blog/real-world-voiceeq
 https://huggingface.co/blog/revamped-kernels
@@ -252,6 +255,7 @@ https://huggingface.co/blog/thinkingmachines-inkling
 https://huggingface.co/blog/tokenizers-v1
 https://huggingface.co/blog/torch-attention-profile
 https://huggingface.co/blog/train-multi-vector-encoder
+https://huggingface.co/blog/transformers-llama-cpp-quants
 https://huggingface.co/blog/webgpu-kernels
 https://ir.minimax.io
 https://kimi-k2.org/zh/blog/01-technical-breakthrough
@@ -329,6 +333,7 @@ https://openai.com/index/astra-for-law
 https://openai.com/index/atv-big-air-tour
 https://openai.com/index/australian-payments-plus
 https://openai.com/index/australian-youth-safety-blueprint
+https://openai.com/index/better-prompt-caching-for-gpt-6
 https://openai.com/index/bio-bug-bounty
 https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts
 https://openai.com/index/builders-guide-to-gpt-5-6
@@ -393,6 +398,7 @@ https://openai.com/index/introducing-chatgpt-financial-services
 https://openai.com/index/introducing-chatgpt-images-2-5
 https://openai.com/index/introducing-chatgpt-small-business-program
 https://openai.com/index/introducing-genebench-pro
+https://openai.com/index/introducing-gpt-6-sol-and-luna
 https://openai.com/index/introducing-gpt-live
 https://openai.com/index/introducing-gpt-live-1-in-the-api
 https://openai.com/index/introducing-openai-presence
@@ -418,6 +424,7 @@ https://openai.com/index/openai-on-oracle-cloud/
 https://openai.com/index/openai-to-acquire-ona/
 https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
 https://openai.com/index/pacing-model-development-cyber-capabilities
+https://openai.com/index/parallel-cuts-time-and-cost-with-astra
 https://openai.com/index/partnering-with-codeai
 https://openai.com/index/path-to-astra
 https://openai.com/index/paul-christiano-joins-openai-foundation-board
@@ -427,6 +434,7 @@ https://openai.com/index/polimill
 https://openai.com/index/premium-seats-chatgpt-business
 https://openai.com/index/previewing-gpt-5-6-sol/
 https://openai.com/index/previewing-ultrafast
+https://openai.com/index/priorities-principles-third-party-assessments
 https://openai.com/index/put-data-to-work
 https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands
 https://openai.com/index/reimagining-advertising-with-ai
@@ -572,6 +580,7 @@ https://x.ai/news/grok-4-fast
 https://x.ai/news/grok-amazon-bedrock
 https://x.ai/news/grok-automations
 https://x.ai/news/grok-bot-and-x
+https://x.ai/news/grok-bot-customer-support
 https://x.ai/news/grok-bot-for-enterprise
 https://x.ai/news/grok-bot-more-plans
 https://x.ai/news/grok-bot-procurement
