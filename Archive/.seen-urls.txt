@@ -60,6 +60,7 @@ https://blog.google/innovation-and-ai/models-and-research/google-research/amie-v
 https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies
 https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights
 https://blog.google/innovation-and-ai/models-and-research/google-research/firesat-satellites
+https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts
 https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space
 https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai
 https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/
@@ -135,6 +136,7 @@ https://deepmind.google/blog/introducing-gemini-3-7-flash
 https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber
 https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking
 https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber
+https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar
 https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model
 https://deepmind.google/blog/our-approach-to-bioresilience
 https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations
@@ -203,6 +205,7 @@ https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable
 https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b
 https://huggingface.co/blog/LiquidAI/lfm2-5-encoders
 https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b
+https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark
 https://huggingface.co/blog/LiquidAI/lfm25-dspark
 https://huggingface.co/blog/LiquidAI/qad
 https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation
@@ -486,6 +489,7 @@ https://platform.deepseek.com
 https://platform.deepseek.com/api_keys
 https://platform.minimax.io/contact-us
 https://platform.minimax.io/docs/guides/music-generation
+https://status.deepseek.com
 https://twitter.com/deepseek_ai
 https://www.anthropic.com/news/accenture-embedded-evaluation
 https://www.anthropic.com/news/alberta-government-claude-cybersecurity
