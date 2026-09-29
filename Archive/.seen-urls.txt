@@ -75,6 +75,7 @@ https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026
 https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week
 https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform
 https://blog.google/innovation-and-ai/technology/ai/love-rendered-film
+https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize
 https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026
 https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/
 https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api
@@ -202,6 +203,7 @@ https://huggingface.co/blog/Dharma-AI/gpu-management
 https://huggingface.co/blog/Dharma-AI/gpu-management-pt2
 https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages
 https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable
+https://huggingface.co/blog/Hcompany/holo4
 https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b
 https://huggingface.co/blog/LiquidAI/lfm2-5-encoders
 https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b
@@ -324,6 +326,7 @@ https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link
 https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
 https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
 https://openai.com/academy/getting-started
+https://openai.com/form/codex-originals
 https://openai.com/index/1password
 https://openai.com/index/a-scorecard-for-the-ai-age
 https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
@@ -341,6 +344,7 @@ https://openai.com/index/astra-for-law
 https://openai.com/index/atv-big-air-tour
 https://openai.com/index/australian-payments-plus
 https://openai.com/index/australian-youth-safety-blueprint
+https://openai.com/index/basis-tax-workbook-with-astra
 https://openai.com/index/better-prompt-caching-for-gpt-6
 https://openai.com/index/bio-bug-bounty
 https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts
@@ -397,6 +401,7 @@ https://openai.com/index/how-news-organizations-are-using-ai
 https://openai.com/index/how-the-world-is-putting-chatgpt-to-work
 https://openai.com/index/how-to-connect-ai-usage-to-business-value
 https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores
+https://openai.com/index/how-we-will-do-better-for-australia
 https://openai.com/index/hp-frontier-partnership/
 https://openai.com/index/hsp-gruppe
 https://openai.com/index/hugging-face-incident-and-the-road-ahead
@@ -420,6 +425,7 @@ https://openai.com/index/k-12-educators-practical-skills
 https://openai.com/index/learn-teach-chatgpt-work-codex
 https://openai.com/index/learning-never-stops
 https://openai.com/index/legora-financial-statement-review-with-astra
+https://openai.com/index/lenfest-ai-collaborative-expansion
 https://openai.com/index/loveholidays
 https://openai.com/index/managing-ai-investments-in-agentic-era
 https://openai.com/index/model-misalignment-reporting-framework
@@ -655,6 +661,7 @@ https://x.ai/news/prompt-ide
 https://x.ai/news/series-b
 https://x.ai/news/series-c
 https://x.ai/news/series-e
+https://x.ai/news/team-bots
 https://x.ai/news/us-gov-dept-of-war
 https://x.ai/news/workflows
 https://x.ai/news/xai-joins-spacex
