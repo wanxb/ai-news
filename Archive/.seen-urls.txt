@@ -211,6 +211,7 @@ https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark
 https://huggingface.co/blog/LiquidAI/lfm25-dspark
 https://huggingface.co/blog/LiquidAI/qad
 https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation
+https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source
 https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an
 https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing
 https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom
@@ -248,6 +249,7 @@ https://huggingface.co/blog/nunchaku-diffusers
 https://huggingface.co/blog/nvidia/cosmos-h-dreams
 https://huggingface.co/blog/nvidia/cosmos3edge
 https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp
+https://huggingface.co/blog/nvidia/kumo-tabular
 https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents
 https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb
 https://huggingface.co/blog/nvidia/open-data-for-agents
@@ -372,6 +374,7 @@ https://openai.com/index/daybreak-for-frontline-defenders
 https://openai.com/index/daybreak-models-are-now-available-on-aws
 https://openai.com/index/daybreak-securing-the-world/
 https://openai.com/index/deutsche-telekom
+https://openai.com/index/devday-2026-recap
 https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation
 https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia
 https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads
@@ -412,7 +415,9 @@ https://openai.com/index/introducing-ai-futures
 https://openai.com/index/introducing-chatgpt-financial-services
 https://openai.com/index/introducing-chatgpt-images-2-5
 https://openai.com/index/introducing-chatgpt-small-business-program
+https://openai.com/index/introducing-dots
 https://openai.com/index/introducing-genebench-pro
+https://openai.com/index/introducing-gpt-6-1-sol
 https://openai.com/index/introducing-gpt-6-sol-and-luna
 https://openai.com/index/introducing-gpt-live
 https://openai.com/index/introducing-gpt-live-1-in-the-api
@@ -482,6 +487,7 @@ https://openai.com/index/the-defenders-window
 https://openai.com/index/the-full-stack-behind-abundant-intelligence
 https://openai.com/index/the-work-now-within-reach
 https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
+https://openai.com/index/towards-safety-cases-for-frontier-ai-training
 https://openai.com/index/two-years-of-openai-academy
 https://openai.com/index/unive
 https://openai.com/index/unlocking-new-ways-of-working
