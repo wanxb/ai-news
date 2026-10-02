@@ -63,6 +63,7 @@ https://blog.google/innovation-and-ai/models-and-research/google-research/firesa
 https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts
 https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts
 https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space
+https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype
 https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai
 https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/
 https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people
@@ -110,6 +111,7 @@ https://blogs.nvidia.com/blog/ai-storage-fms
 https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin
 https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit
 https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin
+https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast
 https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics
 https://blogs.nvidia.com/blog/jensen-huang-dreamforce
 https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark
@@ -221,6 +223,7 @@ https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing
 https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom
 https://huggingface.co/blog/Photoroom/prx-part4-data
 https://huggingface.co/blog/allenai/benchmirt
+https://huggingface.co/blog/allenai/olmocore3
 https://huggingface.co/blog/allenai/olmoearth-embeddings
 https://huggingface.co/blog/allenai/olmoearth-infrastructure
 https://huggingface.co/blog/allenai/shippy-tech-blog
@@ -344,6 +347,7 @@ https://openai.com/index/advisory-group-on-mathematics-and-ai
 https://openai.com/index/ai-native-company-workflows
 https://openai.com/index/ai-policy-window
 https://openai.com/index/airbnb-gpt-6-astra
+https://openai.com/index/albertsons-reimagining-retail
 https://openai.com/index/an-alien-mind
 https://openai.com/index/apple-is-getting-this-wrong
 https://openai.com/index/asana
@@ -491,6 +495,8 @@ https://openai.com/index/teen-development-research-grants
 https://openai.com/index/ten-advances-in-mathematics
 https://openai.com/index/testing-ads-in-chatgpt
 https://openai.com/index/the-defenders-window
+https://openai.com/index/the-den-family-social
+https://openai.com/index/the-eternal-complement
 https://openai.com/index/the-full-stack-behind-abundant-intelligence
 https://openai.com/index/the-work-now-within-reach
 https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
@@ -515,6 +521,7 @@ https://www.anthropic.com/news/accenture-embedded-evaluation
 https://www.anthropic.com/news/alberta-government-claude-cybersecurity
 https://www.anthropic.com/news/anthropic-economic-index-connector
 https://www.anthropic.com/news/anthropic-public-record
+https://www.anthropic.com/news/barclays-scales-claude
 https://www.anthropic.com/news/ben-bernanke
 https://www.anthropic.com/news/canadian-ai-research
 https://www.anthropic.com/news/claude-corps
