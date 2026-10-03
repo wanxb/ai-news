@@ -74,6 +74,7 @@ https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch
 https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench
 https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026
 https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026
+https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026
 https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week
 https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform
 https://blog.google/innovation-and-ai/technology/ai/love-rendered-film
@@ -222,6 +223,8 @@ https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist
 https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing
 https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom
 https://huggingface.co/blog/Photoroom/prx-part4-data
+https://huggingface.co/blog/ServiceNow-AI/autosynthdata
+https://huggingface.co/blog/allenai/astabrief
 https://huggingface.co/blog/allenai/benchmirt
 https://huggingface.co/blog/allenai/olmocore3
 https://huggingface.co/blog/allenai/olmoearth-embeddings
@@ -371,6 +374,7 @@ https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources
 https://openai.com/index/chatgpt-for-academic-researchers
 https://openai.com/index/chatgpt-for-teens
 https://openai.com/index/chatgpt-for-your-most-ambitious-work
+https://openai.com/index/chatham-financial
 https://openai.com/index/codex-maxxing-long-running-work/
 https://openai.com/index/codex-quantum-computing-experiments
 https://openai.com/index/cognition-devin-testing-with-astra
@@ -466,6 +470,7 @@ https://openai.com/index/paul-christiano-joins-openai-foundation-board
 https://openai.com/index/perplexity-improving-accuracy-with-astra
 https://openai.com/index/playco-game-prototyping-with-astra
 https://openai.com/index/polimill
+https://openai.com/index/practical-guide-building-gpt-6
 https://openai.com/index/premium-seats-chatgpt-business
 https://openai.com/index/previewing-gpt-5-6-sol/
 https://openai.com/index/previewing-ultrafast
@@ -527,6 +532,7 @@ https://www.anthropic.com/news/canadian-ai-research
 https://www.anthropic.com/news/claude-corps
 https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
 https://www.anthropic.com/news/claude-for-teachers
+https://www.anthropic.com/news/claude-frontier-academy
 https://www.anthropic.com/news/claude-opus-4-8
 https://www.anthropic.com/news/claude-opus-5
 https://www.anthropic.com/news/claude-science-ai-workbench
