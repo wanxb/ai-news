@@ -252,6 +252,7 @@ https://huggingface.co/blog/ibm-research/scarfbench
 https://huggingface.co/blog/icml-2026-open-reproductions
 https://huggingface.co/blog/lerobot-release-v060
 https://huggingface.co/blog/microsoft/foundry-managed-compute
+https://huggingface.co/blog/microsoft/thinkingbox
 https://huggingface.co/blog/multi-vector-encoder
 https://huggingface.co/blog/muse-glimmer
 https://huggingface.co/blog/native-speed-vllm-transformers-backend
