@@ -392,6 +392,7 @@ https://openai.com/index/devday-2026-recap
 https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
 https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation
 https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia
+https://openai.com/index/eu-text-provenance
 https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads
 https://openai.com/index/expanding-ai-access-us-government
 https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows
@@ -452,6 +453,7 @@ https://openai.com/index/managing-ai-investments-in-agentic-era
 https://openai.com/index/model-misalignment-reporting-framework
 https://openai.com/index/model-ml
 https://openai.com/index/navier-stokes-solution
+https://openai.com/index/new-chatgpt-ads-format-and-measurement
 https://openai.com/index/new-policy-ideas-for-the-intelligence-age
 https://openai.com/index/ntt-data
 https://openai.com/index/nvidia/chatgpt-work
