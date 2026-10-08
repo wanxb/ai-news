@@ -79,6 +79,7 @@ https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-
 https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week
 https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform
 https://blog.google/innovation-and-ai/technology/ai/love-rendered-film
+https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform
 https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize
 https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026
 https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/
@@ -119,6 +120,7 @@ https://blogs.nvidia.com/blog/jensen-huang-dreamforce
 https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark
 https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron
 https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs
+https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event
 https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx
 https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize
 https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale
@@ -219,6 +221,7 @@ https://huggingface.co/blog/LiquidAI/lfm2-5-encoders
 https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b
 https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark
 https://huggingface.co/blog/LiquidAI/lfm25-dspark
+https://huggingface.co/blog/LiquidAI/open-d1
 https://huggingface.co/blog/LiquidAI/qad
 https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation
 https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source
@@ -266,6 +269,7 @@ https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp
 https://huggingface.co/blog/nvidia/kumo-tabular
 https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents
 https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb
+https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026
 https://huggingface.co/blog/nvidia/open-data-for-agents
 https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel
 https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai
@@ -414,6 +418,7 @@ https://openai.com/index/gpt-5-6-in-kiro
 https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
 https://openai.com/index/gpt-5-immunology-mystery/
 https://openai.com/index/gpt-6-astra-next-generation-work
+https://openai.com/index/gpt-6-for-everyone
 https://openai.com/index/grab-openai-ai-skills-southeast-asia
 https://openai.com/index/harvey-from-context-to-confidence-with-astra
 https://openai.com/index/health-in-chatgpt
@@ -489,6 +494,7 @@ https://openai.com/index/priorities-principles-third-party-assessments
 https://openai.com/index/proaction
 https://openai.com/index/put-data-to-work
 https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands
+https://openai.com/index/radisson
 https://openai.com/index/reimagining-advertising-with-ai
 https://openai.com/index/replit
 https://openai.com/index/research-acceleration-view-inside-openai
@@ -509,6 +515,7 @@ https://openai.com/index/supporting-independent-journalism-in-ukraine
 https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms
 https://openai.com/index/supporting-next-generation-ai-startups-thailand
 https://openai.com/index/teen-development-research-grants
+https://openai.com/index/teens-learn-and-plan
 https://openai.com/index/ten-advances-in-mathematics
 https://openai.com/index/testing-ads-in-chatgpt
 https://openai.com/index/the-defenders-window
