@@ -241,6 +241,7 @@ https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
 https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop
 https://huggingface.co/blog/asr-benchmark-optimization
 https://huggingface.co/blog/baseten
+https://huggingface.co/blog/building-with-ml-intern
 https://huggingface.co/blog/cerebras-gemma4-voice-ai
 https://huggingface.co/blog/eee-community-evals
 https://huggingface.co/blog/evaleval-aisi
@@ -401,6 +402,7 @@ https://openai.com/index/daybreak-securing-the-world/
 https://openai.com/index/deutsche-telekom
 https://openai.com/index/devday-2026-recap
 https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
+https://openai.com/index/disrupting-ai-enabled-false-front-operations
 https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation
 https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia
 https://openai.com/index/eu-text-provenance
@@ -459,6 +461,7 @@ https://openai.com/index/jump-trading
 https://openai.com/index/k-12-educators-practical-skills
 https://openai.com/index/learn-teach-chatgpt-work-codex
 https://openai.com/index/learning-never-stops
+https://openai.com/index/legalon-halves-codex-costs
 https://openai.com/index/legora-financial-statement-review-with-astra
 https://openai.com/index/lenfest-ai-collaborative-expansion
 https://openai.com/index/loveholidays
@@ -477,6 +480,7 @@ https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-def
 https://openai.com/index/openai-joins-ports-pike-project
 https://openai.com/index/openai-on-oracle-cloud/
 https://openai.com/index/openai-to-acquire-ona/
+https://openai.com/index/oracle
 https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
 https://openai.com/index/pacing-model-development-cyber-capabilities
 https://openai.com/index/parallel-cuts-time-and-cost-with-astra
@@ -486,6 +490,7 @@ https://openai.com/index/paul-christiano-joins-openai-foundation-board
 https://openai.com/index/perplexity-improving-accuracy-with-astra
 https://openai.com/index/playco-game-prototyping-with-astra
 https://openai.com/index/polimill
+https://openai.com/index/pollo-ai
 https://openai.com/index/practical-guide-building-gpt-6
 https://openai.com/index/premium-seats-chatgpt-business
 https://openai.com/index/previewing-gpt-5-6-sol/
@@ -541,8 +546,10 @@ https://platform.minimax.io/contact-us
 https://platform.minimax.io/docs/guides/music-generation
 https://status.deepseek.com
 https://twitter.com/deepseek_ai
+https://www.anthropic.com/news/2026-usage-policy-update
 https://www.anthropic.com/news/accenture-embedded-evaluation
 https://www.anthropic.com/news/alberta-government-claude-cybersecurity
+https://www.anthropic.com/news/anthropic-cyber-mission
 https://www.anthropic.com/news/anthropic-economic-index-connector
 https://www.anthropic.com/news/anthropic-public-record
 https://www.anthropic.com/news/barclays-scales-claude
@@ -566,6 +573,7 @@ https://www.anthropic.com/news/enterprise-frontier-safeguards
 https://www.anthropic.com/news/expanding-support-for-scientists
 https://www.anthropic.com/news/fable-mythos-access
 https://www.anthropic.com/news/fable-safeguards-jailbreak-framework
+https://www.anthropic.com/news/genesis-mission-commitment
 https://www.anthropic.com/news/hard-questions
 https://www.anthropic.com/news/improving-alignment-security-efforts
 https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards
