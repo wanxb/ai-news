@@ -232,6 +232,7 @@ https://huggingface.co/blog/Photoroom/prx-part4-data
 https://huggingface.co/blog/ServiceNow-AI/autosynthdata
 https://huggingface.co/blog/allenai/astabrief
 https://huggingface.co/blog/allenai/benchmirt
+https://huggingface.co/blog/allenai/impactful-scheduling
 https://huggingface.co/blog/allenai/olmocore3
 https://huggingface.co/blog/allenai/olmoearth-embeddings
 https://huggingface.co/blog/allenai/olmoearth-infrastructure
@@ -366,6 +367,7 @@ https://openai.com/index/albertsons-reimagining-retail
 https://openai.com/index/an-alien-mind
 https://openai.com/index/apple-is-getting-this-wrong
 https://openai.com/index/asana
+https://openai.com/index/asana-browser-agent
 https://openai.com/index/astra-for-law
 https://openai.com/index/atlassian-partnership
 https://openai.com/index/atv-big-air-tour
@@ -514,6 +516,7 @@ https://openai.com/index/scaling-storage-one-billion-users-part-one
 https://openai.com/index/scientific-computing-agentic-ai
 https://openai.com/index/separating-signal-from-noise-coding-evaluations
 https://openai.com/index/sharing-ai-progress-in-mathematics
+https://openai.com/index/sophos
 https://openai.com/index/stampli
 https://openai.com/index/strengthening-democratic-oversight-in-national-security
 https://openai.com/index/supporting-independent-journalism-in-ukraine
