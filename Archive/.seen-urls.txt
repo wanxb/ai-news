@@ -86,6 +86,7 @@ https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemm
 https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api
 https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks
 https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026
+https://blog.google/innovation-and-ai/technology/health/ai-health-research
 https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai
 https://blog.google/innovation-and-ai/technology/research/google-beam-expansion
 https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/
@@ -206,6 +207,7 @@ https://docs.bigmodel.cn/cn/terms/subscription-agreement-team
 https://docs.bigmodel.cn/cn/terms/user-agreement
 https://docs.bigmodel.cn/cn/update/new-releases
 https://docs.bigmodel.cn/llms.txt
+https://exp.volcengine.com/ark/gen_video?model=doubao-seedance-2-5-260628&copyrightMode=1
 https://exp.volcengine.com/ark/vision?mode=vision&modelId=doubao-seedance-2-0-260128&tab=GenVideo
 https://github.com/deepseek-ai
 https://github.com/deepseek-ai/awesome-deepseek-integration/tree/main
@@ -721,6 +723,7 @@ https://x.ai/news/series-e
 https://x.ai/news/team-bots
 https://x.ai/news/us-gov-dept-of-war
 https://x.ai/news/workflows
+https://x.ai/news/x-subscription
 https://x.ai/news/xai-joins-spacex
 https://x.com/AIatMeta/status/2085084709277565213
 https://x.com/AIatMeta/status/2085388945148297322
