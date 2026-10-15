@@ -92,6 +92,7 @@ https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai
 https://blog.google/innovation-and-ai/technology/research/google-beam-expansion
 https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/
 https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map
+https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026
 https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience
 https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy
 https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program
@@ -116,6 +117,7 @@ https://blogs.nvidia.com/blog/ai-storage-fms
 https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin
 https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit
 https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin
+https://blogs.nvidia.com/blog/european-cities-agents-urban-operations
 https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing
 https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast
 https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics
@@ -158,6 +160,7 @@ https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar
 https://deepmind.google/blog/introducing-gemini-4-argon
 https://deepmind.google/blog/introducing-synthid-bio
 https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model
+https://deepmind.google/blog/on-device-ai-scam-detection-mddi
 https://deepmind.google/blog/our-approach-to-bioresilience
 https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations
 https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises
@@ -172,6 +175,7 @@ https://design.minimax.io
 https://discord.gg/Tc7c45Zzu5
 https://docs.bigmodel.cn/cn/api/introduction
 https://docs.bigmodel.cn/cn/best-practice/latency-optimization
+https://docs.bigmodel.cn/cn/best-practice/prompt-engineering-general
 https://docs.bigmodel.cn/cn/coding-plan/overview
 https://docs.bigmodel.cn/cn/coding-plan/team
 https://docs.bigmodel.cn/cn/guide/models/free/glm-4-flash-250414
@@ -241,6 +245,7 @@ https://huggingface.co/blog/Photoroom/prx-part4-data
 https://huggingface.co/blog/ServiceNow-AI/autosynthdata
 https://huggingface.co/blog/allenai/astabrief
 https://huggingface.co/blog/allenai/benchmirt
+https://huggingface.co/blog/allenai/hiro-acev2
 https://huggingface.co/blog/allenai/impactful-scheduling
 https://huggingface.co/blog/allenai/olmocore3
 https://huggingface.co/blog/allenai/olmoearth-embeddings
@@ -373,6 +378,7 @@ https://openai.com/index/ai-native-company-workflows
 https://openai.com/index/ai-policy-window
 https://openai.com/index/airbnb-gpt-6-astra
 https://openai.com/index/albertsons-reimagining-retail
+https://openai.com/index/amp-beyond-coding
 https://openai.com/index/an-alien-mind
 https://openai.com/index/apple-is-getting-this-wrong
 https://openai.com/index/asana
@@ -385,6 +391,7 @@ https://openai.com/index/australian-youth-safety-blueprint
 https://openai.com/index/basis-tax-workbook-with-astra
 https://openai.com/index/better-prompt-caching-for-gpt-6
 https://openai.com/index/bio-bug-bounty
+https://openai.com/index/block-ai-powered-security
 https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts
 https://openai.com/index/builders-guide-to-gpt-5-6
 https://openai.com/index/building-abundant-intelligence
@@ -524,6 +531,7 @@ https://openai.com/index/safety-overview-gpt-6-astra
 https://openai.com/index/sam-altman-un-security-council-remarks
 https://openai.com/index/scaling-storage-one-billion-users-part-one
 https://openai.com/index/scientific-computing-agentic-ai
+https://openai.com/index/sentinelone
 https://openai.com/index/separating-signal-from-noise-coding-evaluations
 https://openai.com/index/sharing-ai-progress-in-mathematics
 https://openai.com/index/sophos
@@ -539,8 +547,10 @@ https://openai.com/index/testing-ads-in-chatgpt
 https://openai.com/index/the-defenders-window
 https://openai.com/index/the-den-family-social
 https://openai.com/index/the-eternal-complement
+https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic
 https://openai.com/index/the-full-stack-behind-abundant-intelligence
 https://openai.com/index/the-work-now-within-reach
+https://openai.com/index/third-moment-research
 https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
 https://openai.com/index/towards-safety-cases-for-frontier-ai-training
 https://openai.com/index/two-years-of-openai-academy
@@ -559,6 +569,7 @@ https://platform.minimax.io/contact-us
 https://platform.minimax.io/docs/guides/music-generation
 https://status.deepseek.com
 https://twitter.com/deepseek_ai
+https://www.anthropic.com/news/2026-us-midterms
 https://www.anthropic.com/news/2026-usage-policy-update
 https://www.anthropic.com/news/accenture-embedded-evaluation
 https://www.anthropic.com/news/alberta-government-claude-cybersecurity
@@ -599,6 +610,7 @@ https://www.anthropic.com/news/rare-disease-research-grants
 https://www.anthropic.com/news/redeploying-fable-5
 https://www.anthropic.com/news/reflect-with-claude
 https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem
+https://www.anthropic.com/news/singapore-office-opening
 https://www.anthropic.com/news/tcs-anthropic-partnership
 https://www.anthropic.com/news/tino-cuellar
 https://www.anthropic.com/news/ust-claude
@@ -709,6 +721,7 @@ https://x.ai/news/grok-plugin-marketplace
 https://x.ai/news/grok-skills
 https://x.ai/news/grok-stt-and-tts-apis
 https://x.ai/news/grok-vapi
+https://x.ai/news/grok-voice-3
 https://x.ai/news/grok-voice-agent-api
 https://x.ai/news/grok-voice-agent-builder
 https://x.ai/news/grok-voice-think-fast-1
