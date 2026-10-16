@@ -61,12 +61,14 @@ https://blog.google/innovation-and-ai/models-and-research/google-research/amie-v
 https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai
 https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies
 https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights
+https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper
 https://blog.google/innovation-and-ai/models-and-research/google-research/firesat-satellites
 https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts
 https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts
 https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space
 https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype
 https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai
+https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing
 https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/
 https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people
 https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026
@@ -138,6 +140,7 @@ https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents
 https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis
 https://code.minimax.io
 https://console.volcengine.com/ark/region:cn-beijing/managed-agents/quickstart?quickstartSessionProjectName=default
+https://deepmind.google/blog/accelerating-antimicrobial-discovery
 https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission
 https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory
 https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome
@@ -260,10 +263,12 @@ https://huggingface.co/blog/building-with-ml-intern
 https://huggingface.co/blog/cerebras-gemma4-voice-ai
 https://huggingface.co/blog/eee-community-evals
 https://huggingface.co/blog/evaleval-aisi
+https://huggingface.co/blog/flux-3
 https://huggingface.co/blog/grabette
 https://huggingface.co/blog/gradio-workflow-1111
 https://huggingface.co/blog/gradio-workflow-guide
 https://huggingface.co/blog/ibm-granite/granite-4-2
+https://huggingface.co/blog/ibm-granite/granite-switch-4-1
 https://huggingface.co/blog/ibm-research/altk-evolve-consistency
 https://huggingface.co/blog/ibm-research/altk-evolve-hmm
 https://huggingface.co/blog/ibm-research/altk-evolve-sldd
@@ -273,6 +278,7 @@ https://huggingface.co/blog/ibm-research/real-time-intelligence
 https://huggingface.co/blog/ibm-research/scarfbench
 https://huggingface.co/blog/icml-2026-open-reproductions
 https://huggingface.co/blog/lerobot-release-v060
+https://huggingface.co/blog/meta-muse-spark-open
 https://huggingface.co/blog/microsoft/foundry-managed-compute
 https://huggingface.co/blog/microsoft/thinkingbox
 https://huggingface.co/blog/multi-vector-encoder
@@ -362,6 +368,7 @@ https://kimi-k2.org/zh/blog/57-deepseek-v41-flash-release
 https://kimi-k2.org/zh/blog/58-kimi-k2-8-preview
 https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link
 https://mistral.ai/news/mistral-large-4
+https://mistral.ai/news/timestral
 https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
 https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
 https://openai.com/academy/getting-started
@@ -474,6 +481,7 @@ https://openai.com/index/introducing-gpt-live-1-in-the-api
 https://openai.com/index/introducing-mentalhealthbench
 https://openai.com/index/introducing-openai-presence
 https://openai.com/index/introducing-the-agents-api
+https://openai.com/index/introducing-the-rosalind-academic-plan
 https://openai.com/index/invideo-builds-with-gpt-6-astra
 https://openai.com/index/jalapeno-first-results
 https://openai.com/index/jump-trading
@@ -537,9 +545,11 @@ https://openai.com/index/sharing-ai-progress-in-mathematics
 https://openai.com/index/sophos
 https://openai.com/index/stampli
 https://openai.com/index/strengthening-democratic-oversight-in-national-security
+https://openai.com/index/sullivan-cromwell
 https://openai.com/index/supporting-independent-journalism-in-ukraine
 https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms
 https://openai.com/index/supporting-next-generation-ai-startups-thailand
+https://openai.com/index/teaching-students-to-think-and-learn-through-questions
 https://openai.com/index/teen-development-research-grants
 https://openai.com/index/teens-learn-and-plan
 https://openai.com/index/ten-advances-in-mathematics
@@ -573,6 +583,7 @@ https://www.anthropic.com/news/2026-us-midterms
 https://www.anthropic.com/news/2026-usage-policy-update
 https://www.anthropic.com/news/accenture-embedded-evaluation
 https://www.anthropic.com/news/alberta-government-claude-cybersecurity
+https://www.anthropic.com/news/an-update-on-independent-evaluators
 https://www.anthropic.com/news/anthropic-cyber-mission
 https://www.anthropic.com/news/anthropic-economic-index-connector
 https://www.anthropic.com/news/anthropic-public-record
