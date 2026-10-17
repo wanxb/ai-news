@@ -294,11 +294,13 @@ https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb
 https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026
 https://huggingface.co/blog/nvidia/open-data-for-agents
 https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel
+https://huggingface.co/blog/nvidia/scaling-indic-pretraining
 https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai
 https://huggingface.co/blog/omlx
 https://huggingface.co/blog/open-asr-leaderboard-global-south
 https://huggingface.co/blog/open-tts-leaderboard
 https://huggingface.co/blog/real-world-voiceeq
+https://huggingface.co/blog/reflection-beam
 https://huggingface.co/blog/revamped-kernels
 https://huggingface.co/blog/security-incident-july-2026
 https://huggingface.co/blog/skypilot-hf-storage
@@ -483,6 +485,7 @@ https://openai.com/index/introducing-openai-presence
 https://openai.com/index/introducing-the-agents-api
 https://openai.com/index/introducing-the-rosalind-academic-plan
 https://openai.com/index/invideo-builds-with-gpt-6-astra
+https://openai.com/index/itau-generative-ai
 https://openai.com/index/jalapeno-first-results
 https://openai.com/index/jump-trading
 https://openai.com/index/k-12-educators-practical-skills
@@ -543,6 +546,7 @@ https://openai.com/index/sentinelone
 https://openai.com/index/separating-signal-from-noise-coding-evaluations
 https://openai.com/index/sharing-ai-progress-in-mathematics
 https://openai.com/index/sophos
+https://openai.com/index/stack-overflow-chatgpt-plugin
 https://openai.com/index/stampli
 https://openai.com/index/strengthening-democratic-oversight-in-national-security
 https://openai.com/index/sullivan-cromwell
