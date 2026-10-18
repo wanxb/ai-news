@@ -1,4 +1,5 @@
 http://volcengine.com/product/llm-scan
+https://agent.minimax.io/download
 https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino
 https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino
 https://ai.meta.com/blog/introducing-muse-image-muse-video-msl
@@ -32,6 +33,7 @@ https://api-docs.deepseek.com/zh-cn/guides/fim_completion
 https://api-docs.deepseek.com/zh-cn/guides/json_mode
 https://api-docs.deepseek.com/zh-cn/guides/kv_cache
 https://api-docs.deepseek.com/zh-cn/guides/responses_api
+https://api-docs.deepseek.com/zh-cn/guides/search
 https://api-docs.deepseek.com/zh-cn/guides/thinking_mode
 https://api-docs.deepseek.com/zh-cn/guides/tool_calls
 https://api-docs.deepseek.com/zh-cn/guides/vision
@@ -398,6 +400,7 @@ https://openai.com/index/atv-big-air-tour
 https://openai.com/index/australian-payments-plus
 https://openai.com/index/australian-youth-safety-blueprint
 https://openai.com/index/basis-tax-workbook-with-astra
+https://openai.com/index/benefit-street-partners
 https://openai.com/index/better-prompt-caching-for-gpt-6
 https://openai.com/index/bio-bug-bounty
 https://openai.com/index/block-ai-powered-security
