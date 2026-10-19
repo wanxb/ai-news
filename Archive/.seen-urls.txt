@@ -624,6 +624,7 @@ https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
 https://www.anthropic.com/news/life-sciences-verification-program
 https://www.anthropic.com/news/model-hardware-standard-research-preview
 https://www.anthropic.com/news/position-open-weights-models
+https://www.anthropic.com/news/public-benefit-fund
 https://www.anthropic.com/news/rare-disease-research-grants
 https://www.anthropic.com/news/redeploying-fable-5
 https://www.anthropic.com/news/reflect-with-claude
