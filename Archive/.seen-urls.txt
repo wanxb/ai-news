@@ -269,6 +269,7 @@ https://huggingface.co/blog/flux-3
 https://huggingface.co/blog/grabette
 https://huggingface.co/blog/gradio-workflow-1111
 https://huggingface.co/blog/gradio-workflow-guide
+https://huggingface.co/blog/hf-torchneuron
 https://huggingface.co/blog/ibm-granite/granite-4-2
 https://huggingface.co/blog/ibm-granite/granite-switch-4-1
 https://huggingface.co/blog/ibm-research/altk-evolve-consistency
@@ -498,6 +499,7 @@ https://openai.com/index/legalon-halves-codex-costs
 https://openai.com/index/legora-financial-statement-review-with-astra
 https://openai.com/index/lenfest-ai-collaborative-expansion
 https://openai.com/index/loveholidays
+https://openai.com/index/low-resource-programming-languages
 https://openai.com/index/managing-ai-investments-in-agentic-era
 https://openai.com/index/model-misalignment-reporting-framework
 https://openai.com/index/model-ml
@@ -638,6 +640,7 @@ https://www.bigmodel.cn/pricing
 https://www.minimax.io/about
 https://www.minimax.io/audio
 https://www.minimax.io/blog/minimax-h3
+https://www.minimax.io/blog/minimax-m31f
 https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model
 https://www.minimax.io/models/text
 https://www.minimax.io/models/text/m27
