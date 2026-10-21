@@ -59,6 +59,7 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-o
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon
 https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones
 https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions
+https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study
 https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations
 https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai
 https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies
@@ -250,6 +251,7 @@ https://huggingface.co/blog/Photoroom/prx-part4-data
 https://huggingface.co/blog/ServiceNow-AI/autosynthdata
 https://huggingface.co/blog/allenai/astabrief
 https://huggingface.co/blog/allenai/benchmirt
+https://huggingface.co/blog/allenai/fairstress
 https://huggingface.co/blog/allenai/hiro-acev2
 https://huggingface.co/blog/allenai/impactful-scheduling
 https://huggingface.co/blog/allenai/olmocore3
@@ -259,6 +261,7 @@ https://huggingface.co/blog/allenai/shippy-tech-blog
 https://huggingface.co/blog/allenai/tutormoments
 https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
 https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop
+https://huggingface.co/blog/anylanguagemodel-1-0
 https://huggingface.co/blog/asr-benchmark-optimization
 https://huggingface.co/blog/baseten
 https://huggingface.co/blog/building-with-ml-intern
@@ -270,8 +273,10 @@ https://huggingface.co/blog/grabette
 https://huggingface.co/blog/gradio-workflow-1111
 https://huggingface.co/blog/gradio-workflow-guide
 https://huggingface.co/blog/hf-torchneuron
+https://huggingface.co/blog/hf-torchtpu
 https://huggingface.co/blog/ibm-granite/granite-4-2
 https://huggingface.co/blog/ibm-granite/granite-switch-4-1
+https://huggingface.co/blog/ibm-research/altk-evolve-bc
 https://huggingface.co/blog/ibm-research/altk-evolve-consistency
 https://huggingface.co/blog/ibm-research/altk-evolve-hmm
 https://huggingface.co/blog/ibm-research/altk-evolve-sldd
@@ -284,11 +289,13 @@ https://huggingface.co/blog/lerobot-release-v060
 https://huggingface.co/blog/meta-muse-spark-open
 https://huggingface.co/blog/microsoft/foundry-managed-compute
 https://huggingface.co/blog/microsoft/thinkingbox
+https://huggingface.co/blog/mps-pytorch-2-15
 https://huggingface.co/blog/multi-vector-encoder
 https://huggingface.co/blog/muse-glimmer
 https://huggingface.co/blog/native-speed-vllm-transformers-backend
 https://huggingface.co/blog/nunchaku-diffusers
 https://huggingface.co/blog/nvidia/cosmos-h-dreams
+https://huggingface.co/blog/nvidia/cosmos3-h-dreams
 https://huggingface.co/blog/nvidia/cosmos3edge
 https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp
 https://huggingface.co/blog/nvidia/kumo-tabular
@@ -374,6 +381,7 @@ https://kimi-k2.org/zh/blog/58-kimi-k2-8-preview
 https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link
 https://mistral.ai/news/mistral-large-4
 https://mistral.ai/news/timestral
+https://mistral.ai/news/voxtral-3
 https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
 https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
 https://openai.com/academy/getting-started
@@ -515,6 +523,7 @@ https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-def
 https://openai.com/index/openai-joins-ports-pike-project
 https://openai.com/index/openai-on-oracle-cloud/
 https://openai.com/index/openai-to-acquire-ona/
+https://openai.com/index/openai-to-acquire-orchestra-bio
 https://openai.com/index/oracle
 https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
 https://openai.com/index/pacing-model-development-cyber-capabilities
@@ -559,9 +568,11 @@ https://openai.com/index/supporting-independent-journalism-in-ukraine
 https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms
 https://openai.com/index/supporting-next-generation-ai-startups-thailand
 https://openai.com/index/teaching-students-to-think-and-learn-through-questions
+https://openai.com/index/ted-taylor-restaurant
 https://openai.com/index/teen-development-research-grants
 https://openai.com/index/teens-learn-and-plan
 https://openai.com/index/ten-advances-in-mathematics
+https://openai.com/index/terminal-x
 https://openai.com/index/testing-ads-in-chatgpt
 https://openai.com/index/the-defenders-window
 https://openai.com/index/the-den-family-social
@@ -584,6 +595,7 @@ https://openai.com/index/why-teens-deserve-access-safe-ai
 https://openai.com/index/zapier
 https://platform.deepseek.com
 https://platform.deepseek.com/api_keys
+https://platform.minimax.io/activity/contact-us-en
 https://platform.minimax.io/contact-us
 https://platform.minimax.io/docs/guides/music-generation
 https://status.deepseek.com
@@ -593,6 +605,7 @@ https://www.anthropic.com/news/2026-usage-policy-update
 https://www.anthropic.com/news/accenture-embedded-evaluation
 https://www.anthropic.com/news/alberta-government-claude-cybersecurity
 https://www.anthropic.com/news/an-update-on-independent-evaluators
+https://www.anthropic.com/news/announcements
 https://www.anthropic.com/news/anthropic-cyber-mission
 https://www.anthropic.com/news/anthropic-economic-index-connector
 https://www.anthropic.com/news/anthropic-public-record
@@ -610,6 +623,7 @@ https://www.anthropic.com/news/claude-sonnet-5
 https://www.anthropic.com/news/claude-text-watermark
 https://www.anthropic.com/news/cognizant-anthropic
 https://www.anthropic.com/news/cyber-verification-program
+https://www.anthropic.com/news/distillation-defenses
 https://www.anthropic.com/news/donation-public-first-action
 https://www.anthropic.com/news/dxc-anthropic-alliance
 https://www.anthropic.com/news/economic-futures-research-fund-agenda
@@ -625,11 +639,16 @@ https://www.anthropic.com/news/introducing-claude-tag
 https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
 https://www.anthropic.com/news/life-sciences-verification-program
 https://www.anthropic.com/news/model-hardware-standard-research-preview
+https://www.anthropic.com/news/partnerships
+https://www.anthropic.com/news/policy
 https://www.anthropic.com/news/position-open-weights-models
+https://www.anthropic.com/news/product
 https://www.anthropic.com/news/public-benefit-fund
 https://www.anthropic.com/news/rare-disease-research-grants
 https://www.anthropic.com/news/redeploying-fable-5
 https://www.anthropic.com/news/reflect-with-claude
+https://www.anthropic.com/news/safeguards
+https://www.anthropic.com/news/security
 https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem
 https://www.anthropic.com/news/singapore-office-opening
 https://www.anthropic.com/news/tcs-anthropic-partnership
@@ -750,6 +769,7 @@ https://x.ai/news/grok-voice-think-fast-1
 https://x.ai/news/grok-voice-think-fast-2
 https://x.ai/news/grok-voice-transcribe-2
 https://x.ai/news/grok-warp
+https://x.ai/news/incident-sweep
 https://x.ai/news/introducing-excel-addin
 https://x.ai/news/introducing-goal
 https://x.ai/news/introducing-google-workspace-addon
