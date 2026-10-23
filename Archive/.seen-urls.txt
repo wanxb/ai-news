@@ -151,6 +151,7 @@ https://deepmind.google/blog/accelerating-antimicrobial-discovery
 https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission
 https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory
 https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome
+https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types
 https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely
 https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model
 https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi
@@ -262,6 +263,7 @@ https://huggingface.co/blog/allenai/impactful-scheduling
 https://huggingface.co/blog/allenai/olmocore3
 https://huggingface.co/blog/allenai/olmoearth-embeddings
 https://huggingface.co/blog/allenai/olmoearth-infrastructure
+https://huggingface.co/blog/allenai/olmoearth-v1-3
 https://huggingface.co/blog/allenai/shippy-tech-blog
 https://huggingface.co/blog/allenai/tutormoments
 https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
@@ -287,6 +289,7 @@ https://huggingface.co/blog/ibm-research/altk-evolve-bc
 https://huggingface.co/blog/ibm-research/altk-evolve-consistency
 https://huggingface.co/blog/ibm-research/altk-evolve-hmm
 https://huggingface.co/blog/ibm-research/altk-evolve-sldd
+https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1
 https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series
 https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt
 https://huggingface.co/blog/ibm-research/real-time-intelligence
@@ -296,6 +299,7 @@ https://huggingface.co/blog/lerobot-release-v060
 https://huggingface.co/blog/meta-muse-spark-open
 https://huggingface.co/blog/microsoft/foundry-managed-compute
 https://huggingface.co/blog/microsoft/thinkingbox
+https://huggingface.co/blog/microsoft/thinkingbox-training
 https://huggingface.co/blog/mps-pytorch-2-15
 https://huggingface.co/blog/multi-vector-encoder
 https://huggingface.co/blog/muse-glimmer
@@ -453,6 +457,7 @@ https://openai.com/index/david-velez-robin-vince-join-openai-boards
 https://openai.com/index/daybreak-for-frontline-defenders
 https://openai.com/index/daybreak-models-are-now-available-on-aws
 https://openai.com/index/daybreak-securing-the-world/
+https://openai.com/index/decisions-api
 https://openai.com/index/deutsche-telekom
 https://openai.com/index/devday-2026-recap
 https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
@@ -466,6 +471,7 @@ https://openai.com/index/expanding-ai-access-us-government
 https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows
 https://openai.com/index/expanding-openai-academy-with-new-learning-paths
 https://openai.com/index/expanding-our-presence-in-brazil
+https://openai.com/index/forward-deployed-engineering-means
 https://openai.com/index/fyxer
 https://openai.com/index/genebench-pro/case-studies
 https://openai.com/index/government-national-security-partnerships
@@ -602,6 +608,7 @@ https://openai.com/index/third-moment-research
 https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
 https://openai.com/index/towards-safety-cases-for-frontier-ai-training
 https://openai.com/index/two-years-of-openai-academy
+https://openai.com/index/uber-chatgpt-work-rollout
 https://openai.com/index/unive
 https://openai.com/index/unlocking-new-ways-of-working
 https://openai.com/index/unlocking-self-improvement-gpt-red
@@ -643,6 +650,7 @@ https://www.anthropic.com/news/claude-text-watermark
 https://www.anthropic.com/news/cognizant-anthropic
 https://www.anthropic.com/news/cyber-verification-program
 https://www.anthropic.com/news/distillation-defenses
+https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation
 https://www.anthropic.com/news/donation-public-first-action
 https://www.anthropic.com/news/dxc-anthropic-alliance
 https://www.anthropic.com/news/economic-futures-research-fund-agenda
@@ -659,6 +667,7 @@ https://www.anthropic.com/news/introducing-claude-tag
 https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
 https://www.anthropic.com/news/life-sciences-verification-program
 https://www.anthropic.com/news/model-hardware-standard-research-preview
+https://www.anthropic.com/news/open-call-guest-investigators-life-sciences
 https://www.anthropic.com/news/partnerships
 https://www.anthropic.com/news/policy
 https://www.anthropic.com/news/position-open-weights-models
@@ -799,6 +808,7 @@ https://x.ai/news/introducing-powerpoint-addin
 https://x.ai/news/introducing-word-addin
 https://x.ai/news/new-flagship-voices
 https://x.ai/news/onegov
+https://x.ai/news/partnernetworkannouncement
 https://x.ai/news/prompt-ide
 https://x.ai/news/series-b
 https://x.ai/news/series-c
