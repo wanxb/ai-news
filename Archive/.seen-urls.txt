@@ -260,6 +260,7 @@ https://huggingface.co/blog/allenai/benchmirt
 https://huggingface.co/blog/allenai/fairstress
 https://huggingface.co/blog/allenai/hiro-acev2
 https://huggingface.co/blog/allenai/impactful-scheduling
+https://huggingface.co/blog/allenai/litpivot
 https://huggingface.co/blog/allenai/olmocore3
 https://huggingface.co/blog/allenai/olmoearth-embeddings
 https://huggingface.co/blog/allenai/olmoearth-infrastructure
@@ -331,6 +332,7 @@ https://huggingface.co/blog/thinkingmachines-inkling
 https://huggingface.co/blog/tiiuae/falcon-emirati
 https://huggingface.co/blog/tokenizers-v1
 https://huggingface.co/blog/torch-attention-profile
+https://huggingface.co/blog/torch-neuronx-model-support
 https://huggingface.co/blog/train-multi-vector-encoder
 https://huggingface.co/blog/transformers-llama-cpp-quants
 https://huggingface.co/blog/webgpu-kernels
@@ -390,6 +392,8 @@ https://kimi-k2.org/zh/blog/55-kimi-k3-vs-glm-5-3-flash
 https://kimi-k2.org/zh/blog/56-kimi-k3-vs-deepseek-v4-flash-0731
 https://kimi-k2.org/zh/blog/57-deepseek-v41-flash-release
 https://kimi-k2.org/zh/blog/58-kimi-k2-8-preview
+https://kimi-k2.org/zh/blog/59-kimi-k3-1-release
+https://kimi-k2.org/zh/blog/60-kimi-k3-1-pro
 https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link
 https://mistral.ai/news/mistral-large-4
 https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering
@@ -544,6 +548,7 @@ https://openai.com/index/openai-broadcom-jalapeno-inference-chip/
 https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense
 https://openai.com/index/openai-joins-ports-pike-project
 https://openai.com/index/openai-models-google-cloud
+https://openai.com/index/openai-nask-ai-safety-security-partnership
 https://openai.com/index/openai-on-oracle-cloud/
 https://openai.com/index/openai-to-acquire-ona/
 https://openai.com/index/openai-to-acquire-orchestra-bio
@@ -579,7 +584,9 @@ https://openai.com/index/safety-overview-gpt-6-astra
 https://openai.com/index/sam-altman-un-security-council-remarks
 https://openai.com/index/scaling-ai-research-for-complex-biological-data
 https://openai.com/index/scaling-storage-one-billion-users-part-one
+https://openai.com/index/scaling-storage-one-billion-users-part-two
 https://openai.com/index/scientific-computing-agentic-ai
+https://openai.com/index/securing-our-frontier-model-training-environment
 https://openai.com/index/sentinelone
 https://openai.com/index/separating-signal-from-noise-coding-evaluations
 https://openai.com/index/sharing-ai-progress-in-mathematics
