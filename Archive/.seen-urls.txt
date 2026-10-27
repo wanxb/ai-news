@@ -96,6 +96,7 @@ https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026
 https://blog.google/innovation-and-ai/technology/health/ai-health-research
 https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai
 https://blog.google/innovation-and-ai/technology/research/google-beam-expansion
+https://blog.google/innovation-and-ai/technology/research/google-beam-uso-docuseries-service-members
 https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/
 https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map
 https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026
@@ -103,6 +104,7 @@ https://blog.google/innovation-and-ai/technology/research/technology-global-cris
 https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy
 https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program
 https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026
+https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks
 https://blog.google/products-and-platforms/products/education/nyc-ai-summit
 https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships
 https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips
@@ -438,12 +440,14 @@ https://openai.com/index/building-abundant-intelligence
 https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community
 https://openai.com/index/building-an-ai-native-finance-function
 https://openai.com/index/building-chatgpt-ad-stack
+https://openai.com/index/building-scientific-understanding-with-academic-communities
 https://openai.com/index/building-standards-next-phase-ai
 https://openai.com/index/built-to-benefit-everyone-our-plan/
 https://openai.com/index/cars24
 https://openai.com/index/chatgpt-ads-expands-26-new-countries
 https://openai.com/index/chatgpt-ads-expands-across-europe
 https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources
+https://openai.com/index/chatgpt-expanding-world-of-work
 https://openai.com/index/chatgpt-for-academic-researchers
 https://openai.com/index/chatgpt-for-teens
 https://openai.com/index/chatgpt-for-your-most-ambitious-work
@@ -475,6 +479,7 @@ https://openai.com/index/expanding-ai-access-us-government
 https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows
 https://openai.com/index/expanding-openai-academy-with-new-learning-paths
 https://openai.com/index/expanding-our-presence-in-brazil
+https://openai.com/index/fanatics-streamline-fan-experience
 https://openai.com/index/forward-deployed-engineering-means
 https://openai.com/index/fyxer
 https://openai.com/index/genebench-pro/case-studies
@@ -484,9 +489,11 @@ https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency
 https://openai.com/index/gpt-5-6-in-kiro
 https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
 https://openai.com/index/gpt-5-immunology-mystery/
+https://openai.com/index/gpt-6-1-sol-coderabbit-code-security
 https://openai.com/index/gpt-6-astra-next-generation-work
 https://openai.com/index/gpt-6-for-everyone
 https://openai.com/index/grab-openai-ai-skills-southeast-asia
+https://openai.com/index/greptile-code-review-codex-astra
 https://openai.com/index/harvey-from-context-to-confidence-with-astra
 https://openai.com/index/health-in-chatgpt
 https://openai.com/index/helping-older-adults-use-ai-in-everyday-life
@@ -515,6 +522,7 @@ https://openai.com/index/introducing-chatgpt-small-business-program
 https://openai.com/index/introducing-dots
 https://openai.com/index/introducing-genebench-pro
 https://openai.com/index/introducing-gpt-6-1-sol
+https://openai.com/index/introducing-gpt-6-1-terra
 https://openai.com/index/introducing-gpt-6-sol-and-luna
 https://openai.com/index/introducing-gpt-live
 https://openai.com/index/introducing-gpt-live-1-in-the-api
@@ -545,6 +553,7 @@ https://openai.com/index/nvidia/chatgpt-work
 https://openai.com/index/offering-zero-data-retention-for-frontier-models
 https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai
 https://openai.com/index/openai-broadcom-jalapeno-inference-chip/
+https://openai.com/index/openai-cut-incident-investigation
 https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense
 https://openai.com/index/openai-joins-ports-pike-project
 https://openai.com/index/openai-models-google-cloud
@@ -683,6 +692,7 @@ https://www.anthropic.com/news/public-benefit-fund
 https://www.anthropic.com/news/rare-disease-research-grants
 https://www.anthropic.com/news/redeploying-fable-5
 https://www.anthropic.com/news/reflect-with-claude
+https://www.anthropic.com/news/s1-sec
 https://www.anthropic.com/news/safeguards
 https://www.anthropic.com/news/security
 https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem
