@@ -161,6 +161,7 @@ https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-wit
 https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games
 https://deepmind.google/blog/gemini-4-argon-for-robotics
 https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence
+https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model
 https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control
 https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration
 https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation
@@ -321,6 +322,7 @@ https://huggingface.co/blog/nvidia/kumo-tabular
 https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents
 https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb
 https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026
+https://huggingface.co/blog/nvidia/nemotron-transcribe-granary
 https://huggingface.co/blog/nvidia/open-data-for-agents
 https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel
 https://huggingface.co/blog/nvidia/scaling-indic-pretraining
@@ -543,6 +545,7 @@ https://openai.com/index/k-12-educators-practical-skills
 https://openai.com/index/learn-teach-chatgpt-work-codex
 https://openai.com/index/learning-never-stops
 https://openai.com/index/legalon-halves-codex-costs
+https://openai.com/index/legora
 https://openai.com/index/legora-financial-statement-review-with-astra
 https://openai.com/index/lenfest-ai-collaborative-expansion
 https://openai.com/index/loveholidays
@@ -564,6 +567,7 @@ https://openai.com/index/openai-joins-ports-pike-project
 https://openai.com/index/openai-models-google-cloud
 https://openai.com/index/openai-nask-ai-safety-security-partnership
 https://openai.com/index/openai-on-oracle-cloud/
+https://openai.com/index/openai-servicenow-partnership-expansion
 https://openai.com/index/openai-to-acquire-ona/
 https://openai.com/index/openai-to-acquire-orchestra-bio
 https://openai.com/index/oracle
@@ -626,6 +630,7 @@ https://openai.com/index/the-den-family-social
 https://openai.com/index/the-eternal-complement
 https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic
 https://openai.com/index/the-full-stack-behind-abundant-intelligence
+https://openai.com/index/the-future-of-the-firm
 https://openai.com/index/the-work-now-within-reach
 https://openai.com/index/third-moment-research
 https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
@@ -651,6 +656,7 @@ https://twitter.com/deepseek_ai
 https://www.anthropic.com/news/2026-us-midterms
 https://www.anthropic.com/news/2026-usage-policy-update
 https://www.anthropic.com/news/accenture-embedded-evaluation
+https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions
 https://www.anthropic.com/news/alberta-government-claude-cybersecurity
 https://www.anthropic.com/news/an-update-on-independent-evaluators
 https://www.anthropic.com/news/announcements
