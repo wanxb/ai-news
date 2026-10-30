@@ -277,6 +277,8 @@ https://huggingface.co/blog/allenai/tutormoments
 https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
 https://huggingface.co/blog/amazon/profiling-torchneuron-part-1
 https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop
+https://huggingface.co/blog/announcing-project-protostar
+https://huggingface.co/blog/anydecisionmodel
 https://huggingface.co/blog/anylanguagemodel-1-0
 https://huggingface.co/blog/asr-benchmark-optimization
 https://huggingface.co/blog/baseten
@@ -293,6 +295,7 @@ https://huggingface.co/blog/hf-torchtpu
 https://huggingface.co/blog/ibm-granite/granite-4-2
 https://huggingface.co/blog/ibm-granite/granite-speech-5
 https://huggingface.co/blog/ibm-granite/granite-switch-4-1
+https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1
 https://huggingface.co/blog/ibm-research/altk-evolve-bc
 https://huggingface.co/blog/ibm-research/altk-evolve-consistency
 https://huggingface.co/blog/ibm-research/altk-evolve-hmm
@@ -308,6 +311,7 @@ https://huggingface.co/blog/meta-muse-spark-open
 https://huggingface.co/blog/microsoft/foundry-managed-compute
 https://huggingface.co/blog/microsoft/thinkingbox
 https://huggingface.co/blog/microsoft/thinkingbox-training
+https://huggingface.co/blog/mistral-large4
 https://huggingface.co/blog/mps-pytorch-2-15
 https://huggingface.co/blog/multi-vector-encoder
 https://huggingface.co/blog/muse-glimmer
@@ -404,6 +408,7 @@ https://kimi-k2.org/zh/blog/59-kimi-k3-1-release
 https://kimi-k2.org/zh/blog/60-kimi-k3-1-pro
 https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link
 https://mistral.ai/news/mistral-large-4
+https://mistral.ai/news/mistral-large-4-oss
 https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering
 https://mistral.ai/news/timestral
 https://mistral.ai/news/voxtral-3
@@ -515,6 +520,7 @@ https://openai.com/index/how-news-organizations-are-using-ai
 https://openai.com/index/how-the-world-is-putting-chatgpt-to-work
 https://openai.com/index/how-to-connect-ai-usage-to-business-value
 https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores
+https://openai.com/index/how-we-detect-frontier-model-misalignment
 https://openai.com/index/how-we-will-do-better-for-australia
 https://openai.com/index/hp-frontier-partnership/
 https://openai.com/index/hsp-gruppe
@@ -599,6 +605,7 @@ https://openai.com/index/responsible-ai-infrastructure-texas
 https://openai.com/index/retell-ai
 https://openai.com/index/ringcentral
 https://openai.com/index/ringg
+https://openai.com/index/ropes-gray-ai-diligence
 https://openai.com/index/safety-alignment-long-horizon-models
 https://openai.com/index/safety-overview-gpt-6-astra
 https://openai.com/index/sam-altman-un-security-council-remarks
@@ -640,6 +647,7 @@ https://openai.com/index/uber-chatgpt-work-rollout
 https://openai.com/index/unive
 https://openai.com/index/unlocking-new-ways-of-working
 https://openai.com/index/unlocking-self-improvement-gpt-red
+https://openai.com/index/updated-model-spec
 https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials
 https://openai.com/index/v7
 https://openai.com/index/virgin-atlantic/chatgpt-work
@@ -731,6 +739,7 @@ https://www.mintlify.com?utm_campaign=poweredBy&utm_medium=referral&utm_source=z
 https://www.talkie-ai.com
 https://www.volcengine.com/activity/Partner-AI-Solution?infrom=100001.100.217
 https://www.volcengine.com/activity/agentplan?_vtm_=a441938.b105393.c854860_0.d562002_13.0.385_7680906253586056767
+https://www.volcengine.com/activity/ai618?infrom=100001.100.274
 https://www.volcengine.com/activity/codingplan?infrom=100001.100.216
 https://www.volcengine.com/activity/haidianbutie?_vtm_=a441938.b75322.0_0.0_0.0.17_7655623425281820214
 https://www.volcengine.com/activity/jifen?infrom=100001.100.219
