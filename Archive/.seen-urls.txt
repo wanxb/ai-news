@@ -1,4 +1,5 @@
 http://volcengine.com/product/llm-scan
+https://agent.minimax.io/about
 https://agent.minimax.io/download
 https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino
 https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino
@@ -47,6 +48,7 @@ https://api-docs.deepseek.com/zh-cn/quick_start/pricing
 https://api-docs.deepseek.com/zh-cn/quick_start/rate_limit
 https://api-docs.deepseek.com/zh-cn/quick_start/token_usage
 https://api-docs.deepseek.com/zh-cn/updates
+https://api-docs.deepseek.com/zh-cn/updates.md
 https://ark.volcengine.com/region:cn-beijing/apiKey
 https://ark.volcengine.com/region:cn-beijing/experience/gen_chat?model=doubao-seed-evolving-latest-version
 https://ark.volcengine.com/region:cn-beijing/overview
@@ -71,6 +73,7 @@ https://blog.google/innovation-and-ai/models-and-research/google-research/google
 https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts
 https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space
 https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype
+https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response
 https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai
 https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing
 https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/
@@ -125,6 +128,7 @@ https://blogs.nvidia.com/blog/ai-storage-fms
 https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin
 https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit
 https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin
+https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents
 https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit
 https://blogs.nvidia.com/blog/european-cities-agents-urban-operations
 https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing
@@ -325,6 +329,7 @@ https://huggingface.co/blog/nvidia/kumo-relational
 https://huggingface.co/blog/nvidia/kumo-tabular
 https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents
 https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb
+https://huggingface.co/blog/nvidia/nemotron-halloween
 https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026
 https://huggingface.co/blog/nvidia/nemotron-transcribe-granary
 https://huggingface.co/blog/nvidia/open-data-for-agents
@@ -468,6 +473,7 @@ https://openai.com/index/cloudflare-cyber
 https://openai.com/index/codex-maxxing-long-running-work/
 https://openai.com/index/codex-quantum-computing-experiments
 https://openai.com/index/cognition-devin-testing-with-astra
+https://openai.com/index/community-safety-report-and-new-protections-for-teens
 https://openai.com/index/continuous-voice-interaction-with-gpt-live
 https://openai.com/index/cooley-gopublic
 https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities
@@ -491,6 +497,7 @@ https://openai.com/index/expanding-ai-access-us-government
 https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows
 https://openai.com/index/expanding-openai-academy-with-new-learning-paths
 https://openai.com/index/expanding-our-presence-in-brazil
+https://openai.com/index/fair-use-benefits-everyone
 https://openai.com/index/fanatics-streamline-fan-experience
 https://openai.com/index/forward-deployed-engineering-means
 https://openai.com/index/fyxer
@@ -510,6 +517,7 @@ https://openai.com/index/harvey-from-context-to-confidence-with-astra
 https://openai.com/index/health-in-chatgpt
 https://openai.com/index/helping-older-adults-use-ai-in-everyday-life
 https://openai.com/index/helping-small-businesses-put-ai-to-work
+https://openai.com/index/helping-websites-express-ai-training-preferences
 https://openai.com/index/higgsfield-from-prompt-to-production-with-astra
 https://openai.com/index/higgsfield-longer-videos-voice
 https://openai.com/index/how-agents-are-transforming-work/
@@ -657,6 +665,7 @@ https://openai.com/index/zapier
 https://platform.deepseek.com
 https://platform.deepseek.com/api_keys
 https://platform.minimax.io/activity/contact-us-en
+https://platform.minimax.io/console/home
 https://platform.minimax.io/contact-us
 https://platform.minimax.io/docs/guides/music-generation
 https://status.deepseek.com
@@ -726,9 +735,11 @@ https://www.anthropic.com/news/wellbeing-research-grants
 https://www.bigmodel.cn/pricing
 https://www.minimax.io/about
 https://www.minimax.io/audio
+https://www.minimax.io/blog
 https://www.minimax.io/blog/minimax-h3
 https://www.minimax.io/blog/minimax-m31f
 https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model
+https://www.minimax.io/m-plan
 https://www.minimax.io/models/text
 https://www.minimax.io/models/text/m27
 https://www.minimax.io/models/text/m3
