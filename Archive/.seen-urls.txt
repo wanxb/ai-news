@@ -85,6 +85,7 @@ https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch
 https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench
 https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026
 https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026
+https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026
 https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026
 https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week
 https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform
@@ -479,6 +480,7 @@ https://openai.com/index/cooley-gopublic
 https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities
 https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
 https://openai.com/index/dali-rajic-chief-revenue-officer
+https://openai.com/index/dan-driscoll-joins-openai
 https://openai.com/index/david-velez-robin-vince-join-openai-boards
 https://openai.com/index/daybreak-for-frontline-defenders
 https://openai.com/index/daybreak-models-are-now-available-on-aws
@@ -513,6 +515,7 @@ https://openai.com/index/gpt-6-astra-next-generation-work
 https://openai.com/index/gpt-6-for-everyone
 https://openai.com/index/grab-openai-ai-skills-southeast-asia
 https://openai.com/index/greptile-code-review-codex-astra
+https://openai.com/index/grid-protectors-program
 https://openai.com/index/harvey-from-context-to-confidence-with-astra
 https://openai.com/index/health-in-chatgpt
 https://openai.com/index/helping-older-adults-use-ai-in-everyday-life
@@ -562,6 +565,7 @@ https://openai.com/index/legalon-halves-codex-costs
 https://openai.com/index/legora
 https://openai.com/index/legora-financial-statement-review-with-astra
 https://openai.com/index/lenfest-ai-collaborative-expansion
+https://openai.com/index/lifeval
 https://openai.com/index/loveholidays
 https://openai.com/index/low-resource-programming-languages
 https://openai.com/index/managing-ai-investments-in-agentic-era
@@ -598,12 +602,14 @@ https://openai.com/index/polimill
 https://openai.com/index/pollo-ai
 https://openai.com/index/practical-guide-building-gpt-6
 https://openai.com/index/premium-seats-chatgpt-business
+https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai
 https://openai.com/index/previewing-gpt-5-6-sol/
 https://openai.com/index/previewing-ultrafast
 https://openai.com/index/priorities-principles-third-party-assessments
 https://openai.com/index/proaction
 https://openai.com/index/put-data-to-work
 https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands
+https://openai.com/index/qodo-codex-plugin
 https://openai.com/index/radisson
 https://openai.com/index/reimagining-advertising-with-ai
 https://openai.com/index/replit
@@ -611,6 +617,7 @@ https://openai.com/index/research-acceleration-view-inside-openai
 https://openai.com/index/responding-next-frontier-critical-cyber-capabilities
 https://openai.com/index/responsible-ai-infrastructure-texas
 https://openai.com/index/retell-ai
+https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties
 https://openai.com/index/ringcentral
 https://openai.com/index/ringg
 https://openai.com/index/ropes-gray-ai-diligence
@@ -618,6 +625,7 @@ https://openai.com/index/safety-alignment-long-horizon-models
 https://openai.com/index/safety-overview-gpt-6-astra
 https://openai.com/index/sam-altman-un-security-council-remarks
 https://openai.com/index/scaling-ai-research-for-complex-biological-data
+https://openai.com/index/scaling-git-at-openai
 https://openai.com/index/scaling-storage-one-billion-users-part-one
 https://openai.com/index/scaling-storage-one-billion-users-part-two
 https://openai.com/index/scientific-computing-agentic-ai
@@ -781,6 +789,7 @@ https://x.ai/news/anthropic-compute-partnership
 https://x.ai/news/api
 https://x.ai/news/biosafety-at-the-frontier
 https://x.ai/news/composer-2-5
+https://x.ai/news/data-bot
 https://x.ai/news/designing-grok-bot
 https://x.ai/news/el-salvador-partnership
 https://x.ai/news/government
