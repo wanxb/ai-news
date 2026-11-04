@@ -103,6 +103,7 @@ https://blog.google/innovation-and-ai/technology/research/google-beam-expansion
 https://blog.google/innovation-and-ai/technology/research/google-beam-uso-docuseries-service-members
 https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/
 https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map
+https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery
 https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026
 https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience
 https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy
@@ -125,8 +126,10 @@ https://blog.google/products-and-platforms/products/workspace/google-pics
 https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets
 https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates
 https://blogs.nvidia.com/blog/ai-security-agent-stack
+https://blogs.nvidia.com/blog/ai-semiconductor-fabs
 https://blogs.nvidia.com/blog/ai-storage-fms
 https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin
+https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications
 https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit
 https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin
 https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents
@@ -158,6 +161,7 @@ https://console.volcengine.com/ark/region:cn-beijing/managed-agents/quickstart?q
 https://deepmind.google/blog/accelerating-antimicrobial-discovery
 https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission
 https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory
+https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity
 https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome
 https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types
 https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely
@@ -278,6 +282,7 @@ https://huggingface.co/blog/allenai/olmoearth-embeddings
 https://huggingface.co/blog/allenai/olmoearth-infrastructure
 https://huggingface.co/blog/allenai/olmoearth-v1-3
 https://huggingface.co/blog/allenai/shippy-tech-blog
+https://huggingface.co/blog/allenai/statebench
 https://huggingface.co/blog/allenai/tutormoments
 https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
 https://huggingface.co/blog/amazon/profiling-torchneuron-part-1
@@ -289,6 +294,7 @@ https://huggingface.co/blog/asr-benchmark-optimization
 https://huggingface.co/blog/baseten
 https://huggingface.co/blog/building-with-ml-intern
 https://huggingface.co/blog/cerebras-gemma4-voice-ai
+https://huggingface.co/blog/cwe-bench
 https://huggingface.co/blog/eee-community-evals
 https://huggingface.co/blog/evaleval-aisi
 https://huggingface.co/blog/flux-3
@@ -308,6 +314,7 @@ https://huggingface.co/blog/ibm-research/altk-evolve-sldd
 https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1
 https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series
 https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt
+https://huggingface.co/blog/ibm-research/palette-deck-building
 https://huggingface.co/blog/ibm-research/real-time-intelligence
 https://huggingface.co/blog/ibm-research/scarfbench
 https://huggingface.co/blog/icml-2026-open-reproductions
@@ -353,6 +360,7 @@ https://huggingface.co/blog/torch-attention-profile
 https://huggingface.co/blog/torch-neuronx-model-support
 https://huggingface.co/blog/train-multi-vector-encoder
 https://huggingface.co/blog/transformers-llama-cpp-quants
+https://huggingface.co/blog/transformers-mic
 https://huggingface.co/blog/webgpu-kernels
 https://ir.minimax.io
 https://kimi-k2.org/zh/blog/01-technical-breakthrough
@@ -424,6 +432,7 @@ https://openai.com/academy/getting-started
 https://openai.com/form/codex-originals
 https://openai.com/index/1password
 https://openai.com/index/a-scorecard-for-the-ai-age
+https://openai.com/index/accelerating-engineering-for-the-physical-world
 https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
 https://openai.com/index/advancing-computer-use-with-ironclad
 https://openai.com/index/advancing-responsible-ai-across-europe
@@ -470,6 +479,7 @@ https://openai.com/index/chatgpt-for-teens
 https://openai.com/index/chatgpt-for-your-most-ambitious-work
 https://openai.com/index/chatham-financial
 https://openai.com/index/check-point-daybreak
+https://openai.com/index/cisco-cyber
 https://openai.com/index/cloudflare-cyber
 https://openai.com/index/codex-maxxing-long-running-work/
 https://openai.com/index/codex-quantum-computing-experiments
@@ -518,6 +528,7 @@ https://openai.com/index/greptile-code-review-codex-astra
 https://openai.com/index/grid-protectors-program
 https://openai.com/index/harvey-from-context-to-confidence-with-astra
 https://openai.com/index/health-in-chatgpt
+https://openai.com/index/heimstaden
 https://openai.com/index/helping-older-adults-use-ai-in-everyday-life
 https://openai.com/index/helping-small-businesses-put-ai-to-work
 https://openai.com/index/helping-websites-express-ai-training-preferences
@@ -557,6 +568,7 @@ https://openai.com/index/introducing-the-rosalind-academic-plan
 https://openai.com/index/invideo-builds-with-gpt-6-astra
 https://openai.com/index/itau-generative-ai
 https://openai.com/index/jalapeno-first-results
+https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer
 https://openai.com/index/jump-trading
 https://openai.com/index/k-12-educators-practical-skills
 https://openai.com/index/learn-teach-chatgpt-work-codex
