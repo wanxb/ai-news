@@ -248,6 +248,7 @@ https://github.com/deepseek-ai
 https://github.com/deepseek-ai/awesome-deepseek-integration/tree/main
 https://hailuoai.video
 https://hub.minimax.io
+https://huggingface.co/blog/Dharma-AI/dharma-field-extractor
 https://huggingface.co/blog/Dharma-AI/gpu-management
 https://huggingface.co/blog/Dharma-AI/gpu-management-pt2
 https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages
@@ -432,6 +433,7 @@ https://openai.com/academy/getting-started
 https://openai.com/form/codex-originals
 https://openai.com/index/1password
 https://openai.com/index/a-scorecard-for-the-ai-age
+https://openai.com/index/a-thousand-fewer-paths-to-root
 https://openai.com/index/accelerating-engineering-for-the-physical-world
 https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
 https://openai.com/index/advancing-computer-use-with-ironclad
@@ -494,10 +496,12 @@ https://openai.com/index/dan-driscoll-joins-openai
 https://openai.com/index/david-velez-robin-vince-join-openai-boards
 https://openai.com/index/daybreak-for-frontline-defenders
 https://openai.com/index/daybreak-models-are-now-available-on-aws
+https://openai.com/index/daybreak-red-aws-govcloud
 https://openai.com/index/daybreak-securing-the-world/
 https://openai.com/index/decisions-api
 https://openai.com/index/deutsche-telekom
 https://openai.com/index/devday-2026-recap
+https://openai.com/index/devrev-enterprise-self-service
 https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
 https://openai.com/index/disrupting-ai-enabled-false-front-operations
 https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation
@@ -561,6 +565,7 @@ https://openai.com/index/introducing-gpt-6-1-terra
 https://openai.com/index/introducing-gpt-6-sol-and-luna
 https://openai.com/index/introducing-gpt-live
 https://openai.com/index/introducing-gpt-live-1-in-the-api
+https://openai.com/index/introducing-images-2-6
 https://openai.com/index/introducing-mentalhealthbench
 https://openai.com/index/introducing-openai-presence
 https://openai.com/index/introducing-the-agents-api
@@ -600,6 +605,7 @@ https://openai.com/index/openai-on-oracle-cloud/
 https://openai.com/index/openai-servicenow-partnership-expansion
 https://openai.com/index/openai-to-acquire-ona/
 https://openai.com/index/openai-to-acquire-orchestra-bio
+https://openai.com/index/openai-to-acquire-pierre
 https://openai.com/index/oracle
 https://openai.com/index/oracle-apps-in-chatgpt
 https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
