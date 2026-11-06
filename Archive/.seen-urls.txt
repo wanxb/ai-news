@@ -96,6 +96,7 @@ https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026
 https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/
 https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api
 https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks
+https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash
 https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026
 https://blog.google/innovation-and-ai/technology/health/ai-health-research
 https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai
@@ -145,8 +146,10 @@ https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron
 https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs
 https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates
 https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event
+https://blogs.nvidia.com/blog/memory-full-stack-codesign
 https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx
 https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize
+https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk
 https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale
 https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar
 https://blogs.nvidia.com/blog/open-models-europe-industry
@@ -154,6 +157,7 @@ https://blogs.nvidia.com/blog/open-secure-ai-alliance
 https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia
 https://blogs.nvidia.com/blog/telecom-operators-open-models
 https://blogs.nvidia.com/blog/vera-cpu-delivery
+https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents
 https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents
 https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis
 https://code.minimax.io
@@ -172,6 +176,7 @@ https://deepmind.google/blog/gemini-4-argon-for-robotics
 https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence
 https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model
 https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control
+https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips
 https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration
 https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation
 https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership
@@ -331,6 +336,7 @@ https://huggingface.co/blog/muse-glimmer
 https://huggingface.co/blog/native-speed-vllm-transformers-backend
 https://huggingface.co/blog/nunchaku-diffusers
 https://huggingface.co/blog/nvidia/cosmos-h-dreams
+https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation
 https://huggingface.co/blog/nvidia/cosmos3-h-dreams
 https://huggingface.co/blog/nvidia/cosmos3edge
 https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp
@@ -348,6 +354,7 @@ https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai
 https://huggingface.co/blog/omlx
 https://huggingface.co/blog/open-asr-leaderboard-global-south
 https://huggingface.co/blog/open-tts-leaderboard
+https://huggingface.co/blog/phonon-tts
 https://huggingface.co/blog/real-world-voiceeq
 https://huggingface.co/blog/reflection-beam
 https://huggingface.co/blog/revamped-kernels
@@ -422,6 +429,7 @@ https://kimi-k2.org/zh/blog/58-kimi-k2-8-preview
 https://kimi-k2.org/zh/blog/59-kimi-k3-1-release
 https://kimi-k2.org/zh/blog/60-kimi-k3-1-pro
 https://kimi-k2.org/zh/blog/how-to-deploy-website-from-kimi-link
+https://mistral.ai/news/build-with-studio
 https://mistral.ai/news/mistral-large-4
 https://mistral.ai/news/mistral-large-4-oss
 https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering
@@ -430,6 +438,7 @@ https://mistral.ai/news/voxtral-3
 https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
 https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
 https://openai.com/academy/getting-started
+https://openai.com/ads/customers/flipsnack
 https://openai.com/form/codex-originals
 https://openai.com/index/1password
 https://openai.com/index/a-scorecard-for-the-ai-age
@@ -455,6 +464,7 @@ https://openai.com/index/atlassian-partnership
 https://openai.com/index/att-legal
 https://openai.com/index/atv-big-air-tour
 https://openai.com/index/australian-payments-plus
+https://openai.com/index/australian-universities-ai-native-graduates
 https://openai.com/index/australian-youth-safety-blueprint
 https://openai.com/index/basis-tax-workbook-with-astra
 https://openai.com/index/benefit-street-partners
@@ -491,6 +501,7 @@ https://openai.com/index/continuous-voice-interaction-with-gpt-live
 https://openai.com/index/cooley-gopublic
 https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities
 https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
+https://openai.com/index/cultfit-builds-with-codex
 https://openai.com/index/dali-rajic-chief-revenue-officer
 https://openai.com/index/dan-driscoll-joins-openai
 https://openai.com/index/david-velez-robin-vince-join-openai-boards
@@ -516,6 +527,7 @@ https://openai.com/index/expanding-our-presence-in-brazil
 https://openai.com/index/fair-use-benefits-everyone
 https://openai.com/index/fanatics-streamline-fan-experience
 https://openai.com/index/forward-deployed-engineering-means
+https://openai.com/index/franklin-templeton
 https://openai.com/index/fyxer
 https://openai.com/index/genebench-pro/case-studies
 https://openai.com/index/government-national-security-partnerships
@@ -562,6 +574,7 @@ https://openai.com/index/introducing-dots
 https://openai.com/index/introducing-genebench-pro
 https://openai.com/index/introducing-gpt-6-1-sol
 https://openai.com/index/introducing-gpt-6-1-terra
+https://openai.com/index/introducing-gpt-6-cyber
 https://openai.com/index/introducing-gpt-6-sol-and-luna
 https://openai.com/index/introducing-gpt-live
 https://openai.com/index/introducing-gpt-live-1-in-the-api
@@ -586,6 +599,7 @@ https://openai.com/index/lifeval
 https://openai.com/index/loveholidays
 https://openai.com/index/low-resource-programming-languages
 https://openai.com/index/managing-ai-investments-in-agentic-era
+https://openai.com/index/merge-builds-with-openai
 https://openai.com/index/model-misalignment-reporting-framework
 https://openai.com/index/model-ml
 https://openai.com/index/navier-stokes-solution
@@ -650,6 +664,7 @@ https://openai.com/index/scientific-computing-agentic-ai
 https://openai.com/index/securing-our-frontier-model-training-environment
 https://openai.com/index/sentinelone
 https://openai.com/index/separating-signal-from-noise-coding-evaluations
+https://openai.com/index/setting-new-standard-responsible-ai-infrastructure
 https://openai.com/index/sharing-ai-progress-in-mathematics
 https://openai.com/index/sophos
 https://openai.com/index/stack-overflow-chatgpt-plugin
