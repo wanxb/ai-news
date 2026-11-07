@@ -289,6 +289,7 @@ https://huggingface.co/blog/allenai/olmoearth-infrastructure
 https://huggingface.co/blog/allenai/olmoearth-v1-3
 https://huggingface.co/blog/allenai/shippy-tech-blog
 https://huggingface.co/blog/allenai/statebench
+https://huggingface.co/blog/allenai/toyblocks
 https://huggingface.co/blog/allenai/tutormoments
 https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
 https://huggingface.co/blog/amazon/profiling-torchneuron-part-1
@@ -353,6 +354,7 @@ https://huggingface.co/blog/nvidia/scaling-indic-pretraining
 https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai
 https://huggingface.co/blog/omlx
 https://huggingface.co/blog/open-asr-leaderboard-global-south
+https://huggingface.co/blog/open-asr-leaderboard-liva
 https://huggingface.co/blog/open-tts-leaderboard
 https://huggingface.co/blog/phonon-tts
 https://huggingface.co/blog/real-world-voiceeq
@@ -599,6 +601,7 @@ https://openai.com/index/lifeval
 https://openai.com/index/loveholidays
 https://openai.com/index/low-resource-programming-languages
 https://openai.com/index/managing-ai-investments-in-agentic-era
+https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science
 https://openai.com/index/merge-builds-with-openai
 https://openai.com/index/model-misalignment-reporting-framework
 https://openai.com/index/model-ml
@@ -626,6 +629,7 @@ https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spa
 https://openai.com/index/pacing-model-development-cyber-capabilities
 https://openai.com/index/parallel-cuts-time-and-cost-with-astra
 https://openai.com/index/partnering-with-codeai
+https://openai.com/index/partnering-with-hacktron
 https://openai.com/index/path-to-astra
 https://openai.com/index/paul-christiano-joins-openai-foundation-board
 https://openai.com/index/perplexity-improving-accuracy-with-astra
