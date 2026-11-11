@@ -57,6 +57,8 @@ https://bigmodel.cn
 https://bigmodel.cn/usercenter/proj-mgmt/apikeys
 https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026
 https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers
+https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration
+https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon
@@ -110,6 +112,7 @@ https://blog.google/innovation-and-ai/technology/research/technology-global-cris
 https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy
 https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program
 https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026
+https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices
 https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks
 https://blog.google/products-and-platforms/products/education/nyc-ai-summit
 https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships
@@ -177,14 +180,17 @@ https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-wit
 https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games
 https://deepmind.google/blog/gemini-4-argon-for-robotics
 https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence
+https://deepmind.google/blog/gemini-4-carbon-is-now-available
 https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model
 https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control
 https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips
+https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence
 https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration
 https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation
 https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership
 https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe
 https://deepmind.google/blog/introducing-agentic-video-in-gemini
+https://deepmind.google/blog/introducing-alphaproof-code
 https://deepmind.google/blog/introducing-gemini-3-7-flash
 https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber
 https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking
@@ -306,6 +312,7 @@ https://huggingface.co/blog/baseten
 https://huggingface.co/blog/building-with-ml-intern
 https://huggingface.co/blog/cerebras-gemma4-voice-ai
 https://huggingface.co/blog/cwe-bench
+https://huggingface.co/blog/decision
 https://huggingface.co/blog/eee-community-evals
 https://huggingface.co/blog/evaleval-aisi
 https://huggingface.co/blog/flux-3
@@ -314,6 +321,7 @@ https://huggingface.co/blog/gradio-workflow-1111
 https://huggingface.co/blog/gradio-workflow-guide
 https://huggingface.co/blog/hf-torchneuron
 https://huggingface.co/blog/hf-torchtpu
+https://huggingface.co/blog/hub-gcp-marketplace
 https://huggingface.co/blog/ibm-granite/granite-4-2
 https://huggingface.co/blog/ibm-granite/granite-speech-5
 https://huggingface.co/blog/ibm-granite/granite-switch-4-1
@@ -457,6 +465,7 @@ https://openai.com/index/advancing-responsible-ai-across-europe
 https://openai.com/index/advancing-the-next-era-of-national-science
 https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6
 https://openai.com/index/advisory-group-on-mathematics-and-ai
+https://openai.com/index/ai-effect-on-freelance-work
 https://openai.com/index/ai-native-company-workflows
 https://openai.com/index/ai-policy-window
 https://openai.com/index/airbnb-gpt-6-astra
@@ -500,6 +509,7 @@ https://openai.com/index/chatgpt-for-your-most-ambitious-work
 https://openai.com/index/chatham-financial
 https://openai.com/index/check-point-daybreak
 https://openai.com/index/cisco-cyber
+https://openai.com/index/closing-ai-guidance-gap-education
 https://openai.com/index/cloudflare-cyber
 https://openai.com/index/coderabbit-codex-daybreak
 https://openai.com/index/codex-maxxing-long-running-work/
@@ -555,6 +565,7 @@ https://openai.com/index/grid-protectors-program
 https://openai.com/index/harvey-from-context-to-confidence-with-astra
 https://openai.com/index/health-in-chatgpt
 https://openai.com/index/heimstaden
+https://openai.com/index/helping-caregivers-use-ai-in-everyday-life
 https://openai.com/index/helping-older-adults-use-ai-in-everyday-life
 https://openai.com/index/helping-small-businesses-put-ai-to-work
 https://openai.com/index/helping-websites-express-ai-training-preferences
@@ -577,6 +588,7 @@ https://openai.com/index/hugging-face-model-evaluation-security-incident
 https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt
 https://openai.com/index/introducing-admin-plugin
 https://openai.com/index/introducing-ai-futures
+https://openai.com/index/introducing-businesses-chatgpt
 https://openai.com/index/introducing-chatgpt-financial-services
 https://openai.com/index/introducing-chatgpt-images-2-5
 https://openai.com/index/introducing-chatgpt-small-business-program
@@ -777,6 +789,7 @@ https://www.anthropic.com/news/public-benefit-fund
 https://www.anthropic.com/news/rare-disease-research-grants
 https://www.anthropic.com/news/redeploying-fable-5
 https://www.anthropic.com/news/reflect-with-claude
+https://www.anthropic.com/news/roadshow-launch
 https://www.anthropic.com/news/s1-sec
 https://www.anthropic.com/news/safeguards
 https://www.anthropic.com/news/security
@@ -791,6 +804,7 @@ https://www.minimax.io/about
 https://www.minimax.io/audio
 https://www.minimax.io/blog
 https://www.minimax.io/blog/minimax-h3
+https://www.minimax.io/blog/minimax-h3-image
 https://www.minimax.io/blog/minimax-m31f
 https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model
 https://www.minimax.io/m-plan
@@ -810,6 +824,7 @@ https://www.volcengine.com/activity/haidianbutie?_vtm_=a441938.b75322.0_0.0_0.0.
 https://www.volcengine.com/activity/jifen?infrom=100001.100.219
 https://www.volcengine.com/activity/seedance25
 https://www.volcengine.com/activity/seedance2?infrom=100001.100.203
+https://www.volcengine.com/developer-tools/agent-toolkit
 https://www.volcengine.com/event/force-2606?infrom=100001.100.183
 https://www.volcengine.com/product/AICC
 https://www.volcengine.com/product/DataAgent
