@@ -58,12 +58,14 @@ https://bigmodel.cn/usercenter/proj-mgmt/apikeys
 https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026
 https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers
 https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration
+https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu
 https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon
 https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones
 https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions
+https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop
 https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study
 https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations
 https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai
@@ -98,6 +100,7 @@ https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026
 https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/
 https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api
 https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks
+https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api
 https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash
 https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026
 https://blog.google/innovation-and-ai/technology/health/ai-health-research
@@ -172,6 +175,7 @@ https://deepmind.google/blog/accelerating-antimicrobial-discovery
 https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission
 https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory
 https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity
+https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease
 https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome
 https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types
 https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely
@@ -370,6 +374,7 @@ https://huggingface.co/blog/open-asr-leaderboard-global-south
 https://huggingface.co/blog/open-asr-leaderboard-liva
 https://huggingface.co/blog/open-tts-leaderboard
 https://huggingface.co/blog/phonon-tts
+https://huggingface.co/blog/qvac/botpsy
 https://huggingface.co/blog/real-world-voiceeq
 https://huggingface.co/blog/reflection-beam
 https://huggingface.co/blog/revamped-kernels
@@ -378,6 +383,7 @@ https://huggingface.co/blog/skypilot-hf-storage
 https://huggingface.co/blog/state-of-open-models-summer-2026
 https://huggingface.co/blog/thinkingmachines-inkling
 https://huggingface.co/blog/tiiuae/falcon-emirati
+https://huggingface.co/blog/token-pooling
 https://huggingface.co/blog/tokenizers-v1
 https://huggingface.co/blog/torch-attention-profile
 https://huggingface.co/blog/torch-neuronx-model-support
@@ -506,6 +512,7 @@ https://openai.com/index/chatgpt-expanding-world-of-work
 https://openai.com/index/chatgpt-for-academic-researchers
 https://openai.com/index/chatgpt-for-teens
 https://openai.com/index/chatgpt-for-your-most-ambitious-work
+https://openai.com/index/chatgpt-plus-for-veterans
 https://openai.com/index/chatham-financial
 https://openai.com/index/check-point-daybreak
 https://openai.com/index/cisco-cyber
@@ -550,6 +557,7 @@ https://openai.com/index/forward-deployed-engineering-means
 https://openai.com/index/franklin-templeton
 https://openai.com/index/fyxer
 https://openai.com/index/genebench-pro/case-studies
+https://openai.com/index/gilbert-tobin-sam-nickless
 https://openai.com/index/government-national-security-partnerships
 https://openai.com/index/gpt-5-6
 https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency
@@ -609,6 +617,7 @@ https://openai.com/index/invideo-builds-with-gpt-6-astra
 https://openai.com/index/itau-generative-ai
 https://openai.com/index/jalapeno-first-results
 https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer
+https://openai.com/index/jiostar-vijay-seshadri
 https://openai.com/index/jump-trading
 https://openai.com/index/k-12-educators-practical-skills
 https://openai.com/index/kuken
@@ -874,6 +883,7 @@ https://x.ai/news/grok-4-7
 https://x.ai/news/grok-4-fast
 https://x.ai/news/grok-amazon-bedrock
 https://x.ai/news/grok-automations
+https://x.ai/news/grok-bot-1-0
 https://x.ai/news/grok-bot-and-x
 https://x.ai/news/grok-bot-customer-support
 https://x.ai/news/grok-bot-for-enterprise
