@@ -28,6 +28,8 @@ https://api-docs.deepseek.com/zh-cn/api/create-chat-completion
 https://api-docs.deepseek.com/zh-cn/api/deepseek-api
 https://api-docs.deepseek.com/zh-cn/faq
 https://api-docs.deepseek.com/zh-cn/guides/anthropic_api
+https://api-docs.deepseek.com/zh-cn/guides/build_a_chatbot
+https://api-docs.deepseek.com/zh-cn/guides/build_a_chatbot#demo
 https://api-docs.deepseek.com/zh-cn/guides/chat_prefix_completion
 https://api-docs.deepseek.com/zh-cn/guides/files_api
 https://api-docs.deepseek.com/zh-cn/guides/fim_completion
@@ -38,6 +40,7 @@ https://api-docs.deepseek.com/zh-cn/guides/search
 https://api-docs.deepseek.com/zh-cn/guides/thinking_mode
 https://api-docs.deepseek.com/zh-cn/guides/tool_calls
 https://api-docs.deepseek.com/zh-cn/guides/vision
+https://api-docs.deepseek.com/zh-cn/guides/web_tools#search-while-thinking
 https://api-docs.deepseek.com/zh-cn/news/news0725
 https://api-docs.deepseek.com/zh-cn/news/news0802
 https://api-docs.deepseek.com/zh-cn/news/news1226
@@ -309,6 +312,7 @@ https://huggingface.co/blog/allenai/shippy-tech-blog
 https://huggingface.co/blog/allenai/statebench
 https://huggingface.co/blog/allenai/toyblocks
 https://huggingface.co/blog/allenai/tutormoments
+https://huggingface.co/blog/allenai/xybench
 https://huggingface.co/blog/amazon/higher-order-pruning-experts
 https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
 https://huggingface.co/blog/amazon/profiling-torchneuron-part-1
@@ -325,6 +329,7 @@ https://huggingface.co/blog/decision
 https://huggingface.co/blog/eee-community-evals
 https://huggingface.co/blog/evaleval-aisi
 https://huggingface.co/blog/flux-3
+https://huggingface.co/blog/ggml-org/llama-cpp-v1
 https://huggingface.co/blog/grabette
 https://huggingface.co/blog/gradio-workflow-1111
 https://huggingface.co/blog/gradio-workflow-guide
@@ -374,6 +379,7 @@ https://huggingface.co/blog/nvidia/nemotron-transcribe-granary
 https://huggingface.co/blog/nvidia/open-data-for-agents
 https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel
 https://huggingface.co/blog/nvidia/scaling-indic-pretraining
+https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place
 https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai
 https://huggingface.co/blog/omlx
 https://huggingface.co/blog/open-asr-leaderboard-global-south
@@ -469,6 +475,7 @@ https://openai.com/ads/customers/flipsnack
 https://openai.com/business/customer-stories/amplitude
 https://openai.com/business/customer-stories/gondola
 https://openai.com/business/customer-stories/holidays-extras-codex
+https://openai.com/business/customer-stories/shield
 https://openai.com/form/codex-originals
 https://openai.com/index/1password
 https://openai.com/index/a-scorecard-for-the-ai-age
@@ -610,6 +617,7 @@ https://openai.com/index/introducing-businesses-chatgpt
 https://openai.com/index/introducing-chatgpt-financial-services
 https://openai.com/index/introducing-chatgpt-images-2-5
 https://openai.com/index/introducing-chatgpt-small-business-program
+https://openai.com/index/introducing-chatgpt-wallet
 https://openai.com/index/introducing-dots
 https://openai.com/index/introducing-genebench-pro
 https://openai.com/index/introducing-gpt-6-1-sol
