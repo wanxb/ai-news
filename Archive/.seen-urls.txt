@@ -674,6 +674,7 @@ https://openai.com/index/openai-to-acquire-pierre
 https://openai.com/index/oracle
 https://openai.com/index/oracle-apps-in-chatgpt
 https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
+https://openai.com/index/our-new-blog-for-science
 https://openai.com/index/pacing-model-development-cyber-capabilities
 https://openai.com/index/parallel-cuts-time-and-cost-with-astra
 https://openai.com/index/partnering-with-codeai
@@ -721,6 +722,7 @@ https://openai.com/index/sharing-ai-progress-in-mathematics
 https://openai.com/index/sophos
 https://openai.com/index/stack-overflow-chatgpt-plugin
 https://openai.com/index/stampli
+https://openai.com/index/step-toward-defining-the-standard-model
 https://openai.com/index/strengthening-democratic-oversight-in-national-security
 https://openai.com/index/sullivan-cromwell
 https://openai.com/index/supporting-independent-journalism-in-ukraine
