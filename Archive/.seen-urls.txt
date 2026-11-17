@@ -124,6 +124,7 @@ https://blog.google/products-and-platforms/platforms/android/gemini-intelligence
 https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks
 https://blog.google/products-and-platforms/products/education/nyc-ai-summit
 https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships
+https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026
 https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips
 https://blog.google/products-and-platforms/products/search/back-to-school-study-tools
 https://blog.google/products-and-platforms/products/search/book-travel-ai-mode
@@ -138,6 +139,7 @@ https://blog.google/products-and-platforms/products/workspace/gemini-omni-person
 https://blog.google/products-and-platforms/products/workspace/google-pics
 https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets
 https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates
+https://blogs.nvidia.com/blog/ai-day-seoul-wrapup
 https://blogs.nvidia.com/blog/ai-security-agent-stack
 https://blogs.nvidia.com/blog/ai-semiconductor-fabs
 https://blogs.nvidia.com/blog/ai-storage-fms
@@ -146,6 +148,7 @@ https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications
 https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit
 https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin
 https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents
+https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26
 https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit
 https://blogs.nvidia.com/blog/european-cities-agents-urban-operations
 https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing
@@ -161,6 +164,7 @@ https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs
 https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates
 https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event
 https://blogs.nvidia.com/blog/memory-full-stack-codesign
+https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin
 https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx
 https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize
 https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk
@@ -170,6 +174,7 @@ https://blogs.nvidia.com/blog/open-models-europe-industry
 https://blogs.nvidia.com/blog/open-secure-ai-alliance
 https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia
 https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl
+https://blogs.nvidia.com/blog/rubin-hpc
 https://blogs.nvidia.com/blog/telecom-operators-open-models
 https://blogs.nvidia.com/blog/vera-cpu-delivery
 https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents
@@ -385,6 +390,7 @@ https://huggingface.co/blog/omlx
 https://huggingface.co/blog/open-asr-leaderboard-global-south
 https://huggingface.co/blog/open-asr-leaderboard-liva
 https://huggingface.co/blog/open-tts-leaderboard
+https://huggingface.co/blog/openrouter
 https://huggingface.co/blog/phonon-tts
 https://huggingface.co/blog/qvac/botpsy
 https://huggingface.co/blog/real-world-voiceeq
@@ -474,6 +480,7 @@ https://openai.com/academy/getting-started
 https://openai.com/ads/customers/flipsnack
 https://openai.com/business/customer-stories/amplitude
 https://openai.com/business/customer-stories/gondola
+https://openai.com/business/customer-stories/holiday-extras-dots
 https://openai.com/business/customer-stories/holidays-extras-codex
 https://openai.com/business/customer-stories/shield
 https://openai.com/form/codex-originals
@@ -482,6 +489,7 @@ https://openai.com/index/a-scorecard-for-the-ai-age
 https://openai.com/index/a-thousand-fewer-paths-to-root
 https://openai.com/index/accelerating-engineering-for-the-physical-world
 https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
+https://openai.com/index/advancing-computer-use-for-healthcare-teams
 https://openai.com/index/advancing-computer-use-with-ironclad
 https://openai.com/index/advancing-responsible-ai-across-europe
 https://openai.com/index/advancing-the-next-era-of-national-science
@@ -565,6 +573,7 @@ https://openai.com/index/empowering-cyber-defenders
 https://openai.com/index/eu-text-provenance
 https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads
 https://openai.com/index/expanding-ai-access-us-government
+https://openai.com/index/expanding-chatgpt-for-academic-researchers
 https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows
 https://openai.com/index/expanding-openai-academy-with-new-learning-paths
 https://openai.com/index/expanding-our-presence-in-brazil
@@ -648,11 +657,13 @@ https://openai.com/index/lenfest-ai-collaborative-expansion
 https://openai.com/index/lifeval
 https://openai.com/index/loveholidays
 https://openai.com/index/low-resource-programming-languages
+https://openai.com/index/lvmh-media-division-partnership
 https://openai.com/index/managing-ai-investments-in-agentic-era
 https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science
 https://openai.com/index/merge-builds-with-openai
 https://openai.com/index/model-misalignment-reporting-framework
 https://openai.com/index/model-ml
+https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare
 https://openai.com/index/navier-stokes-solution
 https://openai.com/index/new-chatgpt-ads-format-and-measurement
 https://openai.com/index/new-policy-ideas-for-the-intelligence-age
@@ -674,6 +685,7 @@ https://openai.com/index/openai-to-acquire-pierre
 https://openai.com/index/oracle
 https://openai.com/index/oracle-apps-in-chatgpt
 https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
+https://openai.com/index/our-first-phase-of-embedded-assessments
 https://openai.com/index/our-new-blog-for-science
 https://openai.com/index/pacing-model-development-cyber-capabilities
 https://openai.com/index/parallel-cuts-time-and-cost-with-astra
@@ -713,6 +725,7 @@ https://openai.com/index/scaling-ai-research-for-complex-biological-data
 https://openai.com/index/scaling-git-at-openai
 https://openai.com/index/scaling-storage-one-billion-users-part-one
 https://openai.com/index/scaling-storage-one-billion-users-part-two
+https://openai.com/index/science-at-the-frontier
 https://openai.com/index/scientific-computing-agentic-ai
 https://openai.com/index/securing-our-frontier-model-training-environment
 https://openai.com/index/sentinelone
@@ -724,6 +737,7 @@ https://openai.com/index/stack-overflow-chatgpt-plugin
 https://openai.com/index/stampli
 https://openai.com/index/step-toward-defining-the-standard-model
 https://openai.com/index/strengthening-democratic-oversight-in-national-security
+https://openai.com/index/strengthening-online-child-safety
 https://openai.com/index/sullivan-cromwell
 https://openai.com/index/supporting-independent-journalism-in-ukraine
 https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms
@@ -741,6 +755,7 @@ https://openai.com/index/the-eternal-complement
 https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic
 https://openai.com/index/the-full-stack-behind-abundant-intelligence
 https://openai.com/index/the-future-of-the-firm
+https://openai.com/index/the-kings-trust-and-openai
 https://openai.com/index/the-work-now-within-reach
 https://openai.com/index/third-moment-research
 https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
