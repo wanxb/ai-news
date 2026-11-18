@@ -68,6 +68,7 @@ https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemi
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon
+https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research
 https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones
 https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions
 https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop
@@ -86,6 +87,7 @@ https://blog.google/innovation-and-ai/models-and-research/google-research/projec
 https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai
 https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing
 https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/
+https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features
 https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people
 https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026
 https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language
@@ -506,6 +508,7 @@ https://openai.com/index/apple-is-getting-this-wrong
 https://openai.com/index/asana
 https://openai.com/index/asana-browser-agent
 https://openai.com/index/astra-for-law
+https://openai.com/index/astra-law-6-2
 https://openai.com/index/atlassian-partnership
 https://openai.com/index/att-legal
 https://openai.com/index/atv-big-air-tour
@@ -624,6 +627,7 @@ https://openai.com/index/introducing-admin-plugin
 https://openai.com/index/introducing-ai-futures
 https://openai.com/index/introducing-businesses-chatgpt
 https://openai.com/index/introducing-chatgpt-financial-services
+https://openai.com/index/introducing-chatgpt-for-sales
 https://openai.com/index/introducing-chatgpt-images-2-5
 https://openai.com/index/introducing-chatgpt-small-business-program
 https://openai.com/index/introducing-chatgpt-wallet
@@ -631,12 +635,14 @@ https://openai.com/index/introducing-dots
 https://openai.com/index/introducing-genebench-pro
 https://openai.com/index/introducing-gpt-6-1-sol
 https://openai.com/index/introducing-gpt-6-1-terra
+https://openai.com/index/introducing-gpt-6-2-astra-sol
 https://openai.com/index/introducing-gpt-6-cyber
 https://openai.com/index/introducing-gpt-6-sol-and-luna
 https://openai.com/index/introducing-gpt-live
 https://openai.com/index/introducing-gpt-live-1-in-the-api
 https://openai.com/index/introducing-images-2-6
 https://openai.com/index/introducing-mentalhealthbench
+https://openai.com/index/introducing-openai-for-chile
 https://openai.com/index/introducing-openai-presence
 https://openai.com/index/introducing-the-agents-api
 https://openai.com/index/introducing-the-rosalind-academic-plan
@@ -737,6 +743,7 @@ https://openai.com/index/stack-overflow-chatgpt-plugin
 https://openai.com/index/stampli
 https://openai.com/index/step-toward-defining-the-standard-model
 https://openai.com/index/strengthening-democratic-oversight-in-national-security
+https://openai.com/index/strengthening-nato-allied-cyber-defences-ai
 https://openai.com/index/strengthening-online-child-safety
 https://openai.com/index/sullivan-cromwell
 https://openai.com/index/supporting-independent-journalism-in-ukraine
@@ -919,6 +926,7 @@ https://x.ai/news/grok-4-fast
 https://x.ai/news/grok-amazon-bedrock
 https://x.ai/news/grok-automations
 https://x.ai/news/grok-bot-1-0
+https://x.ai/news/grok-bot-accounting
 https://x.ai/news/grok-bot-and-x
 https://x.ai/news/grok-bot-customer-support
 https://x.ai/news/grok-bot-for-enterprise
