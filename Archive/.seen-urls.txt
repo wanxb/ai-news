@@ -75,6 +75,7 @@ https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop
 https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study
 https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations
 https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai
+https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership
 https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies
 https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights
 https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper
@@ -94,6 +95,7 @@ https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2
 https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language
 https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact
 https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch
+https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson
 https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench
 https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026
 https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026
@@ -108,6 +110,7 @@ https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026
 https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/
 https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api
 https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks
+https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval
 https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api
 https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash
 https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026
@@ -494,6 +497,10 @@ https://openai.com/business/customer-stories/holiday-extras-dots
 https://openai.com/business/customer-stories/holidays-extras-codex
 https://openai.com/business/customer-stories/shield
 https://openai.com/business/customer-stories/sumitomo-life
+https://openai.com/business/learn/codex-security-plugin-demo
+https://openai.com/business/learn/daybreak-blue-onboarding-demo
+https://openai.com/business/learn/deploying-daybreak-red
+https://openai.com/business/learn/pr-scans-demo
 https://openai.com/form/codex-originals
 https://openai.com/index/1password
 https://openai.com/index/a-scorecard-for-the-ai-age
@@ -623,6 +630,7 @@ https://openai.com/index/how-ai-is-expanding-what-people-do-at-work
 https://openai.com/index/how-chatgpt-adoption-has-expanded
 https://openai.com/index/how-enterprises-put-ai-to-work
 https://openai.com/index/how-news-organizations-are-using-ai
+https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast
 https://openai.com/index/how-the-world-is-putting-chatgpt-to-work
 https://openai.com/index/how-to-connect-ai-usage-to-business-value
 https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores
