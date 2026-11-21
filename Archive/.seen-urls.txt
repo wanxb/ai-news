@@ -63,6 +63,7 @@ https://blog.google/company-news/inside-google/around-the-globe/google-europe/un
 https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration
 https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu
 https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026
+https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool
 https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia
 https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/
@@ -348,6 +349,7 @@ https://huggingface.co/blog/ggml-org/llama-cpp-v1
 https://huggingface.co/blog/grabette
 https://huggingface.co/blog/gradio-workflow-1111
 https://huggingface.co/blog/gradio-workflow-guide
+https://huggingface.co/blog/harness-adapters-at-scale
 https://huggingface.co/blog/hf-torchneuron
 https://huggingface.co/blog/hf-torchtpu
 https://huggingface.co/blog/hub-gcp-marketplace
@@ -368,6 +370,7 @@ https://huggingface.co/blog/ibm-research/real-time-intelligence
 https://huggingface.co/blog/ibm-research/scarfbench
 https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse
 https://huggingface.co/blog/icml-2026-open-reproductions
+https://huggingface.co/blog/inkling2mini
 https://huggingface.co/blog/lerobot-release-v060
 https://huggingface.co/blog/meta-muse-spark-open
 https://huggingface.co/blog/microsoft/foundry-managed-compute
@@ -493,6 +496,7 @@ https://openai.com/academy/getting-started
 https://openai.com/ads/customers/flipsnack
 https://openai.com/business/customer-stories/amplitude
 https://openai.com/business/customer-stories/gondola
+https://openai.com/business/customer-stories/hebbia
 https://openai.com/business/customer-stories/holiday-extras-dots
 https://openai.com/business/customer-stories/holidays-extras-codex
 https://openai.com/business/customer-stories/shield
@@ -567,6 +571,7 @@ https://openai.com/index/coderabbit-codex-daybreak
 https://openai.com/index/codex-maxxing-long-running-work/
 https://openai.com/index/codex-quantum-computing-experiments
 https://openai.com/index/cognition-devin-testing-with-astra
+https://openai.com/index/combatting-adversarial-distillation
 https://openai.com/index/community-safety-report-and-new-protections-for-teens
 https://openai.com/index/continuous-voice-interaction-with-gpt-live
 https://openai.com/index/control-room
@@ -660,6 +665,7 @@ https://openai.com/index/introducing-gpt-6-sol-and-luna
 https://openai.com/index/introducing-gpt-live
 https://openai.com/index/introducing-gpt-live-1-in-the-api
 https://openai.com/index/introducing-images-2-6
+https://openai.com/index/introducing-medchembench
 https://openai.com/index/introducing-mentalhealthbench
 https://openai.com/index/introducing-openai-for-chile
 https://openai.com/index/introducing-openai-presence
@@ -853,6 +859,7 @@ https://www.anthropic.com/news/improving-alignment-security-efforts
 https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards
 https://www.anthropic.com/news/introducing-claude-tag
 https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
+https://www.anthropic.com/news/ipo-close
 https://www.anthropic.com/news/life-sciences-verification-program
 https://www.anthropic.com/news/model-hardware-standard-research-preview
 https://www.anthropic.com/news/open-call-guest-investigators-life-sciences
