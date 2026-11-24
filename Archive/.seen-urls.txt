@@ -30,6 +30,7 @@ https://api-docs.deepseek.com/zh-cn/faq
 https://api-docs.deepseek.com/zh-cn/guides/anthropic_api
 https://api-docs.deepseek.com/zh-cn/guides/build_a_chatbot
 https://api-docs.deepseek.com/zh-cn/guides/build_a_chatbot#demo
+https://api-docs.deepseek.com/zh-cn/guides/build_a_chatbot/#demo
 https://api-docs.deepseek.com/zh-cn/guides/chat_prefix_completion
 https://api-docs.deepseek.com/zh-cn/guides/files_api
 https://api-docs.deepseek.com/zh-cn/guides/fim_completion
@@ -41,6 +42,7 @@ https://api-docs.deepseek.com/zh-cn/guides/thinking_mode
 https://api-docs.deepseek.com/zh-cn/guides/tool_calls
 https://api-docs.deepseek.com/zh-cn/guides/vision
 https://api-docs.deepseek.com/zh-cn/guides/web_tools#search-while-thinking
+https://api-docs.deepseek.com/zh-cn/guides/web_tools/#search-while-thinking
 https://api-docs.deepseek.com/zh-cn/news/news0725
 https://api-docs.deepseek.com/zh-cn/news/news0802
 https://api-docs.deepseek.com/zh-cn/news/news1226
@@ -140,6 +142,7 @@ https://blog.google/products-and-platforms/products/search/dinner-party-hosting-
 https://blog.google/products-and-platforms/products/search/football-features-google-search
 https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade
 https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary
+https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps
 https://blog.google/products-and-platforms/products/search/home-decor-tips
 https://blog.google/products-and-platforms/products/search/running-race-training-tips
 https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars
@@ -199,6 +202,7 @@ https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types
 https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely
 https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model
 https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi
+https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification
 https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games
 https://deepmind.google/blog/gemini-4-argon-for-robotics
 https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence
@@ -313,6 +317,7 @@ https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom
 https://huggingface.co/blog/Photoroom/prx-part4-data
 https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin
 https://huggingface.co/blog/ServiceNow-AI/autosynthdata
+https://huggingface.co/blog/agentic-evals
 https://huggingface.co/blog/allenai/astabrief
 https://huggingface.co/blog/allenai/benchmirt
 https://huggingface.co/blog/allenai/fairstress
@@ -324,6 +329,7 @@ https://huggingface.co/blog/allenai/olmocore3
 https://huggingface.co/blog/allenai/olmoearth-embeddings
 https://huggingface.co/blog/allenai/olmoearth-infrastructure
 https://huggingface.co/blog/allenai/olmoearth-v1-3
+https://huggingface.co/blog/allenai/robotrack
 https://huggingface.co/blog/allenai/shippy-tech-blog
 https://huggingface.co/blog/allenai/statebench
 https://huggingface.co/blog/allenai/toyblocks
@@ -499,9 +505,11 @@ https://openai.com/business/customer-stories/gondola
 https://openai.com/business/customer-stories/hebbia
 https://openai.com/business/customer-stories/holiday-extras-dots
 https://openai.com/business/customer-stories/holidays-extras-codex
+https://openai.com/business/customer-stories/richpanel-ai-customer-support
 https://openai.com/business/customer-stories/shield
 https://openai.com/business/customer-stories/sumitomo-life
 https://openai.com/business/learn/codex-security-plugin-demo
+https://openai.com/business/learn/connected-intelligence-for-in-house-legal
 https://openai.com/business/learn/daybreak-blue-onboarding-demo
 https://openai.com/business/learn/deploying-daybreak-red
 https://openai.com/business/learn/pr-scans-demo
@@ -669,6 +677,7 @@ https://openai.com/index/introducing-medchembench
 https://openai.com/index/introducing-mentalhealthbench
 https://openai.com/index/introducing-openai-for-chile
 https://openai.com/index/introducing-openai-presence
+https://openai.com/index/introducing-shirudo
 https://openai.com/index/introducing-the-agents-api
 https://openai.com/index/introducing-the-rosalind-academic-plan
 https://openai.com/index/invideo-builds-with-gpt-6-astra
@@ -814,8 +823,11 @@ https://platform.deepseek.com/api_keys
 https://platform.minimax.io/activity/contact-us-en
 https://platform.minimax.io/console/home
 https://platform.minimax.io/contact-us
+https://platform.minimax.io/docs/guides/models-intro
 https://platform.minimax.io/docs/guides/music-generation
+https://platform.minimax.io/docs/pricing/overview
 https://status.deepseek.com
+https://status.minimax.io
 https://twitter.com/deepseek_ai
 https://www.anthropic.com/news/2026-us-midterms
 https://www.anthropic.com/news/2026-usage-policy-update
@@ -890,6 +902,7 @@ https://www.minimax.io/blog/minimax-h3
 https://www.minimax.io/blog/minimax-h3-image
 https://www.minimax.io/blog/minimax-m31f
 https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model
+https://www.minimax.io/careers
 https://www.minimax.io/m-plan
 https://www.minimax.io/models/text
 https://www.minimax.io/models/text/m27
