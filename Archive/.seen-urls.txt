@@ -132,6 +132,7 @@ https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-202
 https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices
 https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks
 https://blog.google/products-and-platforms/products/education/nyc-ai-summit
+https://blog.google/products-and-platforms/products/gemini/gemini-golden-state
 https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships
 https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026
 https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips
@@ -397,6 +398,7 @@ https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp
 https://huggingface.co/blog/nvidia/kumo-relational
 https://huggingface.co/blog/nvidia/kumo-tabular
 https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents
+https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance
 https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb
 https://huggingface.co/blog/nvidia/nemotron-halloween
 https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026
@@ -501,10 +503,13 @@ https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
 https://openai.com/academy/getting-started
 https://openai.com/ads/customers/flipsnack
 https://openai.com/business/customer-stories/amplitude
+https://openai.com/business/customer-stories/clay-plugins-openai
 https://openai.com/business/customer-stories/gondola
 https://openai.com/business/customer-stories/hebbia
 https://openai.com/business/customer-stories/holiday-extras-dots
 https://openai.com/business/customer-stories/holidays-extras-codex
+https://openai.com/business/customer-stories/ifood
+https://openai.com/business/customer-stories/intentful-dots
 https://openai.com/business/customer-stories/richpanel-ai-customer-support
 https://openai.com/business/customer-stories/shield
 https://openai.com/business/customer-stories/sumitomo-life
@@ -626,6 +631,7 @@ https://openai.com/index/gpt-5-immunology-mystery/
 https://openai.com/index/gpt-6-1-sol-coderabbit-code-security
 https://openai.com/index/gpt-6-astra-next-generation-work
 https://openai.com/index/gpt-6-for-everyone
+https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities
 https://openai.com/index/grab-openai-ai-skills-southeast-asia
 https://openai.com/index/greptile-code-review-codex-astra
 https://openai.com/index/grid-protectors-program
@@ -771,6 +777,7 @@ https://openai.com/index/scaling-storage-one-billion-users-part-one
 https://openai.com/index/scaling-storage-one-billion-users-part-two
 https://openai.com/index/science-at-the-frontier
 https://openai.com/index/scientific-computing-agentic-ai
+https://openai.com/index/searching-for-distant-planets-with-astra
 https://openai.com/index/securing-our-frontier-model-training-environment
 https://openai.com/index/sentinelone
 https://openai.com/index/separating-signal-from-noise-coding-evaluations
