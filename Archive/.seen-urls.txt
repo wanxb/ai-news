@@ -335,6 +335,7 @@ https://huggingface.co/blog/allenai/shippy-tech-blog
 https://huggingface.co/blog/allenai/statebench
 https://huggingface.co/blog/allenai/toyblocks
 https://huggingface.co/blog/allenai/tutormoments
+https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents
 https://huggingface.co/blog/allenai/xybench
 https://huggingface.co/blog/amazon/higher-order-pruning-experts
 https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
@@ -369,6 +370,7 @@ https://huggingface.co/blog/ibm-research/altk-evolve-bc
 https://huggingface.co/blog/ibm-research/altk-evolve-consistency
 https://huggingface.co/blog/ibm-research/altk-evolve-hmm
 https://huggingface.co/blog/ibm-research/altk-evolve-sldd
+https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga
 https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1
 https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series
 https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt
@@ -377,6 +379,7 @@ https://huggingface.co/blog/ibm-research/real-time-intelligence
 https://huggingface.co/blog/ibm-research/scarfbench
 https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse
 https://huggingface.co/blog/icml-2026-open-reproductions
+https://huggingface.co/blog/inkling-2-mini-inference-hillclimb
 https://huggingface.co/blog/inkling2mini
 https://huggingface.co/blog/lerobot-release-v060
 https://huggingface.co/blog/meta-muse-spark-open
