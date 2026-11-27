@@ -277,6 +277,7 @@ https://docs.bigmodel.cn/cn/guide/models/vlm/glm-ocr
 https://docs.bigmodel.cn/cn/guide/start/introduction
 https://docs.bigmodel.cn/cn/guide/tools/web-search
 https://docs.bigmodel.cn/cn/managed-agents/overview
+https://docs.bigmodel.cn/cn/terms/account-service
 https://docs.bigmodel.cn/cn/terms/entity-change-agreement
 https://docs.bigmodel.cn/cn/terms/model-commercial-use
 https://docs.bigmodel.cn/cn/terms/principle
@@ -354,6 +355,7 @@ https://huggingface.co/blog/eee-community-evals
 https://huggingface.co/blog/evaleval-aisi
 https://huggingface.co/blog/flux-3
 https://huggingface.co/blog/ggml-org/llama-cpp-v1
+https://huggingface.co/blog/ggml-org/llamacpp-amd-bench
 https://huggingface.co/blog/grabette
 https://huggingface.co/blog/gradio-workflow-1111
 https://huggingface.co/blog/gradio-workflow-guide
@@ -393,6 +395,7 @@ https://huggingface.co/blog/multi-vector-encoder
 https://huggingface.co/blog/muse-glimmer
 https://huggingface.co/blog/native-speed-vllm-transformers-backend
 https://huggingface.co/blog/nunchaku-diffusers
+https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin
 https://huggingface.co/blog/nvidia/cosmos-h-dreams
 https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation
 https://huggingface.co/blog/nvidia/cosmos3-h-dreams
@@ -433,6 +436,7 @@ https://huggingface.co/blog/tokenizers-v1
 https://huggingface.co/blog/torch-attention-profile
 https://huggingface.co/blog/torch-neuronx-model-support
 https://huggingface.co/blog/train-multi-vector-encoder
+https://huggingface.co/blog/training-swarms
 https://huggingface.co/blog/transformers-llama-cpp-quants
 https://huggingface.co/blog/transformers-mic
 https://huggingface.co/blog/webgpu-kernels
