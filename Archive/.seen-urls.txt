@@ -250,6 +250,7 @@ https://docs.bigmodel.cn/cn/coding-plan/team
 https://docs.bigmodel.cn/cn/guide/models/free/glm-4-flash-250414
 https://docs.bigmodel.cn/cn/guide/models/free/glm-4.7-flash
 https://docs.bigmodel.cn/cn/guide/models/free/glm-z1-flash
+https://docs.bigmodel.cn/cn/guide/models/glm-5.4
 https://docs.bigmodel.cn/cn/guide/models/sound-and-video/glm-asr
 https://docs.bigmodel.cn/cn/guide/models/sound-and-video/glm-asr-2512
 https://docs.bigmodel.cn/cn/guide/models/sound-and-video/glm-tts
@@ -281,6 +282,7 @@ https://docs.bigmodel.cn/cn/terms/account-service
 https://docs.bigmodel.cn/cn/terms/entity-change-agreement
 https://docs.bigmodel.cn/cn/terms/model-commercial-use
 https://docs.bigmodel.cn/cn/terms/principle
+https://docs.bigmodel.cn/cn/terms/privacy-policy
 https://docs.bigmodel.cn/cn/terms/security-risk-notice
 https://docs.bigmodel.cn/cn/terms/subscription-agreement
 https://docs.bigmodel.cn/cn/terms/subscription-agreement-team
@@ -439,6 +441,7 @@ https://huggingface.co/blog/train-multi-vector-encoder
 https://huggingface.co/blog/training-swarms
 https://huggingface.co/blog/transformers-llama-cpp-quants
 https://huggingface.co/blog/transformers-mic
+https://huggingface.co/blog/video-trainium3
 https://huggingface.co/blog/webgpu-kernels
 https://ir.minimax.io
 https://kimi-k2.org/zh/blog/01-technical-breakthrough
